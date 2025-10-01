@@ -146,6 +146,8 @@ def summarize_kallisto(tsv, mode):
         ]       
 
     filtered_kallisto = kallisto[kallisto.target_id.isin(cols)].copy()
+    filtered_kallisto.sort_values('sample', inplace=True)
+
     data = filtered_kallisto.pivot_table(index="target_id", columns="sample", values="est_counts", sort=False)
 
     data_norm = data / data.max()
