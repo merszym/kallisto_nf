@@ -52,6 +52,8 @@ ch_for_kallisto = ch_split_fastq.combine(ch_database)
 
 KALLISTO_QUANT(ch_for_kallisto)
 
+ch_versions = ch_versions.mix(KALLISTO_QUANT.out.versions.first())
+
 ch_tsv = KALLISTO_QUANT.out.tsv
 ch_tsv.map{ meta, tsv -> 
     def abundance = tsv.splitCsv(sep:'\t', header:true) // first because the splitCsv results in [[key:value]]
@@ -81,5 +83,6 @@ ch_summary.collectFile(name:'kallisto_summary.tsv', storeDir:'.' )
 
 SUMMARIZE_KALLISTO(ch_summary.collectFile(name:'kallisto_summary.tsv'))
 
+ch_versions.unique().collectFile(name: 'pipeline_versions.yml', storeDir:".")
 }
 

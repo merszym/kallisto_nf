@@ -11,7 +11,7 @@ singularity
 ## Usage
 
 ```
-nextflow run merszym/kallisto_nf --split INPUT-DIR
+nextflow run merszym/kallisto_nf -r v0.1 --split INPUT-DIR
 ```
 
 INPUT-DIR is a directory containing BAM-files (e.g. unique or deaminated sequences, mapped to the human mtDNA reference genome)
