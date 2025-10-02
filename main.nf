@@ -8,6 +8,7 @@ include { SUMMARIZE_KALLISTO } from './modules/local/summarize'
 
 ch_split     = Channel.fromPath("${params.split}/*"  ,checkIfExists:true) // input-data
 ch_database  = Channel.fromPath("${params.database}" ,checkIfExists:true) // kallisto-index
+ch_labels    = Channel.fromPath("${params.labels}"   ,checkIfExists:true) // a tsv-file for ordering the kallisto indices 
 ch_versions = Channel.empty()
 
 // some required functions
@@ -81,7 +82,7 @@ ch_summary.collectFile(name:'kallisto_summary.tsv', storeDir:'.' )
 // 2. Create Kallisto-Plots and sheets
 //
 
-SUMMARIZE_KALLISTO(ch_summary.collectFile(name:'kallisto_summary.tsv'))
+SUMMARIZE_KALLISTO(ch_summary.collectFile(name:'kallisto_summary.tsv'), ch_labels)
 
 ch_versions.unique().collectFile(name: 'pipeline_versions.yml', storeDir:".")
 }

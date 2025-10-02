@@ -4,14 +4,15 @@ process SUMMARIZE_KALLISTO{
     label 'local'
 
     input:
-    val(tsv)
+    path(tsv)
+    path(labels)
 
     output:
     path("*")
 
     script:
     """
-    postprocessing.py ${tsv}
-    postprocessing.py ${tsv} archaics
+    postprocessing.py ${tsv} ${labels}
+    postprocessing.py ${tsv} ${labels} archaics
     """
 }
