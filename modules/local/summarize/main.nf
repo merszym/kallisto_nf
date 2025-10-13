@@ -13,6 +13,5 @@ process SUMMARIZE_KALLISTO{
     script:
     """
     postprocessing.py ${tsv} ${labels}
-    postprocessing.py ${tsv} ${labels} archaics
     """
 }
