@@ -44,3 +44,7 @@ INPUT-DIR is a directory containing BAM- or FASTQ-files (e.g. unique or deaminat
 ### Hominidae
 
 Use the `-profile Hominidae` flag to use the included human mtDNA reference panel as used by Zavala et al. 2021 and Vernot et al. 2021. See the content of the reference panel in the [Labels](assets/Hominidae/labels.tsv). 
+
+### Hyaenidae
+
+Use the `-profile Hyaenidae` flag to use the included hyaenidae mtDNA reference panel. See the content of the reference panel in the [Labels](assets/Hyaenidae/labels.tsv).
