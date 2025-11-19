@@ -53,5 +53,5 @@ Use the `-profile Hyaenidae` flag to use the included hyaenidae mtDNA reference 
 
 Kallisto index was created with 
 ```
-singularity exec https://depot.galaxyproject.org/singularity/kallisto:0.44.0--h7d86c95_2 kallisto index -i=GROUP_k21.idx-k=21 GENOMES.fa
+singularity exec https://depot.galaxyproject.org/singularity/kallisto:0.44.0--h7d86c95_2 kallisto index -k 21 -i GROUP_k21.idx GENOMES.fa
 ```
