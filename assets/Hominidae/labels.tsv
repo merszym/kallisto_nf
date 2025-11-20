@@ -1,96 +1,96 @@
-Name	Label	Reference
-rCRS_NC_012920	NC012920 | rCRS
-AF346999	AF346999 | Mbuti
-AF347008	AF347008 | San
-AF346995	AF346995 | Mandenka
-AF346977	AF346977 | Effik
-AF381988	AF381988 | Morocco-L1a
-AY195766	AY195766 | L2b
-AF381981	AF381981 | L2
-AF347014	AF347014 | Yoruba
-AF347015	AF347015 | Yoruba
-AF381998	AF381998 | Jordan-L3d
-AY289097	AY289097 | TaiwaneseIndian
-AY289082	AY289082 | NG-Q1
-AY289085	AY289085 | NG-Q1
-DQ137410	DQ137410 | NG-M27a
-DQ137411	DQ137411 | NG-M27a
-AY195759	AY195759 | America-Na4C
-AY950293	AY950293 | Onge-M31
-AY950300	AY950300 | Andaman-M31
-AF346973	AF346973 | China-F4a1b1
-AF381996	AF381996 | Jordan-M12
-AF381997	AF381997 | Jordan-R1
-AF381984	AF381984 | Afr-M11
-AF347010	AF347010 | Inuit-D2a1b1
-AY963573	AY963573 | China-D4b2b
-AF346990	AF346990 | Japan-D4a1
-AY195748	AY195748 | America-Na2D
-AF346966	AF346966 | India-G3b1
-AY289059	AY289059 | Australia-O
-AY195756	AY195756 | N1b
-AF381999	AF381999 | Jordan-N1b
-AY882393	AY882393 | Italy-U8b
-AY882380	AY882380 | Pakistan-U2b
-AY195754	AY195754 | J1
-AY195774	AY195774 | J
-AY963586	AY963586 | Italy-I3a
-AY882382	AY882382 | Italy-U2e
-AY963572	AY963572 | Cambodia-F1a1
-AY195787	AY195787 | America-Na3X
-AY195773	AY195773 | Europe-X
-AF382000	AF382000 | Jordan-U2
-AY882392	AY882392 | Spain-U8a
-AY882391	AY882391 | Pakistan-U7
-AY882412	AY882412 | Berber-U5b1d
-AY882403	AY882403 | Saami-U5b1b
-AY882388	AY882388 | Adygei-U4b
-AY882386	AY882386 | Spain-U4a
-AY289094	AY289094 | Samoan
-AY289101	AY289101 | Thai
-AY882389	AY882389 | Ethiopia-U9a
-AY882390	AY882390 | Pakistan-U9b
-AY882416	AY882416 | Ethiopia-U6a
-AY195757	AY195757 | H
-AF346975	AF346975 | Dutch
-AF346981	AF346981 | French
-Ust_Ishim	PRJEB6622 | Ust Ishim
-BS11	KC521454 | Boshan 11
-Loschbour	KC521455 | Loschbour
-Tianyuan	KC417443 | Tianyuan
-Kostenki14	FN600416 | Kostenki 14
-Iceman	EU810403 | Tyrolean Iceman
-Eskimo_Saqqaq	EU725621 | Saqqaq
-Oberkassel998	KC521457 | Oberkassel 998
-DolniVestonice14	KC521458 | Dolni Vestonice 14
-DolniVestonice13	KC521459 | Dolni Vestonice 13
-GoyetQ374a-1	KX198085 | Goyet Q374a-1
-GoyetQ305-7	KX198086 | Goyet Q305-7
-GoyetQ56-1	KX198084 | Goyet Q56-1
-Spy_94a	PRJEB21883 | Spy 94a
-Vindija33.19	KJ533545 | Vindija 33.19
-Vindija33.16	AM948965 | Vindija 33.16
-Vindija33.17	KJ533544 | Vindija 33.17
-GoyetQ57-3	KX198083 | Goyet Q57-3
-GoyetQ57-2	KX198088 | Goyet Q57-2
-Feldhofer1	FM865407 | Feldhofer 1
-Vindija33.25	FM865410 | Vindija 33.25
-GoyetQ305-4	KX198087 | Goyet Q305-4
-Feldhofer2	FM865408 | Feldhofer 2
-Mezmaiskaya2	PRJEB21881 | Mezmaiskaya 2
-ElSidron1253	FM865409 | El Sidron 1253
-Chagyrskaya08	MK388903 | Chagyrskaya 08
-Okladnikov2	KF982693 | Okladnikov 2
-Les_Cottes_Z4-1514	PRJEB21875 | Les Cottes Z4-1514
-DC1227	KU131206 | DC1227 (Denisova 11)
-Mezmaiskaya1	FM865411 | Mezmaiskaya 1
-Denisova15	MK033602 | Denisova 15
-Altai	KC879692 | Altai
-Scladina_I-4A	MK123269 | Scladina I-4A
-HST	KY751400 | Hohenstein Stadel
-Denisova4	FR695060 | Denisova 4
-Denisova3	NC013993 | Denisova 3
-Denisova8	KT780370 | Denisova 8
-Denisova2	KX663333 | Denisova 2
-Sima_de_los_Huesos	NC23100 | Sima de los Huesos
-Chimpanzee	NC001643 | Chimpanzee
+Name	Label	Species	Reference
+rCRS_NC_012920	NC012920 | rCRS	Modern Human	
+AF346999	AF346999 | Mbuti	Modern Human	
+AF347008	AF347008 | San	Modern Human	
+AF346995	AF346995 | Mandenka	Modern Human	
+AF346977	AF346977 | Effik	Modern Human	
+AF381988	AF381988 | Morocco-L1a	Modern Human	
+AY195766	AY195766 | L2b	Modern Human	
+AF381981	AF381981 | L2	Modern Human	
+AF347014	AF347014 | Yoruba	Modern Human	
+AF347015	AF347015 | Yoruba	Modern Human	
+AF381998	AF381998 | Jordan-L3d	Modern Human	
+AY289097	AY289097 | TaiwaneseIndian	Modern Human	
+AY289082	AY289082 | NG-Q1	Modern Human	
+AY289085	AY289085 | NG-Q1	Modern Human	
+DQ137410	DQ137410 | NG-M27a	Modern Human	
+DQ137411	DQ137411 | NG-M27a	Modern Human	
+AY195759	AY195759 | America-Na4C	Modern Human	
+AY950293	AY950293 | Onge-M31	Modern Human	
+AY950300	AY950300 | Andaman-M31	Modern Human	
+AF346973	AF346973 | China-F4a1b1	Modern Human	
+AF381996	AF381996 | Jordan-M12	Modern Human	
+AF381997	AF381997 | Jordan-R1	Modern Human	
+AF381984	AF381984 | Afr-M11	Modern Human	
+AF347010	AF347010 | Inuit-D2a1b1	Modern Human	
+AY963573	AY963573 | China-D4b2b	Modern Human	
+AF346990	AF346990 | Japan-D4a1	Modern Human	
+AY195748	AY195748 | America-Na2D	Modern Human	
+AF346966	AF346966 | India-G3b1	Modern Human	
+AY289059	AY289059 | Australia-O	Modern Human	
+AY195756	AY195756 | N1b	Modern Human	
+AF381999	AF381999 | Jordan-N1b	Modern Human	
+AY882393	AY882393 | Italy-U8b	Modern Human	
+AY882380	AY882380 | Pakistan-U2b	Modern Human	
+AY195754	AY195754 | J1	Modern Human	
+AY195774	AY195774 | J	Modern Human	
+AY963586	AY963586 | Italy-I3a	Modern Human	
+AY882382	AY882382 | Italy-U2e	Modern Human	
+AY963572	AY963572 | Cambodia-F1a1	Modern Human	
+AY195787	AY195787 | America-Na3X	Modern Human	
+AY195773	AY195773 | Europe-X	Modern Human	
+AF382000	AF382000 | Jordan-U2	Modern Human	
+AY882392	AY882392 | Spain-U8a	Modern Human	
+AY882391	AY882391 | Pakistan-U7	Modern Human	
+AY882412	AY882412 | Berber-U5b1d	Modern Human	
+AY882403	AY882403 | Saami-U5b1b	Modern Human	
+AY882388	AY882388 | Adygei-U4b	Modern Human	
+AY882386	AY882386 | Spain-U4a	Modern Human	
+AY289094	AY289094 | Samoan	Modern Human	
+AY289101	AY289101 | Thai	Modern Human	
+AY882389	AY882389 | Ethiopia-U9a	Modern Human	
+AY882390	AY882390 | Pakistan-U9b	Modern Human	
+AY882416	AY882416 | Ethiopia-U6a	Modern Human	
+AY195757	AY195757 | H	Modern Human	
+AF346975	AF346975 | Dutch	Modern Human	
+AF346981	AF346981 | French	Modern Human	
+Ust_Ishim	PRJEB6622 | Ust Ishim	Modern Human	
+BS11	KC521454 | Boshan 11	Modern Human	
+Loschbour	KC521455 | Loschbour	Modern Human	
+Tianyuan	KC417443 | Tianyuan	Modern Human	
+Kostenki14	FN600416 | Kostenki 14	Modern Human	
+Iceman	EU810403 | Tyrolean Iceman	Modern Human	
+Eskimo_Saqqaq	EU725621 | Saqqaq	Modern Human	
+Oberkassel998	KC521457 | Oberkassel 998	Modern Human	
+DolniVestonice14	KC521458 | Dolni Vestonice 14	Modern Human	
+DolniVestonice13	KC521459 | Dolni Vestonice 13	Modern Human	
+GoyetQ374a-1	KX198085 | Goyet Q374a-1	Modern Human	
+GoyetQ305-7	KX198086 | Goyet Q305-7	Modern Human	
+GoyetQ56-1	KX198084 | Goyet Q56-1	Modern Human	
+Spy_94a	PRJEB21883 | Spy 94a	Neanderthal	
+Vindija33.19	KJ533545 | Vindija 33.19	Neanderthal	
+Vindija33.16	AM948965 | Vindija 33.16	Neanderthal	
+Vindija33.17	KJ533544 | Vindija 33.17	Neanderthal	
+GoyetQ57-3	KX198083 | Goyet Q57-3	Neanderthal	
+GoyetQ57-2	KX198088 | Goyet Q57-2	Neanderthal	
+Feldhofer1	FM865407 | Feldhofer 1	Neanderthal	
+Vindija33.25	FM865410 | Vindija 33.25	Neanderthal	
+GoyetQ305-4	KX198087 | Goyet Q305-4	Neanderthal	
+Feldhofer2	FM865408 | Feldhofer 2	Neanderthal	
+Mezmaiskaya2	PRJEB21881 | Mezmaiskaya 2	Neanderthal	
+ElSidron1253	FM865409 | El Sidron 1253	Neanderthal	
+Chagyrskaya08	MK388903 | Chagyrskaya 08	Neanderthal	
+Okladnikov2	KF982693 | Okladnikov 2	Neanderthal	
+Les_Cottes_Z4-1514	PRJEB21875 | Les Cottes Z4-1514	Neanderthal	
+DC1227	KU131206 | DC1227 (Denisova 11)	Neanderthal	
+Mezmaiskaya1	FM865411 | Mezmaiskaya 1	Neanderthal	
+Denisova15	MK033602 | Denisova 15	Neanderthal	
+Altai	KC879692 | Altai	Neanderthal	
+Scladina_I-4A	MK123269 | Scladina I-4A	Neanderthal	
+HST	KY751400 | Hohenstein Stadel	Neanderthal	
+Denisova4	FR695060 | Denisova 4	Denisova	
+Denisova3	NC013993 | Denisova 3	Denisova	
+Denisova8	KT780370 | Denisova 8	Denisova	
+Denisova2	KX663333 | Denisova 2	Denisova	
+Sima_de_los_Huesos	NC23100 | Sima de los Huesos	Sima	
+Chimpanzee	NC001643 | Chimpanzee	Chimp	
