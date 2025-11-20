@@ -100,6 +100,7 @@ def summarize_kallisto(tsv, labels, mode):
     data_norm = data / data.max()
        
     data_sorted = data_norm.reindex(index=cols)
+    mask = data_sorted <= 0.1
 
     fig, axes = plt.subplot_mosaic("A", figsize=(int(len(cols)/5), 5+int(len(data_sorted.columns)/5))) #have a minimum of 5
 
@@ -108,7 +109,8 @@ def summarize_kallisto(tsv, labels, mode):
         square=True,
         cbar=False,
         cmap=sns.light_palette("#225096", as_cmap=True),
-        ax=axes["A"]
+        ax=axes["A"],
+        mask=mask.T  # dont show things below 10%
     )
 
     # Replace x-axis tick labels with 'Label' values
@@ -123,6 +125,11 @@ def summarize_kallisto(tsv, labels, mode):
 
     # Call grouplines on your heatmap
     add_group_lines(g, labels, data_sorted.index)
+
+    for spine in axes["A"].spines.values():
+        spine.set_visible(True)  # Make all spines visible
+        spine.set_linewidth(1)   # Optional: set thickness
+        spine.set_color("black") # Optional: set color
 
     plt.setp(g.get_xticklabels(), rotation=90, ha="left")
     plt.savefig(f"Kallisto_plot_{mode}.svg", dpi=300, transparent=True, bbox_inches="tight")
