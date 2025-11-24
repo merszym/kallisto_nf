@@ -82,7 +82,7 @@ def add_group_lines(axis, labels_df, ordered_names,
             start = i
 
 
-def summarize_kallisto(tsv, labels, mode):
+def summarize_kallisto(tsv, labels, mask_value=25):
 
     kallisto = pd.read_csv(tsv, sep='\t')
     labels = pd.read_csv(labels, sep='\t')
@@ -95,14 +95,20 @@ def summarize_kallisto(tsv, labels, mode):
     filtered_kallisto = kallisto[kallisto.target_id.isin(cols)].copy()
     filtered_kallisto.sort_values('sample', inplace=True)
 
-    data = filtered_kallisto.pivot_table(index="target_id", columns="sample", values="est_counts", sort=False)
+    data = filtered_kallisto.pivot_table(index="target_id", columns=["sample", "n_processed"], values="est_counts", sort=False)
 
     data_norm = data / data.max()
-       
+
     data_sorted = data_norm.reindex(index=cols)
-    mask = data_sorted <= 0.1
+    data_mask = data.reindex(index=cols)
+    mask = data_mask <= mask_value
 
     fig, axes = plt.subplot_mosaic("A", figsize=(int(len(cols)/5), 5+int(len(data_sorted.columns)/5))) #have a minimum of 5
+
+    # shading entire rows in the rotated heatmap
+    #for i, (sample, nproc) in enumerate(data_sorted.columns):
+    #    if nproc < 250:
+    #        axes["A"].axhspan(i, i+1, color="lightcoral", alpha=0.15, zorder=0)
 
     g = sns.heatmap(
         data_sorted.T,
@@ -132,20 +138,19 @@ def summarize_kallisto(tsv, labels, mode):
         spine.set_color("black") # Optional: set color
 
     plt.setp(g.get_xticklabels(), rotation=90, ha="left")
-    plt.savefig(f"Kallisto_plot_{mode}.svg", dpi=300, transparent=True, bbox_inches="tight")
+    plt.savefig(f"Kallisto_plot_m{mask_value}.svg", dpi=300, transparent=True, bbox_inches="tight")
 
-    data_sorted.to_csv(f"final_kallisto_relative_{mode}.tsv", sep='\t')
+    data_sorted.to_csv(f"final_kallisto_relative_m{mask_value}.tsv", sep='\t')
 
 
 if __name__ == '__main__':
 
     file = sys.argv[1]
     labels = sys.argv[2]
-    mode = 'all'
-    try: 
-        if sys.argv[3]=='archaics':
-            mode='archaics'
+    try:
+        mask = int(sys.argv[3])
     except IndexError:
+        mask = 25
         pass
 
-    summarize_kallisto(file, labels, mode)
+    summarize_kallisto(file, labels, mask)

@@ -12,6 +12,6 @@ process SUMMARIZE_KALLISTO{
 
     script:
     """
-    postprocessing.py ${tsv} ${labels}
+    postprocessing.py ${tsv} ${labels} ${params.kallisto_mask}
     """
 }

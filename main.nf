@@ -20,6 +20,8 @@ def has_ending(file, extension){
 // MAIN WORKFLOW
 //
 
+import groovy.json.JsonSlurper
+
 workflow {
 
 // add a first meta
@@ -63,12 +65,29 @@ ch_tsv.map{ meta, tsv ->
         abundance
     ]
 }
-.transpose()
-.map{meta, row -> meta+row }
 .set{ ch_final }
 
+def jsonSlurper = new JsonSlurper()
 
-ch_final.collect()
+KALLISTO_QUANT.out.data.map{ meta, data ->
+    [
+        meta,
+        jsonSlurper.parseText(data[-1].text)
+    ] // compile run_info.json
+}.set{ ch_kallisto_data }
+
+ch_final.combine( ch_kallisto_data, by:0 )
+    .map{meta, rows, json ->
+        [
+            meta + json,
+            rows
+        ]
+    }
+    .transpose()
+    .map{ meta, row -> meta+row }
+    .set{ch_final_combined}
+
+ch_final_combined.collect()
     .map{it -> 
         def header = it[0].keySet().join('\t')
         def lines = it.collect { row -> row.values().join('\t') }

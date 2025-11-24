@@ -49,6 +49,14 @@ Use the `-profile Hominidae` flag to use the included human mtDNA reference pane
 
 Use the `-profile Hyaenidae` flag to use the included hyaenidae mtDNA reference panel. See the content of the reference panel in the [Labels](assets/Hyaenidae/labels.tsv).
 
+### Ursidae
+
+Use the `-profile Ursidae` flag to use the included Ursidae mtDNA reference panel. See the content of the reference panel in the [Labels](assets/Ursidae/labels.tsv).
+
+### Cervidae
+
+Use the `-profile Cervidae` flag to use the included Cervidae mtDNA reference panel. See the content of the reference panel in the [Labels](assets/Cervidae/labels.tsv).
+
 ## Kallisto index
 
 Kallisto index was created with 
