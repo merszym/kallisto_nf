@@ -8,21 +8,21 @@ NC_014703.1	NC_014703.1 | Cervus canadensis songaricus	Cervus canadensis	songari
 NC_039923.1	NC_039923.1 | Cervus canadensis kansuensis	Cervus canadensis	kansuensis				
 KP172593.1	KP172593.1 | Cervus canadensis alashanicus	Cervus canadensis	alashanicus				
 NC_050863.1	NC_050863.1 | Cervus canadensis nannodes	Cervus canadensis	nannodes				
-A50882_SP11517	A50882_SP11517 | Cervus canadensis | 12000 | Russia	Cervus canadensis		SP11517, data not publicly available	12000	Russia	10.1038/s41586-023-06035-2
-A50880_SP11515	A50880_SP11515 | Cervus canadensis | 300 | Russia	Cervus canadensis		SP11515, data not publicly available	300	Russia	10.1038/s41586-023-06035-2
-A50885_SP11521	A50885_SP11521 | Cervus canadensis | 47000 | Russia	Cervus canadensis		SP11521, data not publicly available	47000	Russia	10.1038/s41586-023-06035-2
-A50881_SP11516	A50881_SP11516 | Cervus canadensis | 2000 | Russia	Cervus canadensis		SP11516, data not publicly available	2000	Russia	10.1038/s41586-023-06035-2
+A50882_SP11517	A50882_SP11517 | Cervus canadensis | 12000 | Russia	Cervus canadensis	1	SP11517, data not publicly available	12000	Russia	10.1038/s41586-023-06035-2
+A50880_SP11515	A50880_SP11515 | Cervus canadensis | 300 | Russia	Cervus canadensis	1	SP11515, data not publicly available	300	Russia	10.1038/s41586-023-06035-2
+A50885_SP11521	A50885_SP11521 | Cervus canadensis | 47000 | Russia	Cervus canadensis	1	SP11521, data not publicly available	47000	Russia	10.1038/s41586-023-06035-2
+A50881_SP11516	A50881_SP11516 | Cervus canadensis | 2000 | Russia	Cervus canadensis	1	SP11516, data not publicly available	2000	Russia	10.1038/s41586-023-06035-2
 NC_013836.1	NC_013836.1 | Cervus elaphus xanthopygus	Cervus elaphus	xanthopygus				
 KX449334.1	KX449334.1 | Cervus elaphus macneilli	Cervus elaphus	macneilli				
 KT290948.1	KT290948.1 | Cervus elaphus hippelaphus | Hungary	Cervus elaphus	hippelaphus			Hungary	
-NC_007704.1	NC_007704.1 | Cervus elaphus 	Cervus elaphus					
-MF872239.1	MF872239.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus		LIN-931	38000	Linares, Spain	
-MF872244.1	MF872244.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus		LIN-1008	38000	Linares, Spain	
-MF872238.1	MF872238.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus		LIN-E-400	38000	Linares, Spain	
-MF872243.1	MF872243.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus		LIN-E-399	38000	Linares, Spain	
-MF872249.1	MF872249.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus		LIN-E-508	38000	Linares, Spain	
-MF872247.1	MF872247.1 | Cervus elaphus | 4000 | Denmark	Cervus elaphus		P2/2014	4000	Denmark	
-MF872248.1	MF872248.1 | Cervus elaphus | 9557 | Denmark	Cervus elaphus		P5/2014	9557	Denmark	
+NC_007704.1	NC_007704.1 | Cervus elaphus 	Cervus elaphus	1				
+MF872239.1	MF872239.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus	1	LIN-931	38000	Linares, Spain	
+MF872244.1	MF872244.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus	1	LIN-1008	38000	Linares, Spain	
+MF872238.1	MF872238.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus	1	LIN-E-400	38000	Linares, Spain	
+MF872243.1	MF872243.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus	1	LIN-E-399	38000	Linares, Spain	
+MF872249.1	MF872249.1 | Cervus elaphus | 38000 | Linares, Spain	Cervus elaphus	1	LIN-E-508	38000	Linares, Spain	
+MF872247.1	MF872247.1 | Cervus elaphus | 4000 | Denmark	Cervus elaphus	1	P2/2014	4000	Denmark	
+MF872248.1	MF872248.1 | Cervus elaphus | 9557 | Denmark	Cervus elaphus	1	P5/2014	9557	Denmark	
 NC_013840.1	NC_013840.1 | Cervus hanglu yarkandensis	Cervus hanglu	yarkandensis				
 HM049636.1	HM049636.1 | Cervus albirostris 	Cervus albirostris					
 NC_031835.1	NC_031835.1 | Rusa unicolor 	Rusa unicolor					

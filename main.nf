@@ -67,6 +67,7 @@ ch_tsv.map{ meta, tsv ->
 .map{meta, row -> meta+row }
 .set{ ch_final }
 
+
 ch_final.collect()
     .map{it -> 
         def header = it[0].keySet().join('\t')
