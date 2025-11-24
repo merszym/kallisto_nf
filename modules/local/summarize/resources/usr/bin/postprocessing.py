@@ -101,7 +101,7 @@ def summarize_kallisto(tsv, labels, mask_value=25):
 
     data_sorted = data_norm.reindex(index=cols)
     data_mask = data.reindex(index=cols)
-    mask = data_mask <= mask_value
+    mask = (data_mask <= mask_value) | (data_sorted <= 0.1)
 
     fig, axes = plt.subplot_mosaic("A", figsize=(int(len(cols)/5), 5+int(len(data_sorted.columns)/5))) #have a minimum of 5
 
