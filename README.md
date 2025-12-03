@@ -14,6 +14,21 @@ Given a folder with pre-filtered BAM or FASTQ files (e.g. unique Hominin mtDNA s
 - singularity
 - nextflow v22.10 (or larger)
 
+## Usage
+
+```
+NXF_VER=24.04.4 nextflow run merszym/kallisto_nf --split INPUT-DIR -profile PROFILE
+```
+
+INPUT-DIR is a directory containing BAM- or FASTQ-files (e.g. unique or deaminated sequences, mapped to the human mtDNA reference genome)
+
+**Flags**
+```
+--trim           N       Trim N bases on each end of DNA reads before running kallisto (default: 3)
+--kallisto_mask  N       Mask any assignment lower than N 'est_counts' from the kallisto-plot (default: 25). Decrease for low coverage data
+--outdir         STRING  Custom name for output directory
+
+```
 
 ### Example Output 
 
@@ -22,14 +37,6 @@ The pipeline produces a heat-map showing the relative mtDNA abundance estimates 
 ![](assets/DC_MainChamber.svg)
 
 The example shows the plot for sediment DNA data generated from Denisova Cave and published in Zavala et al. 2021. Human mtDNA sequences were separated from the faunal components using quicksand v2.3. As published, the plot shows the population turnover within the Denisovans and the Neanderthals. Within the modern humans kallisto is less precise (and requires further tests)
-
-## Usage
-
-```
-NXF_VER=24.04.4 nextflow run merszym/kallisto_nf --split INPUT-DIR -profile PROFILE
-```
-
-INPUT-DIR is a directory containing BAM- or FASTQ-files (e.g. unique or deaminated sequences, mapped to the human mtDNA reference genome)
 
 ## Profiles
 

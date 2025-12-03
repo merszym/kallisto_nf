@@ -1,6 +1,7 @@
 // Import modules
 
 include { SAMTOOLS_FASTQ     } from './modules/local/samtools_fastq'
+include { SEQTK_TRIMFQ       } from './modules/local/seqtk_trimfq'
 include { KALLISTO_QUANT     } from './modules/local/kallisto_quant'
 include { SUMMARIZE_KALLISTO } from './modules/local/summarize'
 
@@ -46,12 +47,22 @@ ch_converted_fastq = SAMTOOLS_FASTQ.out.fastq
 
 ch_split_fastq = ch_split.fastq.mix(ch_converted_fastq)
 
+//
+// 0.5 Trim Sequences at the end
+//
+
+SEQTK_TRIMFQ(ch_split_fastq)
+ch_versions = ch_versions.mix(SEQTK_TRIMFQ.out.versions.first())
+
+
+ch_split_trimmed = SEQTK_TRIMFQ.out.fastq
+
 
 //
 // 1. Run KALLISTO
 //
 
-ch_for_kallisto = ch_split_fastq.combine(ch_database)
+ch_for_kallisto = ch_split_trimmed.combine(ch_database)
 
 KALLISTO_QUANT(ch_for_kallisto)
 
