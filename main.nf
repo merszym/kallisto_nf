@@ -96,7 +96,7 @@ ch_final_combined.collect()
     .set{ ch_summary }
 
 
-ch_summary.collectFile(name:'kallisto_summary.tsv', storeDir:'.' )
+ch_summary.collectFile(name:'kallisto_summary.tsv', storeDir: params.outdir )
 
 //
 // 2. Create Kallisto-Plots and sheets
@@ -104,6 +104,6 @@ ch_summary.collectFile(name:'kallisto_summary.tsv', storeDir:'.' )
 
 SUMMARIZE_KALLISTO(ch_summary.collectFile(name:'kallisto_summary.tsv'), ch_labels)
 
-ch_versions.unique().collectFile(name: 'pipeline_versions.yml', storeDir:".")
+ch_versions.unique().collectFile(name: 'pipeline_versions.yml', storeDir: params.outdir)
 }
 
