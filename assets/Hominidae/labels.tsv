@@ -25,8 +25,8 @@ AY882412.1	AY882412 | Berber | U5b1d	Modern Human	U5
 KC521457.1	KC521457 | Oberkassel 998 | U5b1 | 14,000 yo	Modern Human	U5	
 KC521458.1	KC521458 | Dolni Vestonice 14 | U5 | 28,000 yo	Modern Human	U5	
 AY882416.1	AY882416 | Ethiopia | U6a	Modern Human	U6	
-AF346973	AF346973 | China | F4a1b1	Modern Human	F	
-AY963572	AY963572 | Cambodia | F1a1	Modern Human	F	
+AF346973.1	AF346973 | China | F4a1b1	Modern Human	F	
+AY963572.1	AY963572 | Cambodia | F1a1	Modern Human	F	
 AY289094.1	AY289094 | Samoan | B4	Modern Human	B4	
 AY289101.1	AY289101 | Thai | B4	Modern Human	B4	
 KC521454.1	KC521454 | Boshan 11 | B4	Modern Human	B4	
@@ -95,7 +95,7 @@ Thorin	PRJEB73284 | Thorin	Neanderthal	Early Neanderthal
 KC879692.1	KC879692 | Altai	Neanderthal	Early Neanderthal	
 MK123269.1	MK123269 | Scladina I-4A	Neanderthal	Early Neanderthal	
 MK033602.1	MK033602 | Denisova 15	Neanderthal	Early Neanderthal	
-KY751400.1	KY751400 | Hohenstein Stadel	Neanderthal	HST	
+KY751400.2	KY751400 | Hohenstein Stadel	Neanderthal	HST	
 FR695060.1	FR695060 | Denisova 4	Denisova		
 NC_013993.1	NC013993 | Denisova 3	Denisova		
 KT780370.1	KT780370 | Denisova 8	Denisova		
