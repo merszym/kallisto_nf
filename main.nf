@@ -1,7 +1,7 @@
 // Import modules
 
 include { SAMTOOLS_FASTQ     } from './modules/local/samtools_fastq'
-include { SAMTOOLS_VIEW      } from './modules/local/samtools_fastq'
+include { SAMTOOLS_VIEW      } from './modules/local/samtools_view'
 include { SEQTK_TRIMFQ       } from './modules/local/seqtk_trimfq'
 include { KALLISTO_QUANT     } from './modules/local/kallisto_quant'
 include { SUMMARIZE_KALLISTO } from './modules/local/summarize'
