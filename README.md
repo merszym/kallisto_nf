@@ -25,6 +25,7 @@ INPUT-DIR is a directory containing BAM- or FASTQ-files (e.g. unique or deaminat
 **Flags**
 ```
 --trim           N       Trim N bases on each end of DNA reads before running kallisto (default: 3)
+--maxlen         N       Remove reads longer than N from the BAM-files (default: 50)
 --kallisto_mask  N       Mask any assignment lower than N 'est_counts' from the kallisto-plot (default: 25). Decrease for low coverage data
 --outdir         STRING  Custom name for output directory
 

@@ -1,6 +1,7 @@
 // Import modules
 
 include { SAMTOOLS_FASTQ     } from './modules/local/samtools_fastq'
+include { SAMTOOLS_VIEW      } from './modules/local/samtools_fastq'
 include { SEQTK_TRIMFQ       } from './modules/local/seqtk_trimfq'
 include { KALLISTO_QUANT     } from './modules/local/kallisto_quant'
 include { SUMMARIZE_KALLISTO } from './modules/local/summarize'
@@ -37,10 +38,18 @@ ch_split.branch {
 .set{ ch_split }
 
 //
+// 00. Filter BAM-file by read-length (only works with BAM-input)
+//
+
+SAMTOOLS_VIEW(ch_split.bam)
+
+ch_filtered_bam = SAMTOOLS_VIEW.out.bam
+
+//
 // 0. BAM to Fastq
 //
 
-SAMTOOLS_FASTQ(ch_split.bam)
+SAMTOOLS_FASTQ(ch_filtered_bam)
 
 ch_versions = ch_versions.mix(SAMTOOLS_FASTQ.out.versions.first())
 ch_converted_fastq = SAMTOOLS_FASTQ.out.fastq
