@@ -57,6 +57,10 @@ Use the `-profile Ursidae` flag to use the included Ursidae mtDNA reference pane
 
 Use the `-profile Cervidae` flag to use the included Cervidae mtDNA reference panel. See the content of the reference panel in the [Labels](assets/Cervidae/labels.tsv).
 
+### Canidae
+
+Use the `-profile Canidae` flag to use the included Canidae mtDNA reference panel. See the content of the reference panel in the [Labels](assets/Canidae/labelscanidae.tsv).
+
 ## Kallisto index
 
 Kallisto index was created with 
