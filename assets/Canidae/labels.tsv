@@ -23,13 +23,17 @@ NC_013445.1	NC_013445.1 | Cuon alpinus	Cuon alpinus		Dhole
 KT448274.1	KT448274.1 | Canis aureus | distinct	Canis aureus		Golden jackal 
 NC_008093.1	NC_008093.1 | Canis latrans	Canis latrans		Coyote
 NC_027956.1	NC_027956.1 | Canis lupaster	Canis lupaster		African wolf
-KF661078.1	KF661078.1 | Canis lupus | Belgium | 26 ky	Canis lupus 		Wolf
 KF661079.1	KF661079.1 | Canis lupus | Belgium | 36 ky	Canis lupus 		Wolf
 KF661080.1	KF661080.1 | Canis lupus | Belgium | 30 ky	Canis lupus 		Wolf
+KF661078.1	KF661078.1 | Canis lupus | Belgium | 26 ky	Canis lupus 		Wolf
+MK936995.1	MK936995.1 | Canis lupus | Russia | 50 ky	Canis lupus 		Wolf
+MK937009.1	MK937009.1 | Canis lupus | Russia | 30 ky	Canis lupus 		Wolf
+MK937052.1	MK937052.1 | Canis lupus | Armenia | 31 ky	Canis lupus 		Wolf
 KF661081.1	KF661081.1 | Canis lupus | Russia | 18 ky	Canis lupus 		Wolf
 KF661088.1	KF661088.1 | Canis lupus | Alaska | 28 ky	Canis lupus 		Wolf
 AB499824.1	AB499824.1 | Canis lupus | Japan	Canis lupus 		Wolf
 KF661092.1	KF661092.1 | Canis sp. | Russia | 33.5 ky	Canis lupus 		Wolf
+MK937039.1	MK937039.1 | Canis lupus | Switzerland | 14.1 ky	Canis lupus 		Wolf
 KF661087.1	KF661087.1 | Canis lupus | Switzerland 1 | 14.5 ky	Canis lupus 		Wolf
 KF661095.1	KF661095.1 | Canis lupus | Switzerland 3 | 14.5 ky	Canis lupus 		Wolf
 KF661048.1	KF661048.1 | Canis lupus | Italy	Canis lupus 		Wolf
@@ -61,7 +65,3 @@ KF661058.1	KF661058.1 | Canis lupus | Alaska 1	Canis lupus 		Wolf
 KF661064.1	KF661064.1 | Canis lupus | USA 1	Canis lupus 		Wolf
 KF661046.1	KF661046.1 | Canis lupus | Russia 3	Canis lupus 		Wolf
 EU408260.1	EU408260.1 | Canis lupus familiaris | Clade B	Canis lupus familiaris	Clade B	Dog
-MK936995.1	MK936995.1 | Canis lupus | Russia | 50 ky	Canis lupus 		Wolf
-MK937009.1	MK937009.1 | Canis lupus | Russia | 30 ky	Canis lupus 		Wolf
-MK937052.1	MK937052.1 | Canis lupus | Armenia | 31 ky	Canis lupus 		Wolf
-MK937039.1	MK937039.1 | Canis lupus | Switzerland | 14.1 ky	Canis lupus 		Wolf
