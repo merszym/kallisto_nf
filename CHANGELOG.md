@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0.4]
+
+### Changes
+- Adds profile `Canidae`
+
 ## [v0.3]
 
 Very exploratory version, mostly updates of the underlying databases
