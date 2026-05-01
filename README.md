@@ -59,7 +59,7 @@ Use the `-profile Cervidae` flag to use the included Cervidae mtDNA reference pa
 
 ### Canidae
 
-Use the `-profile Canidae` flag to use the included Canidae mtDNA reference panel. See the content of the reference panel in the [Labels](assets/Canidae/labelscanidae.tsv).
+Use the `-profile Canidae` flag to use the included Canidae mtDNA reference panel. See the content of the reference panel in the [Labels](assets/Canidae/labels.tsv).
 
 ## Kallisto index
 
