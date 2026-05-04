@@ -87,7 +87,8 @@ def summarize_kallisto(tsv, labels, mask_value=25):
     kallisto = pd.read_csv(tsv, sep='\t')
     labels = pd.read_csv(labels, sep='\t')
 
-    cols = labels['Name']
+    cols = labels['Name'].apply(lambda x: x.strip())
+
     name_to_label = dict(zip(labels['Name'], labels['Label']))
     
     # how to do the ancient??
