@@ -36,10 +36,14 @@ OP803072.1	CADG739	OP803072.1 | CADG739 | Coelodonta antiquitatis (C) | Northern
 OP803074.1	CADG900	OP803074.1 | CADG900 | Coelodonta antiquitatis (C) | Northern China ~51ky	Coelodonta antiquitatis	C	Woolly rhinoceros	~51ky	Northern China	10.1186/s12862-023-02168-0
 OP803075.1	CADG912	OP803075.1 | CADG912 | Coelodonta antiquitatis (C) | Northern China ~59ky	Coelodonta antiquitatis	C	Woolly rhinoceros	~59ky	Northern China	10.1186/s12862-023-02168-0
 ND030	SAMEA6246869	ND030 | SAMEA6246869 | Coelodonta antiquitatis (C) | Wrangel Island ~38ky	Coelodonta antiquitatis	C	Woolly rhinoceros	~38ky	Wrangel Island, Russia	10.1016/j.cub.2020.07.046
-OP803073.1	CADG744	OP803073.1 | CADG744 | Coelodonta antiquitatis (D) | Northern China ~63ky	Coelodonta antiquitatis	D	Woolly rhinoceros	~63ky	Northern China	10.1186/s12862-023-02168-0
-BSVK22		BSVK22 | Coelodonta antiquitatis (D) | Bockstein-Loch, Germany	Coelodonta antiquitatis	D	Woolly rhinoceros		Germany	10.1098/rsbl.2023.0343 
-SP5047		SP5047 | Coelodonta antiquitatis (D) | Scladina, Belgium ~44ky	Coelodonta antiquitatis	D	Woolly rhinoceros	~44ky	Scladina Cave, Belgium	Unpublished
-SP4565		SP4565 | Coelodonta antiquitatis (D) | Kozarnika Cave, Bulgaria ~150ky	Coelodonta antiquitatis	D	Woolly rhinoceros	~150ky	Kozarnika Cave, Bulgaria	Unpublished
+SP.A.8245		SP.A.8245 | Coelodonta antiquitatis © | Denisova Cave	Coelodonta antiquitatis	C	Woolly rhinoceros			Unpublished
+SP5047		SP5047 | Coelodonta antiquitatis (D) | Scladina, Belgium ~44ky	Coelodonta antiquitatis	D3	Woolly rhinoceros	~44ky	Scladina Cave, Belgium	Unpublished
+SP.B.2647		SP.B.2647 | Coelodonta antiquitatis (D) | Ranis, Germany	Coelodonta antiquitatis	D3	Woolly rhinoceros			Unpublished
+SP4565		SP4565 | Coelodonta antiquitatis (D) | Kozarnika Cave, Bulgaria ~150ky	Coelodonta antiquitatis	D2	Woolly rhinoceros	~150ky	Kozarnika Cave, Bulgaria	Unpublished
+SP.A.3897		SP.A.3897 | Coelodonta antiquitatis (D) | Chagyrskaya Cave, Russia	Coelodonta antiquitatis	D1	Woolly rhinoceros			Unpublished
+SP.B.1312		SP.B.1312 | Coelodonta antiquitatis (D) | Denisova Cave, Russia	Coelodonta antiquitatis	D1	Woolly rhinoceros			Unpublished
+BSVK22		BSVK22 | Coelodonta antiquitatis (D) | Bockstein-Loch, Germany	Coelodonta antiquitatis	D1	Woolly rhinoceros		Germany	10.1098/rsbl.2023.0343 
+OP803073.1	CADG744	OP803073.1 | CADG744 | Coelodonta antiquitatis (D) | Northern China ~63ky	Coelodonta antiquitatis	D1	Woolly rhinoceros	~63ky	Northern China	10.1186/s12862-023-02168-0
 OQ889160.1	ZPL-Uwr-GI-80	OQ889160.1 | ZPL-Uwr-GI-80 | Stephanorhinus kirchbergensis | Gorzów Wielkopolski, Poland 	Stephanorhinus kirchbergensis		Merck's rhinoceros		Gorzów Wielkopolski, Poland	10.1127/njgpa/2023/1129
 OQ730110.1	SLC073_F-887	OQ730110.1 | SLC073_F-887 | Stephanorhinus kirchbergensis | Russia 	Stephanorhinus kirchbergensis		Merck's rhinoceros		Russia	10.1134/S1062359021090077
 KX646743.1	JK254	KX646743.1 | JK254 | Stephanorhinus kirchbergensis | Chondon River, Russia ~60ky	Stephanorhinus kirchbergensis		Merck's rhinoceros	~60ky	Chondon River, Russia	10.1017/qua.2017.53 
