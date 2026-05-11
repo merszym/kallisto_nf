@@ -1,52 +1,52 @@
-Name	Label	LabID	Species	Haplogroup	Description	Age	Location	Reference
-MZ736699.1	MZ736699.1 | ONP1 | Rhinoceros unicornis  | India 	ONP1	Rhinoceros unicornis		Indian one-horned rhinoceros		India	
-NC_001779.1	NC_001779.1 | X97336 | Rhinoceros unicornis  | India 	X97336	Rhinoceros unicornis		Indian one-horned rhinoceros		India	
-MZ736695.1	MZ736695.1 | KNP3 | Rhinoceros unicornis  | India 	KNP3	Rhinoceros unicornis		Indian one-horned rhinoceros		India	
-MZ736703.1	MZ736703.1 | DNP2 | Rhinoceros unicornis  | India 	DNP2	Rhinoceros unicornis		Indian one-horned rhinoceros		India	
-MZ736706.1	MZ736706.1 | GNP2 | Rhinoceros unicornis  | India 	GNP2	Rhinoceros unicornis		Indian one-horned rhinoceros		India	
-MK909145.1	MK909145.1 | KB14498 | Rhinoceros unicornis  | India 	KB14498	Rhinoceros unicornis		Indian one-horned rhinoceros		India	
-FJ905815.1	FJ905815.1 | NHM-4139 | Rhinoceros sondaicus  | Java, Indonesia ~100y	NHM-4139	Rhinoceros sondaicus		Javan rhinoceros	~100y	Java, Indonesia	
-MK909146.1	MK909146.1 | JR26 | Rhinoceros sondaicus  | Java, Indonesia 	JR26	Rhinoceros sondaicus		Javan rhinoceros		Java, Indonesia	
-MK909148.1	MK909148.1 | JR3320 | Rhinoceros sondaicus  | Java, Indonesia 	JR3320	Rhinoceros sondaicus		Javan rhinoceros		Java, Indonesia	
-MK909151.1	MK909151.1 | JR3851 | Rhinoceros sondaicus  | Java, Indonesia 	JR3851	Rhinoceros sondaicus		Javan rhinoceros		Java, Indonesia	
-MF066641.1	MF066641.1 | KB6196 | Dicerorhinus sumatrensis ( sumatrensis ) | Malay Peninsula 	KB6196	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Malay Peninsula	
-MF066629.1	MF066629.1 | KB20219 | Dicerorhinus sumatrensis ( sumatrensis ) | Sumatra, Indonesia 	KB20219	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Sumatra, Indonesia	
-MF066637.1	MF066637.1 | OR1266 | Dicerorhinus sumatrensis ( sumatrensis ) | Sumatra, Indonesia 	OR1266	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Sumatra, Indonesia	
-MF066631.1	MF066631.1 | KB20277 | Dicerorhinus sumatrensis ( harrissoni ) | Sabah, Borneo, Malaysia 	KB20277	Dicerorhinus sumatrensis	harrissoni	Sumatran rhinoceros		Sabah, Borneo, Malaysia	
-MK909153.1	MK909153.1 | Tam | Dicerorhinus sumatrensis ( harrissoni ) | Sabah, Borneo, Malaysia 	Tam	Dicerorhinus sumatrensis	harrissoni	Sumatran rhinoceros		Sabah, Borneo, Malaysia	
-MF066632.1	MF066632.1 | KB20278 | Dicerorhinus sumatrensis ( harrissoni ) | Sabah, Borneo, Malaysia 	KB20278	Dicerorhinus sumatrensis	harrissoni	Sumatran rhinoceros		Sabah, Borneo, Malaysia	
-MF066642.1	MF066642.1 | KB6197 | Dicerorhinus sumatrensis ( sumatrensis ) | Malay Peninsula 	KB6197	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Malay Peninsula	
-MF066636.1	MF066636.1 | OR1265 | Dicerorhinus sumatrensis ( sumatrensis ) | Sumatra, Indonesia 	OR1265	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Sumatra, Indonesia	
-ND003	ND003 | SAMEA6246862 | Coelodonta antiquitatis ( A ) | Chukotka ~31ky	SAMEA6246862	Coelodonta antiquitatis	A	Woolly rhinoceros	~31ky	Chukotka	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND004	ND004 | SAMEA6246863 | Coelodonta antiquitatis ( A ) | Chukotka ~40ky	SAMEA6246863	Coelodonta antiquitatis	A	Woolly rhinoceros	~40ky	Chukotka	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND008	ND008 | SAMEA6246864 | Coelodonta antiquitatis ( A ) | Chukotka ~33ky	SAMEA6246864	Coelodonta antiquitatis	A	Woolly rhinoceros	~33ky	Chukotka	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND010	ND010 | SAMEA6246865 | Coelodonta antiquitatis ( A ) | Chukotka ~31ky	SAMEA6246865	Coelodonta antiquitatis	A	Woolly rhinoceros	~31ky	Chukotka	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND014	ND014 | SAMEA6246867 | Coelodonta antiquitatis ( A ) | Yakutia ~36ky	SAMEA6246867	Coelodonta antiquitatis	A	Woolly rhinoceros	~36ky	Yakutia	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND015	ND015 | SAMEA6246868 | Coelodonta antiquitatis ( A ) | Yakutia ~28ky	SAMEA6246868	Coelodonta antiquitatis	A	Woolly rhinoceros	~28ky	Yakutia	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND036	ND036 | SAMEA6246872 | Coelodonta antiquitatis ( A ) | Chukotka ~46ky	SAMEA6246872	Coelodonta antiquitatis	A	Woolly rhinoceros	~46ky	Chukotka	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND041	ND041 | SAMEA6246873 | Coelodonta antiquitatis ( A ) | Yakutia ~13ky	SAMEA6246873	Coelodonta antiquitatis	A	Woolly rhinoceros	~13ky	Yakutia	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND045	ND045 | SAMEA6246874 | Coelodonta antiquitatis ( A ) | Yakutia >42ky	SAMEA6246874	Coelodonta antiquitatis	A	Woolly rhinoceros	>42ky	Yakutia	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-MK909152.1	MK909152.1 | MK019 | Coelodonta antiquitatis ( A ) | Yakutia 	MK019	Coelodonta antiquitatis	A	Woolly rhinoceros		Yakutia	
-ND012	ND012 | SAMEA6246866 | Coelodonta antiquitatis ( B ) | Chukotka ~31ky	SAMEA6246866	Coelodonta antiquitatis	B	Woolly rhinoceros	~31ky	Chukotka	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND031	ND031 | SAMEA6246870 | Coelodonta antiquitatis ( B ) | Chukotka ~16ky	SAMEA6246870	Coelodonta antiquitatis	B	Woolly rhinoceros	~16ky	Chukotka	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-ND035	ND035 | SAMEA6246871 | Coelodonta antiquitatis ( B ) | Chukotka ~15ky	SAMEA6246871	Coelodonta antiquitatis	B	Woolly rhinoceros	~15ky	Chukotka	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-DS253	DS253 | SAMEA6246875 | Coelodonta antiquitatis ( B ) | Yakutia ~12ky	SAMEA6246875	Coelodonta antiquitatis	B	Woolly rhinoceros	~12ky	Yakutia	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-FJ905813.1	FJ905813.1 | LDR-P75 | Coelodonta antiquitatis ( B ) | Yakutia, Russia 	LDR-P75	Coelodonta antiquitatis	B	Woolly rhinoceros		Yakutia, Russia	
-OP803072.1	OP803072.1 | CADG739 | Coelodonta antiquitatis ( C ) | Northern China ~44ky	CADG739	Coelodonta antiquitatis	C	Woolly rhinoceros	~44ky	Northern China	
-OP803074.1	OP803074.1 | CADG900 | Coelodonta antiquitatis ( C ) | Northern China ~51ky	CADG900	Coelodonta antiquitatis	C	Woolly rhinoceros	~51ky	Northern China	
-OP803075.1	OP803075.1 | CADG912 | Coelodonta antiquitatis ( C ) | Northern China ~59ky	CADG912	Coelodonta antiquitatis	C	Woolly rhinoceros	~59ky	Northern China	
-ND030	ND030 | SAMEA6246869 | Coelodonta antiquitatis ( C ) | Wrangel Island ~38ky	SAMEA6246869	Coelodonta antiquitatis	C	Woolly rhinoceros	~38ky	Wrangel Island	https://www.cell.com/current-biology/fulltext/S0960-9822(20)31071-X#mmc2
-OP803073.1	OP803073.1 | CADG744 | Coelodonta antiquitatis ( D ) | Northern China ~63ky	CADG744	Coelodonta antiquitatis	D	Woolly rhinoceros	~63ky	Northern China	
-BSVK22	BSVK22 | Coelodonta antiquitatis ( Europe ) | Bockstein-Loch, Germany		Coelodonta antiquitatis	D	Woolly rhinoceros		Germany	https://royalsocietypublishing.org/rsbl/article/19/11/20230343/63235/The-first-European-woolly-rhinoceros-mitogenomes
-SP5047	SP5047 | Coelodonta antiquitatis (D) | Scladina, Belgium ~44ky		Coelodonta antiquitatis	D	Woolly rhinoceros	~44ky	Scladina Cave, Belgium	Unpublished, sediment DNA
-SP4565	SP4565 | Coelodonta antiquitatis (D) | Kozarnika Cave, Bulgaria ~150ky		Coelodonta antiquitatis	D	Woolly rhinoceros	~150ky	Kozarnika Cave, Bulgaria	Unpublished, sediment DNA
-OQ889160.1	OQ889160.1 | ZPL-Uwr-GI-80 | Stephanorhinus kirchbergensis | Gorzów Wielkopolski, Poland 	ZPL-Uwr-GI-80	Stephanorhinus kirchbergensis		Merck's rhinoceros		Gorzów Wielkopolski, Poland	
-OQ730110.1	OQ730110.1 | SLC073_F-887 | Stephanorhinus kirchbergensis | Russia 	SLC073_F-887	Stephanorhinus kirchbergensis		Merck's rhinoceros		Russia	
-KX646743	KX646743 | JK254 | Stephanorhinus kirchbergensis | Chondon River, Russia ~60ky	JK254	Stephanorhinus kirchbergensis		Merck's rhinoceros	~60ky	Chondon River, Russia	
-CM038193.1	CM038193.1 | KB9947 | Ceratotherium cottoni	KB9947	Ceratotherium cottoni		Northern white rhinoceros			https://doi.org/10.1073/pnas.2401207122
-NC_001808.1	NC_001808.1 |  | Ceratotherium simum		Ceratotherium simum		White rhinoceros			10.1006/mpev.1996.0385 
-FJ905814.1	FJ905814.1 | NHM-36 | Diceros bicornis | Ethopia ~100y	NHM-36	Diceros bicornis	brucii	Black rhinoceros	~100y	Ethopia	
-MK909143.1	MK909143.1 | NZG:46373 | Diceros bicornis | Zuzuland 	NZG:46373	Diceros bicornis	minor	Black rhinoceros		Zuzuland	
-MH937516.1	MH937516.1 | IPAE 897/200 | Elasmotherium sibiricum | Borovlyanka 	IPAE 897/200	Elasmotherium sibiricum		Siberian unicorn		Borovlyanka	https://doi.org/10.1038/s41559-018-0722-0
-MH937515.1	MH937515.1 | IPAE 1871/200 | Elasmotherium sibiricum | Voronovka ~35ky	IPAE 1871/200	Elasmotherium sibiricum		Siberian unicorn	~35ky	Voronovka	https://doi.org/10.1038/s41559-018-0722-0
-MH937513.1	MH937513.1 | IPAE 915/2804 | Elasmotherium sibiricum | Tobolsk >49ky	IPAE 915/2804	Elasmotherium sibiricum		Siberian unicorn	>49ky	Tobolsk	https://doi.org/10.1038/s41559-018-0722-0
+Name	LabID	Label	Species	Haplogroup	Description	Age	Location	Reference
+MZ736699.1	ONP1	MZ736699.1 | ONP1 | Rhinoceros unicornis  | India 	Rhinoceros unicornis		Indian one-horned rhinoceros		India	MZ736699.1
+NC_001779.1	X97336	NC_001779.1 | X97336 | Rhinoceros unicornis  | India 	Rhinoceros unicornis		Indian one-horned rhinoceros		India	10.1093/oxfordjournals.molbev.a025681
+MZ736695.1	KNP3	MZ736695.1 | KNP3 | Rhinoceros unicornis  | India 	Rhinoceros unicornis		Indian one-horned rhinoceros		India	MZ736695.1
+MZ736703.1	DNP2	MZ736703.1 | DNP2 | Rhinoceros unicornis  | India 	Rhinoceros unicornis		Indian one-horned rhinoceros		India	MZ736703.1
+MZ736706.1	GNP2	MZ736706.1 | GNP2 | Rhinoceros unicornis  | India 	Rhinoceros unicornis		Indian one-horned rhinoceros		India	MZ736706.1
+MK909145.1	KB14498	MK909145.1 | KB14498 | Rhinoceros unicornis  | India 	Rhinoceros unicornis		Indian one-horned rhinoceros		India	10.1093/zoolinnean/zlaa004
+FJ905815.1	NHM-4139	FJ905815.1 | NHM-4139 | Rhinoceros sondaicus  | Java, Indonesia ~100y	Rhinoceros sondaicus		Javan rhinoceros	~100y	Java, Indonesia	10.1186/1471-2148-9-95 
+MK909146.1	JR26	MK909146.1 | JR26 | Rhinoceros sondaicus  | Java, Indonesia 	Rhinoceros sondaicus		Javan rhinoceros		Java, Indonesia	10.1093/zoolinnean/zlaa004
+MK909148.1	JR3320	MK909148.1 | JR3320 | Rhinoceros sondaicus  | Java, Indonesia 	Rhinoceros sondaicus		Javan rhinoceros		Java, Indonesia	10.1093/zoolinnean/zlaa004
+MK909151.1	JR3851	MK909151.1 | JR3851 | Rhinoceros sondaicus  | Java, Indonesia 	Rhinoceros sondaicus		Javan rhinoceros		Java, Indonesia	10.1093/zoolinnean/zlaa004
+MF066641.1	KB6196	MF066641.1 | KB6196 | Dicerorhinus sumatrensis (sumatrensis) | Malay Peninsula 	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Malay Peninsula	10.1007/s10592-017-1011-1
+MF066629.1	KB20219	MF066629.1 | KB20219 | Dicerorhinus sumatrensis (sumatrensis) | Sumatra, Indonesia 	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Sumatra, Indonesia	10.1007/s10592-017-1011-1
+MF066637.1	OR1266	MF066637.1 | OR1266 | Dicerorhinus sumatrensis (sumatrensis) | Sumatra, Indonesia 	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Sumatra, Indonesia	10.1007/s10592-017-1011-1
+MF066631.1	KB20277	MF066631.1 | KB20277 | Dicerorhinus sumatrensis (harrissoni) | Sabah, Borneo, Malaysia 	Dicerorhinus sumatrensis	harrissoni	Sumatran rhinoceros		Sabah, Borneo, Malaysia	10.1007/s10592-017-1011-1
+MK909153.1	Tam	MK909153.1 | Tam | Dicerorhinus sumatrensis (harrissoni) | Sabah, Borneo, Malaysia 	Dicerorhinus sumatrensis	harrissoni	Sumatran rhinoceros		Sabah, Borneo, Malaysia	10.1093/zoolinnean/zlaa004
+MF066632.1	KB20278	MF066632.1 | KB20278 | Dicerorhinus sumatrensis (harrissoni) | Sabah, Borneo, Malaysia 	Dicerorhinus sumatrensis	harrissoni	Sumatran rhinoceros		Sabah, Borneo, Malaysia	10.1007/s10592-017-1011-1
+MF066642.1	KB6197	MF066642.1 | KB6197 | Dicerorhinus sumatrensis (sumatrensis) | Malay Peninsula 	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Malay Peninsula	10.1007/s10592-017-1011-1
+MF066636.1	OR1265	MF066636.1 | OR1265 | Dicerorhinus sumatrensis (sumatrensis) | Sumatra, Indonesia 	Dicerorhinus sumatrensis	sumatrensis	Sumatran rhinoceros		Sumatra, Indonesia	10.1007/s10592-017-1011-1
+ND003	SAMEA6246862	ND003 | SAMEA6246862 | Coelodonta antiquitatis (A) | Chukotka, Russia ~31ky	Coelodonta antiquitatis	A	Woolly rhinoceros	~31ky	Chukotka, Russia	10.1016/j.cub.2020.07.046
+ND004	SAMEA6246863	ND004 | SAMEA6246863 | Coelodonta antiquitatis (A) | Chukotka, Russia ~40ky	Coelodonta antiquitatis	A	Woolly rhinoceros	~40ky	Chukotka, Russia	10.1016/j.cub.2020.07.046
+ND008	SAMEA6246864	ND008 | SAMEA6246864 | Coelodonta antiquitatis (A) | Chukotka, Russia ~33ky	Coelodonta antiquitatis	A	Woolly rhinoceros	~33ky	Chukotka, Russia	10.1016/j.cub.2020.07.046
+ND010	SAMEA6246865	ND010 | SAMEA6246865 | Coelodonta antiquitatis (A) | Chukotka, Russia ~31ky	Coelodonta antiquitatis	A	Woolly rhinoceros	~31ky	Chukotka, Russia	10.1016/j.cub.2020.07.046
+ND014	SAMEA6246867	ND014 | SAMEA6246867 | Coelodonta antiquitatis (A) | Yakutia, Russia ~36ky	Coelodonta antiquitatis	A	Woolly rhinoceros	~36ky	Yakutia, Russia	10.1016/j.cub.2020.07.046
+ND015	SAMEA6246868	ND015 | SAMEA6246868 | Coelodonta antiquitatis (A) | Yakutia, Russia ~28ky	Coelodonta antiquitatis	A	Woolly rhinoceros	~28ky	Yakutia, Russia	10.1016/j.cub.2020.07.046
+ND036	SAMEA6246872	ND036 | SAMEA6246872 | Coelodonta antiquitatis (A) | Chukotka, Russia ~46ky	Coelodonta antiquitatis	A	Woolly rhinoceros	~46ky	Chukotka, Russia	10.1016/j.cub.2020.07.046
+ND041	SAMEA6246873	ND041 | SAMEA6246873 | Coelodonta antiquitatis (A) | Yakutia, Russia ~13ky	Coelodonta antiquitatis	A	Woolly rhinoceros	~13ky	Yakutia, Russia	10.1016/j.cub.2020.07.046
+ND045	SAMEA6246874	ND045 | SAMEA6246874 | Coelodonta antiquitatis (A) | Yakutia, Russia >42ky	Coelodonta antiquitatis	A	Woolly rhinoceros	>42ky	Yakutia, Russia	10.1016/j.cub.2020.07.046
+MK909152.1	MK019	MK909152.1 | MK019 | Coelodonta antiquitatis (A) | Yakutia, Russia 	Coelodonta antiquitatis	A	Woolly rhinoceros		Yakutia, Russia	10.1093/zoolinnean/zlaa004
+ND012	SAMEA6246866	ND012 | SAMEA6246866 | Coelodonta antiquitatis (B) | Chukotka, Russia ~31ky	Coelodonta antiquitatis	B	Woolly rhinoceros	~31ky	Chukotka, Russia	10.1016/j.cub.2020.07.046
+ND031	SAMEA6246870	ND031 | SAMEA6246870 | Coelodonta antiquitatis (B) | Chukotka, Russia ~16ky	Coelodonta antiquitatis	B	Woolly rhinoceros	~16ky	Chukotka, Russia	10.1016/j.cub.2020.07.046
+ND035	SAMEA6246871	ND035 | SAMEA6246871 | Coelodonta antiquitatis (B) | Chukotka, Russia ~15ky	Coelodonta antiquitatis	B	Woolly rhinoceros	~15ky	Chukotka, Russia	10.1016/j.cub.2020.07.046
+DS253	SAMEA6246875	DS253 | SAMEA6246875 | Coelodonta antiquitatis (B) | Yakutia, Russia ~12ky	Coelodonta antiquitatis	B	Woolly rhinoceros	~12ky	Yakutia, Russia	10.1016/j.cub.2020.07.046
+FJ905813.1	LDR-P75	FJ905813.1 | LDR-P75 | Coelodonta antiquitatis (B) | Yakutia, Russia 	Coelodonta antiquitatis	B	Woolly rhinoceros		Yakutia, Russia	10.1186/1471-2148-9-95 
+OP803072.1	CADG739	OP803072.1 | CADG739 | Coelodonta antiquitatis (C) | Northern China ~44ky	Coelodonta antiquitatis	C	Woolly rhinoceros	~44ky	Northern China	10.1186/s12862-023-02168-0
+OP803074.1	CADG900	OP803074.1 | CADG900 | Coelodonta antiquitatis (C) | Northern China ~51ky	Coelodonta antiquitatis	C	Woolly rhinoceros	~51ky	Northern China	10.1186/s12862-023-02168-0
+OP803075.1	CADG912	OP803075.1 | CADG912 | Coelodonta antiquitatis (C) | Northern China ~59ky	Coelodonta antiquitatis	C	Woolly rhinoceros	~59ky	Northern China	10.1186/s12862-023-02168-0
+ND030	SAMEA6246869	ND030 | SAMEA6246869 | Coelodonta antiquitatis (C) | Wrangel Island ~38ky	Coelodonta antiquitatis	C	Woolly rhinoceros	~38ky	Wrangel Island, Russia	10.1016/j.cub.2020.07.046
+OP803073.1	CADG744	OP803073.1 | CADG744 | Coelodonta antiquitatis (D) | Northern China ~63ky	Coelodonta antiquitatis	D	Woolly rhinoceros	~63ky	Northern China	10.1186/s12862-023-02168-0
+BSVK22		BSVK22 | Coelodonta antiquitatis (D) | Bockstein-Loch, Germany	Coelodonta antiquitatis	D	Woolly rhinoceros		Germany	10.1098/rsbl.2023.0343 
+SP5047		SP5047 | Coelodonta antiquitatis (D) | Scladina, Belgium ~44ky	Coelodonta antiquitatis	D	Woolly rhinoceros	~44ky	Scladina Cave, Belgium	Unpublished
+SP4565		SP4565 | Coelodonta antiquitatis (D) | Kozarnika Cave, Bulgaria ~150ky	Coelodonta antiquitatis	D	Woolly rhinoceros	~150ky	Kozarnika Cave, Bulgaria	Unpublished
+OQ889160.1	ZPL-Uwr-GI-80	OQ889160.1 | ZPL-Uwr-GI-80 | Stephanorhinus kirchbergensis | Gorzów Wielkopolski, Poland 	Stephanorhinus kirchbergensis		Merck's rhinoceros		Gorzów Wielkopolski, Poland	10.1127/njgpa/2023/1129
+OQ730110.1	SLC073_F-887	OQ730110.1 | SLC073_F-887 | Stephanorhinus kirchbergensis | Russia 	Stephanorhinus kirchbergensis		Merck's rhinoceros		Russia	10.1134/S1062359021090077
+KX646743.1	JK254	KX646743.1 | JK254 | Stephanorhinus kirchbergensis | Chondon River, Russia ~60ky	Stephanorhinus kirchbergensis		Merck's rhinoceros	~60ky	Chondon River, Russia	10.1017/qua.2017.53 
+CM038193.1	KB9947	CM038193.1 | KB9947 | Ceratotherium cottoni	Ceratotherium cottoni		Northern white rhinoceros			10.1073/pnas.2401207122
+NC_001808.1		NC_001808.1 |  | Ceratotherium simum	Ceratotherium simum		White rhinoceros			10.1006/mpev.1996.0385 
+FJ905814.1	NHM-36	FJ905814.1 | NHM-36 | Diceros bicornis | Ethopia ~100y	Diceros bicornis	brucii	Black rhinoceros	~100y	Ethopia	10.1186/1471-2148-9-95 
+MK909143.1	NZG:46373	MK909143.1 | NZG:46373 | Diceros bicornis | Zuzuland, South Africa	Diceros bicornis	minor	Black rhinoceros		Zuzuland, South Africa	10.1093/zoolinnean/zlaa004
+MH937516.1	IPAE 897/200	MH937516.1 | IPAE 897/200 | Elasmotherium sibiricum | Borovlyanka, Russia	Elasmotherium sibiricum		Siberian unicorn		Borovlyanka, Russia	10.1038/s41559-018-0722-0
+MH937515.1	IPAE 1871/200	MH937515.1 | IPAE 1871/200 | Elasmotherium sibiricum | Voronovka, Russia ~35ky	Elasmotherium sibiricum		Siberian unicorn	~35ky	Voronovka, Russia	10.1038/s41559-018-0722-0
+MH937513.1	IPAE 915/2804	MH937513.1 | IPAE 915/2804 | Elasmotherium sibiricum | Tobolsk, Russia >49ky	Elasmotherium sibiricum		Siberian unicorn	>49ky	Tobolsk, Russia	10.1038/s41559-018-0722-0
