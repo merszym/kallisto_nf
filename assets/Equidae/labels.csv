@@ -1,103 +1,135 @@
 Name	Label	LabID	Species	Haplogroup	Description	Age	Location	Region	Reference
+MW846103.1		AV75	Equus sp.	A1		~16ky	Titaluk riv	Alaska North	Vershinina et al., 2021
+MW846127.1		AV160	Equus sp.	A1		~34ky	Titaluk riv	Alaska North	Vershinina et al., 2021
+MW846107.1		AV88	Equus sp.	A1		~27ky	Ikpikpuk	Alaska North	Vershinina et al., 2021
+MW846114.1		AV109	Equus sp.	A1		~20ky	Fairbanks	Alaska Interior	Vershinina et al., 2021
+MW846115.1		AV112	Equus sp.	A1		~20ky	Rainbow Mine	Alaska West	Vershinina et al., 2021
+MW846106.1		AV83	Equus sp.	A1		~37ky	Titaluk riv	Alaska North	Vershinina et al., 2021
+MW846104.1		AV80	Equus sp.	A1		~24ky	Titaluk riv	Alaska North	Vershinina et al., 2021
+KT757740.1		CGG10022	Equus sp.	A		~42.5ky	Taymyr	Russia	Orlando et al., 2013
+KT757747.1		JW26/MS300	Equus sp.	A		~20ky	New Siberian Islands	Russia	Orlando et al., 2013
+KT757758.1		JW342/MS294	Equus sp.	A		~18ky	Ural Mountains	Russia	Vershinina et al., 2021
+HQ439484.1			Equus sp.	A	przewalski				
+MW846124.1		AV154	Equus sp.	A		~32ky	Ural Mountains, Perm oblast	Russia 	Vershinina et al., 2021
+MW846091.1		AV5	Equus sp.	A		~34ky	Kiyeng-Kyuel' lake	Taimyr	Vershinina et al., 2021
+LoshN			Equus sp.	A				Yakutia	Kusliy et al. 2026
+KT757755.1		JW313/MS305	Equus sp.	A		~28ky	Ural Mountains 	Russia	Orlando et al., 2013
+MW846096.1		AV37	Equus sp.	A		~36ky	Maly Anyuy	Chukotka	Vershinina et al., 2021
+HQ439459.1			Equus caballus	A					
+HQ439461.1			Equus caballus	A					
+KT757742.1		CGG10026	Equus sp.	A		~27ky	Taymyr	Russia	Orlando et al., 2013
+MW846092.1		AV6	Equus sp.	A		~29ky	N/A	Taimyr	Vershinina et al., 2021
 HQ439447.1			Equus caballus	A					
 HQ439450.1			Equus caballus	A					
 HQ439455.1			Equus caballus	A					
-HQ439459.1			Equus caballus	A					
-HQ439461.1			Equus caballus	A					
-HQ439484.1			Equus przewalskii	A					
-PX123152.1		SCEN001	Equus sp.	A		~300ky	Schöningen	Germany	This study
-PX123153.1		SCEN002	Equus sp.	A		~300ky	Schöningen	Germany	This study
-MW846094.1		AV34	Equus sp.	A		inf	Indigirka riv	Yakutiya	Vershinina et al., 2021
-MW846097.1		AV38	Equus sp.	A		inf	Maly Anyuy	Chukotka	Vershinina et al., 2021
-KT757740.1		CGG10022	Equus sp.	A		~42.5ky	Taymyr	Russia	Orlando et al., 2013
-MW846096.1		AV37	Equus sp.	A		~36ky	Maly Anyuy	Chukotka	Vershinina et al., 2021
-MW846091.1		AV5	Equus sp.	A		~34ky	Kiyeng-Kyuel' lake	Taimyr	Vershinina et al., 2021
-LoshN			Equus sp.	A				Yakutia	Kusliy et al. 2026
-MW846124.1		AV154	Equus sp.	A		~32ky	Ural Mountains, Perm oblast	Russia 	Vershinina et al., 2021
-MW846092.1		AV6	Equus sp.	A		~29ky	N/A	Taimyr	Vershinina et al., 2021
-KT757755.1		JW313/MS305	Equus sp.	A		~28ky	Ural Mountains 	Russia	Orlando et al., 2013
-KT757742.1		CGG10026	Equus sp.	A		~27ky	Taymyr	Russia	Orlando et al., 2013
-KT757747.1		JW26/MS300	Equus sp.	A		~20ky	New Siberian Islands	Russia	Orlando et al., 2013
-KT757758.1		JW342/MS294	Equus sp.	A		~18ky	Ural Mountains	Russia	Vershinina et al., 2021
-MW846106.1		AV83	Equus sp.	A1		~37ky	Titaluk riv	Alaska North	Vershinina et al., 2021
-MW846127.1		AV160	Equus sp.	A1		~34ky	Titaluk riv	Alaska North	Vershinina et al., 2021
-MW846107.1		AV88	Equus sp.	A1		~27ky	Ikpikpuk	Alaska North	Vershinina et al., 2021
-MW846104.1		AV80	Equus sp.	A1		~24ky	Titaluk riv	Alaska North	Vershinina et al., 2021
-MW846114.1		AV109	Equus sp.	A1		~20ky	Fairbanks	Alaska Interior	Vershinina et al., 2021
-MW846115.1		AV112	Equus sp.	A1		~20ky	Rainbow Mine	Alaska West	Vershinina et al., 2021
-MW846103.1		AV75	Equus sp.	A1		~16ky	Titaluk riv	Alaska North	Vershinina et al., 2021
 MW846128.1		AV181	Equus sp.	A2		~43ky	Ikpikpuk riv	Alaska North	Vershinina et al., 2021
 MW846119.1		AV122	Equus sp.	A2		~39ky	Kigalik riv	Alaska North	Vershinina et al., 2021
-MW846113.1		AV108	Equus sp.	B		inf	Fairbanks 	Alaska Interior	Vershinina et al., 2021
-MW846123.1		AV151	Equus sp.	B		inf	Fairbanks	Alaska Interior	Vershinina et al., 2021
-MW846155.1		MS317	Equus sp.	B		inf	Thistle_Creek	Yukon, Canada	Vershinina et al., 2021
-MW846163.1		MS413	Equus sp.	B		inf	Quartz_Creek	Yukon, Canada	Vershinina et al., 2021
-MW846164.1		MS440	Equus sp.	B		~41ky	Quartz_Creek	Yukon, Canada	Vershinina et al., 2021
-MW846159.1		MS338	Equus sp.	B		~39ky	Green_Gulch	Yukon, Canada	Vershinina et al., 2021
-MW846166.1		MS456	Equus sp.	B		~29ky	Irish_Gilch	Yukon, Canada	Vershinina et al., 2021
-MW846090.1		ABC9779_11850	Equus sp.	B		~28ky	Irish Gulch	Yukon, Canada	Vershinina et al., 2021
-MW846146.1		JK278	Equus sp.	B		~25ky	Natural Trap Cave	Wyoming	Vershinina et al., 2021
-MW846133.1		AV193	Equus sp.	B		~23ky	Fairbanks	Alaska Interior	Vershinina et al., 2021
-MW846142.1		JK162	Equus sp.	B		~17ky	Jaw Dropper Cave	Idaho	Vershinina et al., 2021
-MW846147.1		JW174_MS289	Equus sp.	B		~13ky	Grand Prairie, Lingrell Pit	Alberta	Vershinina et al., 2021
-KT757749.1		JW28/MS298	Equus sp.	C					
-MW846149.1		MOE081	Equus sp.	C		inf	Sukhaya cave	Primorye	Vershinina et al., 2021
-MW846099.1		AV40	Equus sp.	C		inf	Alazeya riv	Yakutiya	Vershinina et al., 2021
-MW846138.1		AV237	Equus sp.	C		~26ky	Yushu, Jilin	China	Vershinina et al., 2021
+MW846094.1		AV34	Equus sp.	A			Indigirka riv	Yakutiya	Vershinina et al., 2021
+MW846097.1		AV38	Equus sp.	A			Maly Anyuy	Chukotka	Vershinina et al., 2021
+PX123152.1		SCEN001	Equus sp.	A		~300ky	Schöningen	Germany	This study
+PX123153.1		SCEN002	Equus sp.	A		~300ky	Schöningen	Germany	This study
 MW846139.1		AV238	Equus sp.	C		~22ky	Yushu, Jilin	China	Vershinina et al., 2021
-MW348989.1		ZDT2	Equus sp.	C		~33ky	Zhaodong	China	Yuan et al. 2020
-MW348992.1		ZDT8	Equus sp.	C		~34ky	Zhaodong	China	Yuan et al. 2020
-MW348991.1		ZD6	Equus sp.	C		~34ky	Zhaodong	China	Yuan et al. 2020
-NC_018783.1			Equus ovodovi	B		~45ky			Vilstrup et al., 2013
-Af2-1			Equus ovodovi	B		~13ky	Afontova Gora II		Kusliy et al. 2026
-Af2-2			Equus ovodovi	B		~13ky	Afontova Gora II		Kusliy et al. 2026
-Af2-4			Equus ovodovi	B		~13ky	Afontova Gora II		Kusliy et al. 2026
-Chel-1			Equus ovodovi	B		~22ky	Chernousov log		Kusliy et al. 2026
-OV-6			Equus ovodovi	B		~25ky	Shishkin log		Kusliy et al. 2026
-OV-4			Equus ovodovi	B		~25ky	Shishkin log		Kusliy et al. 2026
+MW348989.1		ZDT2	Equus sp.	C	dalianensis	~33ky	Zhaodong	China	Yuan et al. 2020
+MW348992.1		ZDT8	Equus sp.	C	dalianensis	~34ky	Zhaodong	China	Yuan et al. 2020
+MW846138.1		AV237	Equus sp.	C		~26ky	Yushu, Jilin	China	Vershinina et al., 2021
+MW348991.1		ZD6	Equus sp.	C	dalianensis	~34ky	Zhaodong	China	Yuan et al. 2020
+MW846099.1		AV40	Equus sp.	C			Alazeya riv	Yakutiya	Vershinina et al., 2021
+MW846149.1		MOE081	Equus sp.	C			Sukhaya cave	Primorye	Vershinina et al., 2021
+KT757749.1		JW28/MS298	Equus sp.	C					
+MW846133.1		AV193	Equus sp.	B		~23ky	Fairbanks	Alaska Interior	Vershinina et al., 2021
+MW846166.1		MS456	Equus sp.	B		~29ky	Irish_Gilch	Yukon, Canada	Vershinina et al., 2021
+KT168318.2		MS352	Equus sp.	B	lambei		Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168322.2		MS316	Equus sp.	B	lambei		Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+MW846090.1		ABC9779_11850	Equus sp.	B		~28ky	Irish Gulch	Yukon, Canada	Vershinina et al., 2021
+OL825713.1		IMNH 50001/17237	Equus sp.	B			Natural Trap Cave, Wyoming, USA	Wyoming	Mitchell, J. et al. 2021?
+OL825711.1		UW54705	Equus sp.	B			Natural Trap Cave, Wyoming, USA	Wyoming	Mitchell, J. et al. 2021?
+OL825721.1		UW54706	Equus sp.	B			Natural Trap Cave, Wyoming, USA	Wyoming	Mitchell, J. et al. 2021?
+MW846164.1		MS440	Equus sp.	B		~41ky	Quartz_Creek	Yukon, Canada	Vershinina et al., 2021
+MW846146.1		JK278	Equus sp.	B		~25ky	Natural Trap Cave	Wyoming	Vershinina et al., 2021
+MW846147.1		JW174_MS289	Equus sp.	B		~13ky	Grand Prairie, Lingrell Pit	Alberta	Vershinina et al., 2021
+MW846159.1		MS338	Equus sp.	B		~39ky	Green_Gulch	Yukon, Canada	Vershinina et al., 2021
+MW846142.1		JK162	Equus sp.	B		~17ky	Jaw Dropper Cave	Idaho	Vershinina et al., 2021
+MW846163.1		MS413	Equus sp.	B			Quartz_Creek	Yukon, Canada	Vershinina et al., 2021
+MW846155.1		MS317	Equus sp.	B			Thistle_Creek	Yukon, Canada	Vershinina et al., 2021
+KT168327.2		PH055	Equus sp.	scotti			Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+MW846113.1		AV108	Equus sp.	scotti			Fairbanks 	Alaska Interior	Vershinina et al., 2021
+MW846123.1		AV151	Equus sp.	scotti			Fairbanks	Alaska Interior	Vershinina et al., 2021
+KT757763.1		TC21	Equus sp.	scotti					
+KT168323.2		PH-2017	Equus sp.	scotti			Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
 ZDT7			Equus ovodovi	B		~40ky			https://doi.org/10.1371/journal.pone.0216883
 ZDT4			Equus ovodovi	B		~30ky			https://doi.org/10.1371/journal.pone.0216883
-NC_020476.1			Equus zebra	outgroup		modern			Vilstrup et al., 2013
-NC_001788.1			Equus asinus	outgroup		modern			Xu et al., 1996
-OL825709.1		UW51648	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825710.1		UW51086	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825711.1		UW54705	Equus sp.				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825712.1		UW50994	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825713.1		IMNH 50001/17237	Equus sp.				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825715.1		UW52689	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825716.1		UW52652	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825717.1		UW50918	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825718.1		UW51530	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825719.1		UW52685	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825720.1		UW54704	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825721.1		UW54706	Equus sp.				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-OL825722.1		UW54188	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Kieren, J. et al. 2021?
-KT168317.2		PH014	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168318.2		MS352	Equus lambei				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+Af2-4			Equus ovodovi	B		~13ky	Afontova Gora II		Kusliy et al. 2026
+Af2-2			Equus ovodovi	B		~13ky	Afontova Gora II		Kusliy et al. 2026
+OV-6			Equus ovodovi	B		~25ky	Shishkin log		Kusliy et al. 2026
+Chel-1			Equus ovodovi	B		~22ky	Chernousov log		Kusliy et al. 2026
+Af2-1			Equus ovodovi	B		~13ky	Afontova Gora II		Kusliy et al. 2026
+OV-4			Equus ovodovi	B		~25ky	Shishkin log		Kusliy et al. 2026
+KY114520.1		DC91	Equus ovodovi	B		~32ky	Denisova Cave?	Altai, Russia	Druzhkova et al., 2017
+NC_018783.1		ACAD2304	Equus ovodovi	B		~45ky	Proskuriakov Cave, Russia		Vilstrup et al., 2013
+JX312725.1		6390	Equus grevyi				Buffalo Springs, Kenya		Vilstrup et al., 2013
+JX312722.2		G51	Equus grevyi				Aalborg Zoo, Denmark		Vilstrup et al., 2013
+JX312723.1		G42	Equus grevyi				Aalborg Zoo, Denmark		Vilstrup et al., 2013
+JX312720.1		CGG10096	Equus grevyi				Longaya Water, Kenya		Vilstrup et al., 2013
+JX312733.2		QH1	Equus quagga	quagga			Museum, Lyon, France		Vilstrup et al., 2013
+JX312721.1		6381	Equus quagga	chapmani			Kenya		Vilstrup et al., 2013
+JX312729.1		CGG10086	Equus quagga	chapmani			National Zoo, USA		Vilstrup et al., 2013
+JX312718.1		1041	Equus zebra hartmannae				Corona, Namibia		Vilstrup et al., 2013
+JX312719.1		H21	Equus zebra hartmannae				Zoo Tierpark Berlin, Germany		Vilstrup et al., 2013
+JX312717.1		1023	Equus zebra hartmannae				Hobatere, Namibia		Vilstrup et al., 2013
+NC_020476.1		H11	Equus zebra hartmannae				Zoo Tierpark Berlin, Germany		Vilstrup et al., 2013
+JX312731.1		K41	Equus kiang				Zoo Tierpark Berlin, Germany		Vilstrup et al., 2013
+JX312732.1		K32	Equus kiang				Zoo Tierpark Berlin, Germany		Vilstrup et al., 2013
+MZ337617.1 			Equus kiang						Direct submission
+JX312728.1		Kulan	Equus hemionus				Zoo Kolmarden, Sweden		Vilstrup et al., 2013
+JX312730.1		O91	Equus hemionus				Zoo Reepark, Denmark		Vilstrup et al., 2013
+PP101610.1		chh003	Equus hydruntinus			~3ky	Turkey		Özkan M et al., 2024
+PP101609.1		cdh010	Equus hydruntinus			~3ky	Turkey		Özkan M et al., 2024
+OP448588.1		cdh008	Equus hydruntinus			~3ky	Turkey		Özkan M et al., 2024
+MK574675.1			Equus hydruntinus			~22ky	San Teodoro Cave, Sicily, Italy		Catalano et al., 2020
+NC_001788.1			Equus asinus						Xu et al., 1996
+AP012271.1			Equus asinus		somalicus				Goto et al. 2011
+JX312727.2		MS272	Haringtonhippus francisci				Upper Quartz Creek, Canada		Vilstrup et al., 2013
 KT168319.2		PH021	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168320.2		MS439	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168321.2		PH047	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168322.2		MS316	Equus lambei				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168323.2		PH-2017	Equus cf. Scotti				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168324.2		PH048	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168325.2		AF037	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168326.2		MS349	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168327.2		PH055	Equus cf. Scotti				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
 KT168328.2		MS341	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168329.2		PH013	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
 KT168330.2		PH035	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168331.2		PH036	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168332.2		PH023	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
 KT168333.2		PH015	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168334.2		PH022	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-KT168335.2		MS426	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168329.2		PH013	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
 KT168336.2		PH008	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168325.2		AF037	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168321.2		PH047	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+MF134662.1		KU 50817	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+OL825720.1		UW54704	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+OL825717.1		UW50918	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+JX312726.1		JW328	Haringtonhippus francisci				Mineral Hill Cave, USA		Vilstrup et al., 2013
+OL825719.1		UW52685	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+OL825718.1		UW51530	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+MF134660.1		KU 33418	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+MF134661.1		KU 53678	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+OL825709.1		UW51648	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+MF134659.1		KU 62055	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+MF134663.1		KU 62158	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+OL825722.1		UW54188	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+OL825712.1		UW50994	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+OL825710.1		UW51086	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+KT168326.2		MS349	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168334.2		PH022	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168331.2		PH036	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+OL825715.1		UW52689	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
+OL825716.1		UW52652	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Mitchell, J. et al. 2021?
 MF134655.1		LACM(CIT) 109/150807	Haringtonhippus francisci				USA: Nevada, Gypsum Cave		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
 MF134656.1		LACM(CIT) 109/149291	Haringtonhippus francisci				USA: Nevada, Gypsum Cave		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
 MF134657.1		LACM(CIT) 109/156450	Haringtonhippus francisci				USA: Nevada, Gypsum Cave		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168317.2		PH014	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168332.2		PH023	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
 MF134658.1		KU 47800	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-MF134659.1		KU 62055	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-MF134660.1		KU 33418	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-MF134661.1		KU 53678	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-MF134662.1		KU 50817	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
-MF134663.1		KU 62158	Haringtonhippus francisci				Natural Trap Cave, Wyoming, USA		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168324.2		PH048	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168320.2		MS439	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KT168335.2		MS426	Haringtonhippus francisci				Yukon, Canada		Heintzman,P.D., Kapp,J.D., Stiller,M. and Shapiro,B
+KM881671.1		AE57-17	Hippidon sp.			~17ky	Cueva Nordenskjöld, Magallanes, Chile		Der Sarkissen et al. 2015
+KM881674.1		CM66	Hippidon sp.				Cueva del Medio, Magallanes, Chile		Der Sarkissen et al. 2015
+KM881672.1		CDM4	Hippidon sp.			~14ky	Cueva del Milodón, Magallanes, Chile		Der Sarkissen et al. 2015
+KM881677.1		EQF	Hippidon sp.			~16ky	Cueva Baño Nuevo-1, Chile		Der Sarkissen et al. 2015
+KM881679.1		OH	Hippidon sp.			~13ky	Cueva del Milodón, Magallanes, Chile		Der Sarkissen et al. 2015
+KM881678.1		JW251	Hippidon sp.				Provincia de Buenos Aires, Argentina		Der Sarkissen et al. 2015
+KM881673.1		CE99208-31	Hippidon sp.			~17ky	Cueva Escondida, Magallanes, Chile		Der Sarkissen et al. 2015
+KM881675.1		CM-A37	Hippidon sp.			~13ky	Cueva del Medio, Magallanes, Chile		Der Sarkissen et al. 2015
