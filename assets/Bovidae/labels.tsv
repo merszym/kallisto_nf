@@ -1,0 +1,346 @@
+Name	LabID	Label	Species	Subspecies	Haplogroup	Description	Age	Location	Reference
+NC_020614.1		NC_020614.1 | Boselaphus tragocamelus	Boselaphus tragocamelus			Boselaphini			
+NC_020788.1		NC_020788.1 | Tetracerus quadricornis	Tetracerus quadricornis			Boselaphini			
+NC_020748.1	MBP15	NC_020748.1 | MBP15 | Tragelaphus angasii	Tragelaphus angasii						
+NC_038064.1		NC_038064.1 | Tragelaphus buxtoni	Tragelaphus buxtoni						
+NC_020749.1	SUN8	NC_020749.1 | SUN8 | Tragelaphus eurycerus	Tragelaphus eurycerus						
+NC_020619.1		NC_020619.1 | Tragelaphus imberbis	Tragelaphus imberbis						
+NC_020750.1	PHC13	NC_020750.1 | PHC13 | Tragelaphus oryx	Tragelaphus oryx						
+NC_020751.1		NC_020751.1 | Tragelaphus scriptus	Tragelaphus scriptus						
+NC_020620.1		NC_020620.1 | Tragelaphus spekii	Tragelaphus spekii						
+NC_020752.1	PHC11	NC_020752.1 | PHC11 | Tragelaphus strepsiceros	Tragelaphus strepsiceros						
+NC_020616.1		NC_020616.1 | Pseudoryx nghetinhensis	Pseudoryx nghetinhensis						
+NC_020617.1		NC_020617.1 | Syncerus caffer	Syncerus caffer						
+NC_057438.1		NC_057438.1 | Bubalus arnee	Bubalus arnee						
+NC_049568.1		NC_049568.1 | Bubalus bubalis	Bubalus bubalis						
+NC_006295.1		NC_006295.1 | Bubalus carabanensis	Bubalus carabanensis						
+NC_020615.1		NC_020615.1 | Bubalus depressicornis	Bubalus depressicornis						
+NC_060307.1		NC_060307.1 | Bubalus quarlesi	Bubalus quarlesi						
+GU946976.1	B790	GU946976.1 | B790 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+GU946977.1	B853	GU946977.1 | B853 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+GU946978.1	B854	GU946978.1 | B854 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+GU946981.1	B880	GU946981.1 | B880 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+GU946983.1	B925	GU946983.1 | B925 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+GU946984.1	B929	GU946984.1 | B929 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+KX269120.1	AF027	KX269120.1 | AF027 | Bison priscus (Clade 1A) | Edmonton, Canada, ~0.3ky	Bison priscus		Clade 1A	Steppe bison	~0.3ky	Edmonton, Canada	10.1073/pnas.1620754114
+NC_012346.1		NC_012346.1 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			
+KX269121.1	AF028	KX269121.1 | AF028 | Bison priscus (Clade 1A) | Edmonton, Canada, ~13ky	Bison priscus		Clade 1A	Steppe bison	~13ky	Edmonton, Canada	10.1073/pnas.1620754114
+GU946980.1	B877	GU946980.1 | B877 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+KX269143.1	PH025	KX269143.1 | PH025 | Bison priscus (Clade 1A) | Edmonton, Canada, ~4.5ky	Bison priscus		Clade 1A	Steppe bison	~4.5ky	Edmonton, Canada	10.1073/pnas.1620754114
+GU946979.1	B855	GU946979.1 | B855 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+GU946982.1	B897	GU946982.1 | B897 | Bison bison (Clade 1A)	Bison bison		Clade 1A	American bison			10.1016/j.mito.2010.09.005
+KX269117.1	AE033	KX269117.1 | AE033 | Bison priscus (Clade 1A) | Char Lake Cave, Canada, ~12ky	Bison priscus		Clade 1A	Steppe bison	~12ky	Char Lake Cave, Canada	10.1073/pnas.1620754114
+KX269136.1	MS213	KX269136.1 | MS213 | Bison priscus | Old Crow, Canada, ~14ky	Bison priscus			Steppe bison	~14ky	Old Crow, Canada	10.1073/pnas.1620754114
+KX269125.1	BL227	KX269125.1 | BL227 | Bison priscus | Inuvik, Canada, ~11ky	Bison priscus			Steppe bison	~11ky	Inuvik, Canada	10.1073/pnas.1620754114
+KX269137.1	MS219	KX269137.1 | MS219 | Bison priscus | Old Crow, Canada, ~14ky	Bison priscus			Steppe bison	~14ky	Old Crow, Canada	10.1073/pnas.1620754114
+KX269140.1	MS223	KX269140.1 | MS223 | Bison priscus | Old Crow, Canada, ~14ky	Bison priscus			Steppe bison	~14ky	Old Crow, Canada	10.1073/pnas.1620754114
+KX269139.1	MS221	KX269139.1 | MS221 | Bison priscus | Old Crow, Canada, ~14.5ky	Bison priscus			Steppe bison	~14.5ky	Old Crow, Canada	10.1073/pnas.1620754114
+KX269129.1	MS018	KX269129.1 | MS018 | Bison priscus | Klondike,Canada, ~30.5ky	Bison priscus			Steppe bison	~30.5ky	Klondike,Canada	10.1073/pnas.1620754114
+KX592174.1	A3133	KX592174.1 | A3133 | Bison priscus | Yukon, Canada, ~26ky	Bison priscus			Steppe bison	~26ky	Yukon, Canada	10.1038/s41598-020-78040-8
+MN049908.1	PH230/F4089	MN049908.1 | PH230/F4089 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+KX269141.1	MS226/DC009	KX269141.1 | MS226/DC009 | Bison priscus | Old Crow, Canada	Bison priscus			Steppe bison		Old Crow, Canada	10.1073/pnas.1620754114
+KX269122.1	B5493	KX269122.1 | B5493 | Bison latifrons | Colorado, USA	Bison latifrons			Steppe bison		Colorado, USA	10.1073/pnas.1620754114
+KX269131.1	MS047	KX269131.1 | MS047 | Bison priscus | Klondike,Canada, ~20ky	Bison priscus			Steppe bison	~20ky	Klondike,Canada	10.1073/pnas.1620754114
+KX269135.1	MS058	KX269135.1 | MS058 | Bison priscus | Klondike,Canada, ~38ky	Bison priscus			Steppe bison	~38ky	Klondike,Canada	10.1073/pnas.1620754114
+KX269134.1	MS057	KX269134.1 | MS057 | Bison priscus | Klondike,Canada, ~42ky	Bison priscus			Steppe bison	~42ky	Klondike,Canada	10.1073/pnas.1620754114
+KX269132.1	MS055	KX269132.1 | MS055 | Bison priscus | Klondike,Canada, ~42.5ky	Bison priscus			Steppe bison	~42.5ky	Klondike,Canada	10.1073/pnas.1620754114
+KX269123.1	BL008	KX269123.1 | BL008 | Bison priscus | Tsiigehtchic, Canada, ~13.5ky	Bison priscus			Steppe bison	~13.5ky	Tsiigehtchic, Canada	10.1073/pnas.1620754114
+KX269124.1	BL225	KX269124.1 | BL225 | Bison priscus | Tuktoyaktuk, Canada, ~13ky	Bison priscus			Steppe bison	~13ky	Tuktoyaktuk, Canada	10.1073/pnas.1620754114
+KX269142.1	MS242	KX269142.1 | MS242 | Bison priscus | Old Crow, Canada, ~14ky	Bison priscus			Steppe bison	~14ky	Old Crow, Canada	10.1073/pnas.1620754114
+MF134653.1	YG 422.21	MF134653.1 | YG 422.21 | Bison priscus | Yukon, Canada, ~5ky	Bison priscus			Steppe bison	~5ky	Yukon, Canada	https://pgl.soe.ucsc.edu/zazula17.pdf
+KX269144.1	PH027	KX269144.1 | PH027 | Bison priscus | Edmonton, Canada, ~13ky	Bison priscus			Steppe bison	~13ky	Edmonton, Canada	10.1073/pnas.1620754114
+KX269118.1	AE035	KX269118.1 | AE035 | Bison priscus | Char Lake Cave, Canada, ~11.5ky	Bison priscus			Steppe bison	~11.5ky	Char Lake Cave, Canada	10.1073/pnas.1620754114
+KX269126.1	BS337/AE032	KX269126.1 | BS337/AE032 | Bison priscus | Char Lake Cave, Canada, ~12.5ky	Bison priscus			Steppe bison	~12.5ky	Char Lake Cave, Canada	10.1073/pnas.1620754114
+KX269145.1	PH034	KX269145.1 | PH034 | Bison priscus | Edmonton, Canada, ~13ky	Bison priscus			Steppe bison	~13ky	Edmonton, Canada	10.1073/pnas.1620754114
+KX269119.1	AF019	KX269119.1 | AF019 | Bison priscus | Edmonton, Canada, ~13ky	Bison priscus			Steppe bison	~13ky	Edmonton, Canada	10.1073/pnas.1620754114
+MN549280.1	UAMES 29458	MN549280.1 | UAMES 29458 | Bison priscus | Alaska, USA, ~46ky	Bison priscus			Steppe bison	~46ky	Alaska, USA	10.1016/j.quascirev.2020.106578
+KX269127.1	MS002	KX269127.1 | MS002 | Bison priscus | Klondike,Canada, ~32ky	Bison priscus			Steppe bison	~32ky	Klondike,Canada	10.1073/pnas.1620754114
+MN049910.1	PH229/F4090	MN049910.1 | PH229/F4090 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+KX269109.1	AE006	KX269109.1 | AE006 | Bison priscus | Chukotka, Russia, ~27ky	Bison priscus			Steppe bison	~27ky	Chukotka, Russia	10.1073/pnas.1620754114
+MN049913.1	PH225/F4095	MN049913.1 | PH225/F4095 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+KX898019.1	Yaku118	KX898019.1 | Yaku118 | Bison priscus | Chersky, Russia	Bison priscus			Steppe bison		Chersky, Russia	10.1186/s12915-016-0317-7
+MN049905.1	PH205/F3006	MN049905.1 | PH205/F3006 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+KX269115.1	AE015	KX269115.1 | AE015 | Bison priscus | Taimyr, Russia, ~47ky	Bison priscus			Steppe bison	~47ky	Taimyr, Russia	10.1073/pnas.1620754114
+KX269112.1	AE010	KX269112.1 | AE010 | Bison priscus | Taimyr, Russia, ~47ky	Bison priscus			Steppe bison	~47ky	Taimyr, Russia	10.1073/pnas.1620754114
+MN049912.1	PH216/F3524	MN049912.1 | PH216/F3524 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+KX898014.1	LBN6A	KX898014.1 | LBN6A | Bison priscus | La Berbie, France	Bison priscus			Steppe bison		La Berbie, France	10.1186/s12915-016-0317-7
+NC_027233.1	SGE2	NC_027233.1 | SGE2 | Bison priscus | Trois-Freres, France, ~19ky	Bison priscus			Steppe bison	~19ky	Trois-Freres, France	
+KX898010.1	GRAL232	KX898010.1 | GRAL232 | Bison priscus | Igue-du-Gral, France	Bison priscus			Steppe bison		Igue-du-Gral, France	10.1186/s12915-016-0317-7
+KX898020.1	Yaku124	KX898020.1 | Yaku124 | Bison priscus | Chersky, Russia	Bison priscus			Steppe bison		Chersky, Russia	10.1186/s12915-016-0317-7
+KX269113.1	AE012	KX269113.1 | AE012 | Bison priscus | Taimyr, Russia, ~36ky	Bison priscus			Steppe bison	~36ky	Taimyr, Russia	10.1073/pnas.1620754114
+KX269114.1	AE014	KX269114.1 | AE014 | Bison priscus | Taimyr, Russia, ~36ky	Bison priscus			Steppe bison	~36ky	Taimyr, Russia	10.1073/pnas.1620754114
+MN049906.1	PH213/F3807	MN049906.1 | PH213/F3807 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+KX898018.1	Yaku115	KX898018.1 | Yaku115 | Bison priscus | Chersky, Russia	Bison priscus			Steppe bison		Chersky, Russia	10.1186/s12915-016-0317-7
+KX269116.1	AE017	KX269116.1 | AE017 | Bison priscus | Taimyr, Russia, ~38ky	Bison priscus			Steppe bison	~38ky	Taimyr, Russia	10.1073/pnas.1620754114
+KX269128.1	MS014	KX269128.1 | MS014 | Bison priscus | Klondike,Canada, ~15ky	Bison priscus			Steppe bison	~15ky	Klondike,Canada	10.1073/pnas.1620754114
+KX269133.1	MS056	KX269133.1 | MS056 | Bison priscus | Klondike,Canada, ~17ky	Bison priscus			Steppe bison	~17ky	Klondike,Canada	10.1073/pnas.1620754114
+KX269138.1	MS220	KX269138.1 | MS220 | Bison priscus | Old Crow, Canada, ~14ky	Bison priscus			Steppe bison	~14ky	Old Crow, Canada	10.1073/pnas.1620754114
+KX269130.1	MS022	KX269130.1 | MS022 | Bison priscus | Klondike,Canada, ~42ky	Bison priscus			Steppe bison	~42ky	Klondike,Canada	10.1073/pnas.1620754114
+MN049911.1	JK502JK537	MN049911.1 | JK502JK537 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+MN049907.1	PH214/F3941	MN049907.1 | PH214/F3941 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+MN049909.1	PH200/F2519	MN049909.1 | PH200/F2519 | Bison priscus | Chukotka, Russia	Bison priscus			Steppe bison		Chukotka, Russia	10.1134/S0044513419100143
+KR350472.1	AE061	KR350472.1 | AE061 | Bison priscus | Chukotka, Russia, ~10ky	Bison priscus			Steppe bison	~10ky	Chukotka, Russia	https://pgl.soe.ucsc.edu/kirillova15.pdf
+GQ464310.1		GQ464310.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+MK033130.1		MK033130.1 | Bos mutus (Clade I)	Bos mutus		Clade I	Wild Yak			
+GQ464280.1		GQ464280.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+NC_006380.3		NC_006380.3 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			
+GQ464305.1		GQ464305.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464255.1		GQ464255.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+KR106993.1		KR106993.1 | Bos mutus (Clade I)	Bos mutus		Clade I	Wild Yak			
+GQ464247.1		GQ464247.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464259.1		GQ464259.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+EF494177.1		EF494177.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			
+GQ464314.1		GQ464314.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+NC_025563.1		NC_025563.1 | Bos mutus (Clade I)	Bos mutus		Clade I	Wild Yak			
+GQ464286.1		GQ464286.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464272.1		GQ464272.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464266.1		GQ464266.1 | Bos grunniens (Clade I)	Bos grunniens		Clade I	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464251.1		GQ464251.1 | Bos grunniens (Clade II)	Bos grunniens		Clade II	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464269.1		GQ464269.1 | Bos grunniens (Clade II)	Bos grunniens		Clade II	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464300.1		GQ464300.1 | Bos grunniens (Clade II)	Bos grunniens		Clade II	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464250.1		GQ464250.1 | Bos grunniens (Clade II)	Bos grunniens		Clade II	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464262.1		GQ464262.1 | Bos grunniens (Clade II)	Bos grunniens		Clade II	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464249.1		GQ464249.1 | Bos grunniens (Clade II)	Bos grunniens		Clade II	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+NC_046055.1	DZO20190618	NC_046055.1 | DZO20190618 | Bos grunniens (Clade II)	Bos grunniens		Clade II				
+GQ464267.1		GQ464267.1 | Bos grunniens (Clade II)	Bos grunniens		Clade II	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+GQ464260.1		GQ464260.1 | Bos grunniens (Clade III)	Bos grunniens		Clade III	Domestic Yak			10.1111/j.1365-2699.2010.02379.x
+PX387681.1	AG036	PX387681.1 | AG036 | Bos mutus (X) | Denisova Cave, Russia, ~130ky	Bos mutus		X	Yak X	~130ky	Denisova Cave, Russia	10.1093/gbe/evaf206
+PX387684.1	UP175	PX387684.1 | UP175 | Bos mutus (X) | Hyaena Den Cave, Russia	Bos mutus		X	Yak X		Hyaena Den Cave, Russia	10.1093/gbe/evaf206
+PX387683.1	UP174	PX387683.1 | UP174 | Bos mutus (X) | Hyaena Den Cave, Russia	Bos mutus		X	Yak X		Hyaena Den Cave, Russia	10.1093/gbe/evaf206
+PX387678.1	UP193	PX387678.1 | UP193 | Bos mutus (X) | Yenisei River, Russia	Bos mutus		X	Yak X		Yenisei River, Russia	10.1093/gbe/evaf206
+PX387680.1	AG028	PX387680.1 | AG028 | Bos mutus (X) | Denisova Cave, Russia, ~130ky	Bos mutus		X	Yak X	~130ky	Denisova Cave, Russia	10.1093/gbe/evaf206
+PX387685.1	AG276	PX387685.1 | AG276 | Bos mutus (X) | Denisova Cave, Russia, ~130ky	Bos mutus		X	Yak X	~130ky	Denisova Cave, Russia	10.1093/gbe/evaf206
+PX387677.1	AG008	PX387677.1 | AG008 | Bos mutus (X) | Denisova Cave, Russia, ~200ky	Bos mutus		X	Yak X	~200ky	Denisova Cave, Russia	10.1093/gbe/evaf206
+NC_036020.1		NC_036020.1 | Bos frontalis	Bos frontalis						
+NC_024818.1		NC_024818.1 | Bos gaurus	Bos gaurus						
+KX592184.1	A018	KX592184.1 | A018 | Bison bonasus (Bb1/1) | Sur’ya, Russia, ~13ky	Bison bonasus		Bb1/1	Schoetensacki?	~13ky	Sur’ya, Russia	10.1038/s41598-020-78040-8
+KX592185.1	A001	KX592185.1 | A001 | Bison bonasus (Bb1/1) | Rasik 1, Russia, ~12.5ky	Bison bonasus		Bb1/1	Schoetensacki?	~12.5ky	Rasik 1, Russia	10.1038/s41598-020-78040-8
+KX592186.1	A003	KX592186.1 | A003 | Bison bonasus (Bb1/1) | Voronovka, Russia, ~12.5ky	Bison bonasus		Bb1/1	Schoetensacki?	~12.5ky	Voronovka, Russia	10.1038/s41598-020-78040-8
+KX592187.1	A006	KX592187.1 | A006 | Bison bonasus (Bb1/1) | Sur’ya, Russia, ~19ky	Bison bonasus		Bb1/1	Schoetensacki?	~19ky	Sur’ya, Russia	10.1038/s41598-020-78040-8
+KX592179.1	LE242B	KX592179.1 | LE242B | Bison bonasus (Bb1/1) | Amvrosievka, Ukraine, ~18.5ky	Bison bonasus		Bb1/1	Schoetensacki?	~18.5ky	Amvrosievka, Ukraine	10.1038/s41598-020-78040-8
+KX592183.1	LE257B	KX592183.1 | LE257B | Bison bonasus (Bb1/1) | Amvrosievka, Ukraine, ~18.5ky	Bison bonasus		Bb1/1	Schoetensacki?	~18.5ky	Amvrosievka, Ukraine	10.1038/s41598-020-78040-8
+KX592189.1	A005	KX592189.1 | A005 | Bison bonasus (Bb1/1) | Ladeinyi Kamen, Russia, ~15ky	Bison bonasus		Bb1/1	Schoetensacki?	~15ky	Ladeinyi Kamen, Russia	10.1038/s41598-020-78040-8
+KX592177.1	LE237A	KX592177.1 | LE237A | Bison bonasus (Bb1/1) | Amvrosievka, Ukraine, ~18.5ky	Bison bonasus		Bb1/1	Schoetensacki?	~18.5ky	Amvrosievka, Ukraine	10.1038/s41598-020-78040-8
+KX592178.1	A15637	KX592178.1 | A15637 | Bison bonasus (Bb1/1) | Aven de l'Arquet, France, >48ky	Bison bonasus		Bb1/1	Schoetensacki?	>48ky	Aven de l'Arquet, France	10.1038/s41598-020-78040-8
+KX592180.1	A15668	KX592180.1 | A15668 | Bison bonasus (Bb1/1) | Vinnytsia, Ukraine, ~13.5ky	Bison bonasus		Bb1/1	Schoetensacki?	~13.5ky	Vinnytsia, Ukraine	10.1038/s41598-020-78040-8
+KX592188.1	A004	KX592188.1 | A004 | Bison bonasus (Bb1/1) | Rasik 1, Russia, ~19ky	Bison bonasus		Bb1/1	Schoetensacki?	~19ky	Rasik 1, Russia	10.1038/s41598-020-78040-8
+KX898007.1	Arq78531	KX898007.1 | Arq78531 | Bison bonasus (Bb1/1) | Aven Arquet, France	Bison bonasus		Bb1/1	Schoetensacki?		Aven Arquet, France	10.1186/s12915-016-0317-7
+KX898015.1	Mez127	KX898015.1 | Mez127 | Bison bonasus (Bb1/1) | Mezmaiskaya Cave, Russia, ~45ky	Bison bonasus		Bb1/1	Schoetensacki?	~45ky	Mezmaiskaya Cave, Russia	10.1186/s12915-016-0317-7
+NC_033873.1	GAO1	NC_033873.1 | GAO1 | Bison schoetensacki (Bb1/1)	Bison schoetensacki 		Bb1/1	Schoetensacki?			
+KX592182.1	A4089	KX592182.1 | A4089 | Bison bonasus (Bb1/1) | Mezmaiskaya Cave, Russia, >59ky	Bison bonasus		Bb1/1	Schoetensacki?	>59ky	Mezmaiskaya Cave, Russia	10.1038/s41598-020-78040-8
+KX592181.1	A007	KX592181.1 | A007 | Bison bonasus (Bb1/1) | Sur’ya, Russia, ~58ky	Bison bonasus		Bb1/1	Schoetensacki?	~58ky	Sur’ya, Russia	10.1038/s41598-020-78040-8
+KX898016.1	Mez128	KX898016.1 | Mez128 | Bison bonasus (Bb1/1) | Mezmaiskaya Cave, Russia, ~45ky	Bison bonasus		Bb1/1	Schoetensacki?	~45ky	Mezmaiskaya Cave, Russia	10.1186/s12915-016-0317-7
+KX898006.1	Arq4445	KX898006.1 | Arq4445 | Bison bonasus (Bb1/2) | Aven Arquet, France	Bison bonasus		Bb1/2	Schoetensacki?		Aven Arquet, France	10.1186/s12915-016-0317-7
+KX898005.1	Arq18	KX898005.1 | Arq18 | Bison bonasus (Bb1/2) | Aven Arquet, France	Bison bonasus		Bb1/2	Schoetensacki?		Aven Arquet, France	10.1186/s12915-016-0317-7
+NC_014044.1		NC_014044.1 | Bison bonasus (Bb2)	Bison bonasus		Bb2	Wisent			
+KX592176.1	A15654	KX592176.1 | A15654 | Bison bonasus (Bb2) | Kuban, Russia	Bison bonasus		Bb2	Wisent		Kuban, Russia	10.1038/s41598-020-78040-8
+HQ223450.1		HQ223450.1 | Bison bonasus (Bb2)	Bison bonasus		Bb2	Wisent			
+JN632602.1	CYTO	JN632602.1 | CYTO | Bison bonasus (Bb2)	Bison bonasus		Bb2	Wisent			https://www.sciencedirect.com/science/article/pii/S1631069111002800
+KX898011.1	KSL	KX898011.1 | KSL | Bison bonasus (Bb2) | Kesslerloch, Switzerland, ~14ky	Bison bonasus		Bb2	Wisent	~14ky	Kesslerloch, Switzerland	10.1186/s12915-016-0317-7
+KX898012.1	Kud133	KX898012.1 | Kud133 | Bison bonasus (Bb2) | Kudaro, Georgia, ~22ky	Bison bonasus		Bb2	Wisent	~22ky	Kudaro, Georgia	10.1186/s12915-016-0317-7
+KX898008.1	GRAL76	KX898008.1 | GRAL76 | Bison bonasus (Bb2) | Igue-du-Gral, France, ~12ky	Bison bonasus		Bb2	Wisent	~12ky	Igue-du-Gral, France	10.1186/s12915-016-0317-7
+KX898009.1	GRAL125	KX898009.1 | GRAL125 | Bison bonasus (Bb2) | Igue-du-Gral, France	Bison bonasus		Bb2	Wisent		Igue-du-Gral, France	10.1186/s12915-016-0317-7
+KX898013.1	Kud136	KX898013.1 | Kud136 | Bison bonasus (Bb2) | Kudaro, Georgia, ~38ky	Bison bonasus		Bb2	Wisent	~38ky	Kudaro, Georgia	10.1186/s12915-016-0317-7
+KX592175.1	A4093	KX592175.1 | A4093 | Bison bonasus (Bb2) | Mezmaiskaya Cave, Russia, >56ky	Bison bonasus		Bb2	Wisent	>56ky	Mezmaiskaya Cave, Russia	10.1038/s41598-020-78040-8
+KX898017.1	Mez130	KX898017.1 | Mez130 | Bison bonasus (Bb2) | Mezmaiskaya Cave, Russia, ~48ky	Bison bonasus		Bb2	Wisent	~48ky	Mezmaiskaya Cave, Russia	10.1186/s12915-016-0317-7
+MT576706.1		MT576706.1 | Bos taurus (Clade T) | China, ~4ky	Bos taurus		Clade T		~4ky	China	10.1038/s41437-021-00428-7
+NC_006853.1		NC_006853.1 | Bos taurus (Clade T)	Bos taurus		Clade T				
+NC_012706.1		NC_012706.1 | Bos taurus (Clade T)	Bos taurus	javanicus	Clade T				
+MT576801.1	SRR934397	MT576801.1 | SRR934397 | Bos taurus (Clade T) | Korea	Bos taurus		Clade T			Korea	10.1038/s41437-021-00428-7
+MZ901742.1	SKB_14	MZ901742.1 | SKB_14 | Bos taurus (Clade T) | Albania	Bos taurus		Clade T			Albania	 https://doi.org/10.1111/eva.13315
+MT576827.1	WMG19	MT576827.1 | WMG19 | Bos taurus (Clade T) | Mongolia	Bos taurus		Clade T			Mongolia	10.1038/s41437-021-00428-7
+MN200846.1	CDY224	MN200846.1 | CDY224 | Bos taurus (Clade T) | China	Bos taurus		Clade T			China	
+MT576842.1	YB4	MT576842.1 | YB4 | Bos taurus (Clade T) | China	Bos taurus		Clade T			China	
+EU177849.1	GR316	EU177849.1 | GR316 | Bos taurus (Clade T) | Greece	Bos taurus		Clade T			Greece	https://doi.org/10.1016/j.cub.2008.01.019
+EU177863.1	Bos36	EU177863.1 | Bos36 | Bos taurus (Clade T) | Italy	Bos taurus		Clade T			Italy	https://doi.org/10.1016/j.cub.2008.01.019
+MZ901743.1	SKB_2	MZ901743.1 | SKB_2 | Bos taurus (Clade T) | Albania	Bos taurus		Clade T			Albania	 https://doi.org/10.1111/eva.13315
+MZ901639.1	CGKO_5	MZ901639.1 | CGKO_5 | Bos taurus (Clade Q) | Greece	Bos taurus		Clade Q			Greece	https://doi.org/10.1111/eva.13315
+MZ901648.1	CGSP_10	MZ901648.1 | CGSP_10 | Bos taurus (Clade Q) | Greece	Bos taurus		Clade Q			Greece	https://doi.org/10.1111/eva.13315
+HQ184039.1	Chi466	HQ184039.1 | Chi466 | Bos taurus (Clade Q) | Italy	Bos taurus		Clade Q			Italy	10.1371/journal.pone.0015760
+HQ184038.1	Cab1	HQ184038.1 | Cab1 | Bos taurus (Clade Q) | Italy	Bos taurus		Clade Q			Italy	10.1371/journal.pone.0015760
+HQ184030.1	Chi467	HQ184030.1 | Chi467 | Bos taurus (Clade Q) | Italy	Bos taurus		Clade Q			Italy	10.1371/journal.pone.0015760
+MZ901652.1	CGSR_12	MZ901652.1 | CGSR_12 | Bos taurus (Clade Q) | Greece	Bos taurus		Clade Q			Greece	https://doi.org/10.1111/eva.13315
+HQ184034.1	Rom534	HQ184034.1 | Rom534 | Bos taurus (Clade Q) | Italy	Bos taurus		Clade Q			Italy	10.1371/journal.pone.0015760
+GU985279.1	CPC98	GU985279.1 | CPC98 | Bos primigenius (Clade P) | Carsington Pasture Cave, England, ~6ky	Bos primigenius		Clade P		~6ky	Carsington Pasture Cave, England	10.1371/journal.pone.0009255
+NC_013996.1		NC_013996.1 | Bos primigenius (Clade P)~6ky	Bos primigenius		Clade P		~6ky		
+MZ901404.1	CAM_21	MZ901404.1 | CAM_21 | Bos taurus (Clade P) | Austria	Bos taurus		Clade P			Austria	https://doi.org/10.1111/eva.13315
+MZ901405.1	CAM_22	MZ901405.1 | CAM_22 | Bos taurus (Clade P) | Austria	Bos taurus		Clade P			Austria	https://doi.org/10.1111/eva.13315
+MF169211.1	Horn-10537	MF169211.1 | Horn-10537 | Bos primigenius (Clade P) | Denmark, ~0.5ky	Bos primigenius		Clade P		~0.5ky	Denmark	10.1016/j.jas.2018.09.001
+MF169212.1	Horn-10543	MF169212.1 | Horn-10543 | Bos primigenius (Clade P) | Denmark, ~0.5ky	Bos primigenius		Clade P		~0.5ky	Denmark	10.1016/j.jas.2018.09.001
+JQ437479.1		JQ437479.1 | Bos primigenius (Clade P) | Poland, ~1.5ky	Bos primigenius		Clade P		~1.5ky	Poland	
+MF169213.1	Horn-CMLIX	MF169213.1 | Horn-CMLIX | Bos primigenius (Clade P) | Denmark, ~0.5ky	Bos primigenius		Clade P		~0.5ky	Denmark	10.1016/j.jas.2018.09.001
+OQ160844.1	HH03C	OQ160844.1 | HH03C | Bos primigenius (Clade C) | China, ~4.5ky	Bos primigenius		Clade C		~4.5ky	China	10.1016/j.jasrep.2023.104136
+OQ160855.1	HH16C	OQ160855.1 | HH16C | Bos primigenius (Clade C) | China, ~4ky	Bos primigenius		Clade C		~4ky	China	10.1016/j.jasrep.2023.104136
+OQ160842.1	HH01C	OQ160842.1 | HH01C | Bos primigenius (Clade C) | China, ~4.5ky	Bos primigenius		Clade C		~4.5ky	China	10.1016/j.jasrep.2023.104136
+OQ160845.1	HH04C	OQ160845.1 | HH04C | Bos primigenius (Clade C) | China, ~4.5ky	Bos primigenius		Clade C		~4.5ky	China	10.1016/j.jasrep.2023.104136
+KF525852.1		KF525852.1 | Bos primigenius (Clade C) | Harbin, China, ~11ky	Bos primigenius		Clade C		~11ky	Harbin, China	10.1038/ncomms3755
+HQ184040.1	Rom498	HQ184040.1 | Rom498 | Bos taurus (Clade R) | Italy	Bos taurus		Clade R			Italy	10.1371/journal.pone.0015760
+HQ184045.1	Mcg375	HQ184045.1 | Mcg375 | Bos taurus (Clade R) | Italy	Bos taurus		Clade R			Italy	10.1371/journal.pone.0015760
+FJ971084.1	Per12	FJ971084.1 | Per12 | Bos taurus (Clade R) | Italy	Bos taurus		Clade R			Italy	10.1371/journal.pone.0005753
+NC_005971.1		NC_005971.1 | Bos taurus (Clade I)	Bos taurus	indicus	Clade I				
+EU177868.1	Bos51	EU177868.1 | Bos51 | Bos taurus (Clade I) | Iraq	Bos taurus	indicus	Clade I			Iraq	https://doi.org/10.1016/j.cub.2008.01.019
+FJ971088.1	Mong01	FJ971088.1 | Mong01 | Bos taurus (Clade I) | Mongolia	Bos taurus	indicus	Clade I			Mongolia	10.1371/journal.pone.0005753
+KP143771.1	XZ1	KP143771.1 | XZ1 | Bos taurus (Clade I) | China	Bos taurus	indicus	Clade I			China	10.3109/19401736.2014.1003849
+EU177870.1	Bos49	EU177870.1 | Bos49 | Bos taurus (Clade I) | Iran	Bos taurus	indicus	Clade I			Iran	https://doi.org/10.1016/j.cub.2008.01.019
+AF492350.1		AF492350.1 | Bos taurus (Clade I)	Bos taurus	indicus	Clade I				10.1159/000118756
+NC_020675.1		NC_020675.1 | Aepyceros melampus	Aepyceros melampus						
+NC_020728.1	SUN	NC_020728.1 | SUN | Neotragus moschatus	Neotragus moschatus 						
+NC_020727.1	CAR86	NC_020727.1 | CAR86 | Neotragus batesi	Neotragus batesi						
+ON101842.1	NBC RB4 D3	ON101842.1 | NBC RB4 D3 | Hippotragus leucophaeus | Nelson Bay Cave, South Africa, ~9.5ky	Hippotragus leucophaeus				~9.5ky	Nelson Bay Cave, South Africa	https://doi.org/10.1093/molbev/msac241
+NC_035309.1		NC_035309.1 | Hippotragus leucophaeus	Hippotragus leucophaeus						
+NC_020712.1	B8-6	NC_020712.1 | B8-6 | Hippotragus equinus	Hippotragus equinus						
+NC_020713.1	ZA4143	NC_020713.1 | ZA4143 | Hippotragus niger	Hippotragus niger 						
+NC_062362.1		NC_062362.1 | Hippotragus niger	Hippotragus niger	niger					
+NC_062361.1		NC_062361.1 | Hippotragus niger	Hippotragus niger	roosevelti					
+NC_062360.1		NC_062360.1 | Hippotragus niger	Hippotragus niger	variani					
+NC_020674.1		NC_020674.1 | Addax nasomaculatus	Addax nasomaculatus						
+NC_020793.1	AWWP	NC_020793.1 | AWWP | Oryx beisa	Oryx beisa						
+NC_058019.1	VZ	NC_058019.1 | VZ | Oryx dammah	Oryx dammah						
+NC_016422.1		NC_016422.1 | Oryx gazella	Oryx gazella						
+NC_020732.1		NC_020732.1 | Oryx leucoryx	Oryx leucoryx						
+NC_023543.1		NC_023543.1 | Damaliscus lunatus	Damaliscus lunatus						
+NC_020627.1		NC_020627.1 | Damaliscus pygargus	Damaliscus pygargus						
+NC_020676.1	SUN	NC_020676.1 | SUN | Alcelaphus buselaphus	Alcelaphus buselaphus						
+NC_020698.1	SUN61	NC_020698.1 | SUN61 | Connochaetes gnou	Connochaetes gnou						
+NC_020699.1	SUN70	NC_020699.1 | SUN70 | Connochaetes taurinus	Connochaetes taurinus						
+NC_007441.1		NC_007441.1 | Pantholops hodgsonii	Pantholops hodgsonii						
+NC_020631.1		NC_020631.1 | Ovibos moschatus	Ovibos moschatus						
+NC_012096.1		NC_012096.1 | Capricornis crispus	Capricornis crispus						
+NC_023457.1		NC_023457.1 | Capricornis milneedwardsii	Capricornis milneedwardsii						
+NC_045205.1		NC_045205.1 | Capricornis rubidus	Capricornis rubidus						
+NC_030179.1	YZ-2016	NC_030179.1 | YZ-2016 | Capricornis sp.	Capricornis sp.						
+NC_020629.1		NC_020629.1 | Capricornis sumatraensis	Capricornis sumatraensis						
+NC_010640.1		NC_010640.1 | Capricornis swinhoei	Capricornis swinhoei						
+NC_020722.1		NC_020722.1 | Naemorhedus baileyi	Naemorhedus baileyi						
+NC_013751.1		NC_013751.1 | Naemorhedus caudatus	Naemorhedus caudatus						
+NC_021381.1		NC_021381.1 | Naemorhedus goral	Naemorhedus goral						
+NC_020723.1		NC_020723.1 | Naemorhedus griseus	Naemorhedus griseus						
+mAFR_0_DMN16-MAR		mAFR_0_DMN16-MAR | Ovis aries (A) | Morocco	Ovis aries		A			Morocco	10.1126/sciadv.adj0954
+KP998470.1		KP998470.1 | Ovis aries (A) | China	Ovis aries		A			China	10.1126/sciadv.adj0954
+KF302441.1		KF302441.1 | Ovis aries (A) | Italy	Ovis aries		A			Italy	10.1126/sciadv.adj0954
+KF938345.1		KF938345.1 | Ovis aries (A) | Azerbaijan	Ovis aries		A			Azerbaijan	10.1126/sciadv.adj0954
+aEU_1630_aFRAN1-DEU		aEU_1630_aFRAN1-DEU | Ovis aries (A) | Germany, ~1.5ky	Ovis aries		A		~1.5ky	Germany	10.1126/sciadv.adj0954
+aGK_6925_aGUV02-TUR		aGK_6925_aGUV02-TUR | Ovis aries (A) | Turkey, ~7ky	Ovis aries		A		~7ky	Turkey	10.1126/sciadv.adj0954
+KP981379.1		KP981379.1 | Ovis aries (B) | China	Ovis aries		B			China	10.1126/sciadv.adj0954
+KF302452.1		KF302452.1 | Ovis aries (B) | Italy	Ovis aries		B			Italy	10.1126/sciadv.adj0954
+KF977845.1		KF977845.1 | Ovis aries (B) | Benin	Ovis aries		B			Benin	10.1126/sciadv.adj0954
+KF938348.1		KF938348.1 | Ovis aries (B) | Uzbekistan	Ovis aries		B			Uzbekistan	10.1126/sciadv.adj0954
+aEU_7230_aDZHU1-BGR		aEU_7230_aDZHU1-BGR | Ovis aries (B) | Bulgaria, ~7ky	Ovis aries		B		~7ky	Bulgaria	10.1126/sciadv.adj0954
+aEU_3930_aSILG1-GBR		aEU_3930_aSILG1-GBR | Ovis aries (B) | Scotland, ~4ky	Ovis aries		B		~4ky	Scotland	10.1126/sciadv.adj0954
+aGK_6925_aGUV11-TUR		aGK_6925_aGUV11-TUR | Ovis aries (B) | Turkey, ~7ky	Ovis aries		B		~7ky	Turkey	10.1126/sciadv.adj0954
+NC_001941.1		NC_001941.1 | Ovis aries (B) | Germany	Ovis aries		B	AF010406.1		Germany	
+aAH2_9625_OARG022-2J		aAH2_9625_OARG022-2J | Ovis aries (Z) | Turkey, ~9.5ky	Ovis aries		Z		~9.5ky	Turkey	10.1126/sciadv.adj0954
+aAH3_9850_OARG130-3C		aAH3_9850_OARG130-3C | Ovis aries (Z) | Turkey, ~10ky	Ovis aries		Z		~10ky	Turkey	10.1126/sciadv.adj0954
+aAH4_10150_OARG075-4		aAH4_10150_OARG075-4 | Ovis aries (Z) | Turkey, ~10ky	Ovis aries		Z		~10ky	Turkey	10.1126/sciadv.adj0954
+HM236181.1		HM236181.1 | Ovis aries (D) | Turkey	Ovis aries		D			Turkey	10.1126/sciadv.adj0954
+aAH4_10150_OARG077-4		aAH4_10150_OARG077-4 | Ovis aries (D) | Turkey, ~10ky	Ovis aries		D		~10ky	Turkey	10.1126/sciadv.adj0954
+aAH3_9850_OARG106-3C		aAH3_9850_OARG106-3C | Ovis aries (D) | Turkey, ~10ky	Ovis aries		D		~10ky	Turkey	10.1126/sciadv.adj0954
+mAFR_0_BGL3-MAR		mAFR_0_BGL3-MAR | Ovis aries (C) | Morocco	Ovis aries		C			Morocco	10.1126/sciadv.adj0954
+KF938320.1		KF938320.1 | Ovis aries (C) | China	Ovis aries		C			China	10.1126/sciadv.adj0954
+KF938327.1		KF938327.1 | Ovis aries (C) | Mongolia	Ovis aries		C			Mongolia	10.1126/sciadv.adj0954
+HM236178.1		HM236178.1 | Ovis aries (C) | Turkey	Ovis aries		C			Turkey	10.1126/sciadv.adj0954
+HE577850.1		HE577850.1 | Ovis aries (C) | Israel	Ovis aries		C			Israel	10.1126/sciadv.adj0954
+aCC_830_aGEO13-GEO		aCC_830_aGEO13-GEO | Ovis aries (C) | Georgia, ~0.5ky	Ovis aries		C		~0.5ky	Georgia	10.1126/sciadv.adj0954
+HM236183.1		HM236183.1 | Ovis aries (E) | Turkey	Ovis aries		E			Turkey	10.1126/sciadv.adj0954
+mOO_0_OGM15-IRN		mOO_0_OGM15-IRN | Ovis gmelini (G) | Iran	Ovis gmelini		G			Iran	10.1126/sciadv.adj0954
+aKT_10730_aKORT1-TUR		aKT_10730_aKORT1-TUR | Ovis gmelini (R) | Turkey, ~11ky	Ovis gmelini		R		~11ky	Turkey	10.1126/sciadv.adj0954
+HM236186.1		HM236186.1 | Ovis vignei | Kazakhstan	Ovis vignei					Kazakhstan	
+NC_026064.1		NC_026064.1 | Ovis vignei	Ovis vignei						
+OZ245309.1		OZ245309.1 | Ovis orientalis | Turkey	Ovis orientalis					Turkey	
+NC_026063.1		NC_026063.1 | Ovis orientalis	Ovis orientalis						
+NC_047196.1		NC_047196.1 | Ovis ammon | China	Ovis ammon					China	
+NC_020656.1		NC_020656.1 | Ovis ammon	Ovis ammon						
+NC_015889.1		NC_015889.1 | Ovis canadensis	Ovis canadensis						
+NC_039432.1		NC_039432.1 | Ovis dalli	Ovis dalli						
+NC_039431.1		NC_039431.1 | Ovis nivicola	Ovis nivicola						
+NC_009510.1		NC_009510.1 | Ammotragus lervia	Ammotragus lervia						
+NC_020789.1		NC_020789.1 | Rupicapra pyrenaica (mtW)	Rupicapra pyrenaica	parva	mtW				
+MW713525.1	CBWo24	MW713525.1 | CBWo24 | Rupicapra pyrenaica (mtW) | Spain	Rupicapra pyrenaica	parva	mtW			Spain	https://doi.org/10.3390/ani12111430
+KJ184173.1		KJ184173.1 | Rupicapra rupicapra (mtC) | Italy	Rupicapra rupicapra		mtC			Italy	https://doi.org/10.1016/j.ympev.2014.07.004
+KJ184175.1		KJ184175.1 | Rupicapra rupicapra (mtC) | France	Rupicapra rupicapra		mtC			France	https://doi.org/10.1016/j.ympev.2014.07.004
+MW713526.1	CPo06	MW713526.1 | CPo06 | Rupicapra rupicapra (mtE) | Romania	Rupicapra rupicapra	carpatica	mtE			Romania	https://doi.org/10.3390/ani12111430
+NC_020633.1		NC_020633.1 | Rupicapra rupicapra (mtE)	Rupicapra rupicapra		mtE	FJ207539			
+MW713527.1	TAo02	MW713527.1 | TAo02 | Rupicapra rupicapra (mtE) | Poland	Rupicapra rupicapra	tatrica	mtE			Poland	https://doi.org/10.3390/ani12111430
+MW713528.1	BAo17	MW713528.1 | BAo17 | Rupicapra rupicapra (mtE) | Serbia	Rupicapra rupicapra	balcanica	mtE			Serbia	https://doi.org/10.3390/ani12111430
+MW713529.1	BAo20	MW713529.1 | BAo20 | Rupicapra rupicapra (mtE) | North Macedonia	Rupicapra rupicapra	balcanica	mtE			North Macedonia	https://doi.org/10.3390/ani12111430
+MW713530.1	BAo20	MW713530.1 | BAo20 | Rupicapra rupicapra (mtE) | Turkey	Rupicapra rupicapra	asiatica	mtE			Turkey	https://doi.org/10.3390/ani12111430
+MW713531.1	CUo05	MW713531.1 | CUo05 | Rupicapra rupicapra (mtE) | Georgia	Rupicapra rupicapra	caucasica	mtE			Georgia	https://doi.org/10.3390/ani12111430
+NC_020630.1		NC_020630.1 | Oreamnos americanus	Oreamnos americanus						
+NC_013069.1		NC_013069.1 | Budorcas taxicolor	Budorcas taxicolor						
+NC_043930.1		NC_043930.1 | Budorcas taxicolor	Budorcas taxicolor	taxicolor					
+NC_039686.1		NC_039686.1 | Budorcas taxicolor	Budorcas taxicolor	tibetana					
+NC_020632.1		NC_020632.1 | Pseudois nayaur	Pseudois nayaur						
+NC_016689.1		NC_016689.1 | Pseudois schaeferi	Pseudois schaeferi						
+NC_020623.1		NC_020623.1 | Capra ibex	Capra ibex			FJ207526			
+SRR16114462	BE1	SRR16114462 | BE1 | Capra ibex | Italy	Capra ibex					Italy	https://doi.org/10.1111/mec.16503
+SRR16114463	Aos1	SRR16114463 | Aos1 | Capra ibex | Italy	Capra ibex					Italy	https://doi.org/10.1111/mec.16503
+SRR16114457	Gro1	SRR16114457 | Gro1 | Capra ibex | Austria, ~7ky	Capra ibex				~7ky	Austria	https://doi.org/10.1111/mec.16503
+SRR16114452	Zu01	SRR16114452 | Zu01 | Capra ibex | Switzerland	Capra ibex					Switzerland	https://doi.org/10.1111/mec.16503
+SRR16114451	Zue2	SRR16114451 | Zue2 | Capra ibex | Switzerland	Capra ibex					Switzerland	https://doi.org/10.1111/mec.16503
+SRR16114458	Pil2	SRR16114458 | Pil2 | Capra ibex | Switzerland, ~4ky	Capra ibex				~4ky	Switzerland	https://doi.org/10.1111/mec.16503
+SRR16114449	Lu04	SRR16114449 | Lu04 | Capra ibex | Switzerland, ~3ky	Capra ibex				~3ky	Switzerland	https://doi.org/10.1111/mec.16503
+SRR16114450	Lu01	SRR16114450 | Lu01 | Capra ibex | Switzerland, ~4.5ky	Capra ibex				~4.5ky	Switzerland	https://doi.org/10.1111/mec.16503
+SRR16114461	Lu2	SRR16114461 | Lu2 | Capra ibex | Switzerland, ~6.5ky	Capra ibex				~6.5ky	Switzerland	https://doi.org/10.1111/mec.16503
+SRR16114459	Na1	SRR16114459 | Na1 | Capra ibex | Switzerland, ~4.5ky	Capra ibex				~4.5ky	Switzerland	https://doi.org/10.1111/mec.16503
+NC_020625.1		NC_020625.1 | Capra pyrenaica	Capra pyrenaica			FJ207528.1			
+KR059203.1		KR059203.1 | Capra hircus	Capra hircus						
+KR059204.1		KR059204.1 | Capra hircus	Capra hircus						
+KR059210.1		KR059210.1 | Capra aegagrus	Capra aegagrus						
+NC_028161.1		NC_028161.1 | Capra aegagrus	Capra aegagrus			KT290893.1			
+NC_005044.2	V07-146	NC_005044.2 | V07-146 | Capra hircus	Capra hircus						
+OQ998914.1		OQ998914.1 | Capra sibirica	Capra sibirica						
+OQ998915.1		OQ998915.1 | Capra sibirica	Capra sibirica						
+OW568913.1		OW568913.1 | Capra sibirica	Capra sibirica						
+NC_020622.1		NC_020622.1 | Capra falconeri	Capra falconeri			FJ207525.1			
+NC_020683.1	MA4105	NC_020683.1 | MA4105 | Capra caucasica	Capra caucasica						
+OW568915.1		OW568915.1 | Capra cylindricornis	Capra cylindricornis						
+NC_020624.1		NC_020624.1 | Capra nubiana	Capra nubiana			FJ207527.1			
+OW568914.1		OW568914.1 | Capra walie	Capra walie						
+NC_020626.1		NC_020626.1 | Capra sibirica	Capra sibirica			FJ207529.1			
+PV890828.1	TCD06G	PV890828.1 | TCD06G | Capra sibirica | China, ~1ky	Capra sibirica				~1ky	China	https://doi.org/10.1080/23802359.2025.2604864
+NC_020628.1		NC_020628.1 | Hemitragus jemlahicus	Hemitragus jemlahicus						
+NC_020621.1		NC_020621.1 | Hemitragus jayakari	Hemitragus jayakari						
+NC_020734.1		NC_020734.1 | Pelea capreolus	Pelea capreolus						
+NC_020794.1		NC_020794.1 | Redunca arundinum	Redunca arundinum						
+NC_020742.1		NC_020742.1 | Redunca fulvorufula	Redunca fulvorufula						
+NC_020715.1		NC_020715.1 | Kobus ellipsiprymnus	Kobus ellipsiprymnus						
+NC_018603.1		NC_018603.1 | Kobus leche	Kobus leche						
+NC_020731.1		NC_020731.1 | Oreotragus oreotragus	Oreotragus oreotragus						
+NC_020735.1		NC_020735.1 | Philantomba maxwellii	Philantomba maxwellii						
+NC_020736.1		NC_020736.1 | Philantomba monticola	Philantomba monticola						
+NC_020747.1	SUN	NC_020747.1 | SUN | Sylvicapra grimmia	Sylvicapra grimmia						
+NC_020685.1		NC_020685.1 | Cephalophus adersi	Cephalophus adersi						
+NC_020686.1		NC_020686.1 | Cephalophus callipygus	Cephalophus callipygus						
+NC_020687.1		NC_020687.1 | Cephalophus dorsalis	Cephalophus dorsalis						
+NC_020688.1		NC_020688.1 | Cephalophus jentinki	Cephalophus jentinki						
+NC_020689.1		NC_020689.1 | Cephalophus leucogaster	Cephalophus leucogaster						
+NC_020690.1		NC_020690.1 | Cephalophus natalensis	Cephalophus natalensis						
+NC_020691.1		NC_020691.1 | Cephalophus nigrifrons	Cephalophus nigrifrons						
+NC_020692.1		NC_020692.1 | Cephalophus ogilbyi	Cephalophus ogilbyi						
+NC_020693.1		NC_020693.1 | Cephalophus rufilatus	Cephalophus rufilatus						
+NC_020694.1		NC_020694.1 | Cephalophus silvicultor	Cephalophus silvicultor						
+NC_020695.1		NC_020695.1 | Cephalophus spadix	Cephalophus spadix						
+NC_020738.1		NC_020738.1 | Procapra gutturosa	Procapra gutturosa						
+NC_014875.1		NC_014875.1 | Procapra przewalskii	Procapra przewalskii						
+NC_020741.1		NC_020741.1 | Raphicerus campestris	Raphicerus campestris						
+NC_020701.1		NC_020701.1 | Dorcatragus megalotis	Dorcatragus megalotis						
+NC_020717.1		NC_020717.1 | Madoqua kirkii	Madoqua kirkii						
+NC_020718.1		NC_020718.1 | Madoqua saltiana	Madoqua saltiana						
+NC_020733.1		NC_020733.1 | Ourebia ourebi	Ourebia ourebi						
+NC_020746.1		NC_020746.1 | Saiga tatarica	Saiga tatarica						
+NC_020678.1		NC_020678.1 | Antidorcas marsupialis	Antidorcas marsupialis						
+NC_020716.1		NC_020716.1 | Litocranius walleri	Litocranius walleri						
+NC_012098.1		NC_012098.1 | Antilope cervicapra	Antilope cervicapra						
+NC_020703.1		NC_020703.1 | Gazella bennettii	Gazella bennettii						
+NC_020704.1		NC_020704.1 | Gazella cuvieri	Gazella cuvieri						
+NC_020705.1		NC_020705.1 | Gazella dorcas	Gazella dorcas						
+NC_020706.1		NC_020706.1 | Gazella erlangeri	Gazella erlangeri						
+NC_020707.1		NC_020707.1 | Gazella gazella	Gazella gazella						
+NC_020708.1		NC_020708.1 | Gazella leptoceros	Gazella leptoceros						
+NC_020709.1		NC_020709.1 | Gazella spekei	Gazella spekei						
+NC_020710.1		NC_020710.1 | Gazella subgutturosa	Gazella subgutturosa						
+NC_020702.1		NC_020702.1 | Eudorcas rufifrons	Eudorcas rufifrons						
+NC_039669.1		NC_039669.1 | Eudorcas thomsonii	Eudorcas thomsonii						
+NC_020724.1		NC_020724.1 | Nanger dama	Nanger dama						
+NC_020725.1		NC_020725.1 | Nanger granti	Nanger granti						
+NC_020726.1		NC_020726.1 | Nanger soemmerringii	Nanger soemmerringii						
