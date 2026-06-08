@@ -1,54 +1,120 @@
-Name	Label	Species	Haplogroup	Description	Age	Location	Reference
-EF196663.1	EF196663.1 | Ailuropoda melanoleuca | China	Ailuropoda melanoleuca			0	China	
-NC_011116.1	NC011116.1 | Arctodus simus | Canada	Arctodus simus			0	Canada	
-NC_030174.1	NC030174.1 | Arctotherium sp. | America	Arctotherium sp.			0	America	
-EF196665.1	EF196665.1 | Tremarctos ornatus | China	Tremarctos ornatus			0	China	
-FM177763.1	FM177763.1 | melursus ursinus	melursus ursinus			0		
-EF196664.1	EF196664.1 | Helarctos malayanus | China	Helarctos malayanus			0	China	
-MN807949.1	MN807949.1 | Helarctos malayanus | Malaysia	Helarctos malayanus			0	Malaysia	
-JX196366.1	JX196366.1 | Ursus americanus | USA	Ursus americanus			0	USA	
-AF303109.1	AF303109.1 | Ursus americanus | USA	Ursus americanus			0	USA	
-DQ402478.1	DQ402478.1 | Ursus thibetanus | China	Ursus thibetanus			0	China	
-NC_009331.1	NC009331.1 | Ursus thibetanus | Asia	Ursus thibetanus			0	Asia	
-NC_011118.1	NC011118.1 | Ursus thibetanus | Asia	Ursus thibetanus			0	Asia	
-JX196374.1	JX196374.1 | Ursus maritimus | Grp: 2b | 0 | Alaska_USA	Ursus maritimus	2b		0	Alaska_USA	
-JX196392.1	JX196392.1 | Ursus maritimus | Grp: 2b | 0 | Svalbard_Norway	Ursus maritimus	2b		0	Svalbard_Norway	
-JX196368.1	JX196368.1 | Ursus arctos | Grp: 2a | 0 | ABC Islands	Ursus arctos	2a		0	ABC Islands	
-EU497665.1	EU497665.1 | Ursus arctos | Grp: 1 | 0 | Europe	Ursus arctos	1		0	Europe	
-AF303110.1	AF303110.1 | Ursus arctos | Grp: 4 | 0 | America	Ursus arctos	4		0	America	
-AP012572.1	AP012572.1 | Ursus arctos | Grp: 3b | 0 | Hokkaido	Ursus arctos	3b		0	Hokkaido	
-GU573491.1	GU573491.1 | Ursus arctos | Grp: 3a1 | 0 | Alaska	Ursus arctos	3a1		0	Alaska	
-AP012559.1	AP012559.1 | Ursus arctos | Grp: 3a2 | 0 | Hokkaido	Ursus arctos	3a2		0	Hokkaido	
-FN390851.1	FN390851.1 | Ursus spelaeus | Zoolithencave_Germany	Ursus spelaeus		SP1334		Zoolithencave_Germany	
-FN390850.1	FN390850.1 | Ursus spelaeus | Zoolithencave_Germany	Ursus spelaeus		SP1330		Zoolithencave_Germany	
-FN390849.1	FN390849.1 | Ursus spelaeus | Zoolithencave_Germany	Ursus spelaeus		SP1325		Zoolithencave_Germany	
-FN390852.1	FN390852.1 | Ursus spelaeus | Herrmannscave_Germany	Ursus spelaeus		SP1497		Herrmannscave_Germany	
-FN390868.1	FN390868.1 | Ursus spelaeus | 24090 | Eiros_Spain	Ursus spelaeus		SP2091	24090	Eiros_Spain	
-FN390865.1	FN390865.1 | Ursus spelaeus | 35220 | Linares_Spain	Ursus spelaeus		SP2081	35220	Linares_Spain	
-FN390855.1	FN390855.1 | Ursus spelaeus | 32800 | ArcyCure_France	Ursus spelaeus		SP1659	32800	ArcyCure_France	
-FN390867.1	FN390867.1 | Ursus spelaeus | 35230 | Costillas_Spain	Ursus spelaeus		SP2085	35230	Costillas_Spain	
-FN390866.1	FN390866.1 | Ursus spelaeus | 35230 | Costillas_Spain	Ursus spelaeus		SP2083	35230	Costillas_Spain	
-EU327344.1	EU327344.1 | Ursus spelaeus | 32000 | Chauvet_France	Ursus spelaeus			32000	Chauvet_France	
-FN390871.1	FN390871.1 | Ursus ladinicus | GrotteDours_France	Ursus ladinicus		SP2129		GrotteDours_France	
-FN390847.1	FN390847.1 | Ursus eremus | Herdengel_Austria	Ursus eremus		SP370		Herdengel_Austria	
-FN390872.1	FN390872.1 | Ursus eremus | Schneiberhoehle_Germany	Ursus eremus		SP2133		Schneiberhoehle_Germany	
-FN390856.1	FN390856.1 | Ursus ingressus | Grp: C |  | DivjieBabe_Slovenia	Ursus ingressus	C	SP1844		DivjieBabe_Slovenia	
-FN390861.1	FN390861.1 | Ursus ingressus | Grp: C | 44050 | Serpievskaya_Russia	Ursus ingressus	C	SP2064	44050	Serpievskaya_Russia	
-NC_011112.1	NC011112.1 | Ursus ingressus | Grp: C | 44160 | Gamssulzen_Austria	Ursus ingressus	C		44160	Gamssulzen_Austria	
-FN390860.1	FN390860.1 | Ursus ingressus | Grp: C |  | BolshoiGlukhoi_Russia	Ursus ingressus	C	SP2062		BolshoiGlukhoi_Russia	
-FN390862.1	FN390862.1 | Ursus ingressus | Grp: C |  | Medvezhiya_Russia	Ursus ingressus	C	SP2065		Medvezhiya_Russia	
-FN390842.1	FN390842.1 | Ursus ingressus | Grp: C | 27230 | Nixloch_Austria	Ursus ingressus	C	SP232	27230	Nixloch_Austria	
-FN390869.1	FN390869.1 | Ursus ingressus | Grp: C | 24210 | Geissenkloesterle_Germany	Ursus ingressus	C	SP2106	24210	Geissenkloesterle_Germany	
-FN390859.1	FN390859.1 | Ursus ingressus | Grp: C | 27180 | Geissenkloesterle_Germany	Ursus ingressus	C	SP2027	27180	Geissenkloesterle_Germany	
-FN390844.1	FN390844.1 | Ursus ingressus | Grp: C | 26900 | PotockaZijalka_Slovenia	Ursus ingressus	C	SP234	26900	PotockaZijalka_Slovenia	
-FN390845.1	FN390845.1 | Ursus ingressus | Grp: C |  | Gamssulzen_Austria	Ursus ingressus	C	SP335		Gamssulzen_Austria	
-FN390843.1	FN390843.1 | Ursus ingressus | Grp: C |  | PotockaZijalka_Slovenia	Ursus ingressus	C	SP233		PotockaZijalka_Slovenia	
-FN390857.1	FN390857.1 | Ursus ingressus | Grp: C |  | DivjieBabe_Slovenia	Ursus ingressus	C	SP1845		DivjieBabe_Slovenia	
-FN390858.1	FN390858.1 | Ursus ingressus | Grp: C |  | DivjieBabe_Slovenia	Ursus ingressus	C	SP1850		DivjieBabe_Slovenia	
-FN390854.1	FN390854.1 | Ursus ingressus | Grp: SE | 44550 | Oase_Romania	Ursus ingressus	SE	SP1629	44550	Oase_Romania	
-FN390853.1	FN390853.1 | Ursus ingressus | Grp: SE | 46614 | Oase_Romania	Ursus ingressus	SE	SP1626	46614	Oase_Romania	
-FN390870.1	FN390870.1 | Ursus ingressus | Grp: SE |  | Medvedia jaskyna_Slovakia	Ursus ingressus	SE	SP2125		Medvedia jaskyna_Slovakia	
-FN390848.1	FN390848.1 | Ursus ingressus | Grp: W |  | Zoolithencave_Germany	Ursus ingressus	W	SP1324		Zoolithencave_Germany	
-FN390863.1	FN390863.1 | Ursus deningeri kudarensis | 50000 | Hovk-1_Armenia	Ursus deningeri kudarensis		SP2073	50000	Hovk-1_Armenia	
-FN390864.1	FN390864.1 | Ursus deningeri kudarensis | 50000 | Hovk-1_Armenia	Ursus deningeri kudarensis		SP2074	50000	Hovk-1_Armenia	
-KF437625.2	KF437625 | Ursus deningeri | 120000 | Sima_Spain	Ursus deningeri			120000	Sima_Spain	
+Name	Lab ID	Label	Group	Species	Subspecies	Haplogroup	Description	Age	Location	Reference
+EF196663.1		EF196663.1 Ailuropoda melanoleuca 		Ailuropoda melanoleuca					China	
+NC_011116.1		NC_011116.1 Arctodus simus 		Arctodus simus					Canada	
+NC_030174.1		NC_030174.1 Arctotherium sp. 		Arctotherium sp.					America	
+EF196665.1		EF196665.1 Tremarctos ornatus 		Tremarctos ornatus					China	
+FM177763.1		FM177763.1 melursus ursinus 		melursus ursinus						
+EF196664.1		EF196664.1 Helarctos malayanus 		Helarctos malayanus					China	
+MN807949.1		MN807949.1 Helarctos malayanus 		Helarctos malayanus					Malaysia	
+AB863014.1		AB863014.1 Ursus thibetanus 		Ursus thibetanus	japonicus					
+DQ402478.1		DQ402478.1 Ursus thibetanus 		Ursus thibetanus					China	
+NC_009331.1		NC_009331.1 Ursus thibetanus 		Ursus thibetanus	formosanus					
+NC_011118.1		NC_011118.1 Ursus thibetanus 		Ursus thibetanus	thibetanus					
+AF303109.1		AF303109.1 Ursus americanus 		Ursus americanus					USA	
+KM257060.1		KM257060.1 Ursus americanus A		Ursus americanus		A				
+KM257059.1		KM257059.1 Ursus americanus A		Ursus americanus		A				
+OQ318935.1	Mamm:223227	OQ318935.1 Ursus americanus A		Ursus americanus		A			Alaska, USA	10.1111/mec.16960
+OQ318944.1	Mamm:268474	OQ318944.1 Ursus americanus A		Ursus americanus		A			New Mexico, USA	10.1111/mec.16960
+JX196366.1		JX196366.1 Ursus americanus A		Ursus americanus		A			USA	
+OQ318903.1	UAMES 53068	OQ318903.1 Ursus americanus B1		Ursus americanus		B1		4350		10.1111/mec.16960
+OQ318910.1	Mamm:157987	OQ318910.1 Ursus americanus B1		Ursus americanus		B1			Alaska, USA	10.1111/mec.16960
+OQ318905.1	UAMES 53138	OQ318905.1 Ursus americanus B1		Ursus americanus		B1		7160		10.1111/mec.16960
+OQ318913.1	UAMES 53083	OQ318913.1 Ursus americanus B1		Ursus americanus		B1		9800		10.1111/mec.16960
+OQ318917.1	UAMES 53095	OQ318917.1 Ursus americanus B2		Ursus americanus		B2		>36,770		10.1111/mec.16960
+OQ318928.1	UAMES 53135	OQ318928.1 Ursus americanus B2		Ursus americanus		B2		>38,800		10.1111/mec.16960
+OQ318920.1	UAMES 53117	OQ318920.1 Ursus americanus B2		Ursus americanus		B2		>37,900		10.1111/mec.16960
+OQ318914.1	UAMES 53115	OQ318914.1 Ursus americanus B2		Ursus americanus		B2		>34,000		10.1111/mec.16960
+FN390863.1	SP2073	FN390863.1 Ursus deningeri kudarensis 		Ursus deningeri kudarensis				50000	Hovk-1_Armenia	
+FN390864.1	SP2074	FN390864.1 Ursus deningeri kudarensis 		Ursus deningeri kudarensis				50000	Hovk-1_Armenia	
+MH605139.1		MH605139.1 Ursus deningeri kudarensis 		Ursus deningeri kudarensis					Hovk-1_Armenia	
+KF437625.2		KF437625.2 Ursus deningeri 		Ursus deningeri				120000	Sima_Spain	
+KX641330.1	PA1	KX641330.1 Ursus spelaeus 		Ursus spelaeus			or ingressus?	~38ky		
+MN311250.1	USR67	MN311250.1 Ursus ingressus 		Ursus ingressus			or ingressus?	~35ky		
+NC_011112.1		NC_011112.1 Ursus spelaeus 		Ursus spelaeus						
+EU327344.1		EU327344.1 Ursus spelaeus 		Ursus spelaeus				~31ky		
+KX641291.1	CB_E16	KX641291.1 Ursus spelaeus 		Ursus spelaeus				~34ky		
+KX641337.1	UD1838	KX641337.1 Ursus spelaeus 		Ursus spelaeus				~34ky		
+KX641298.1	CB_L17	KX641298.1 Ursus spelaeus 		Ursus spelaeus				~34ky		
+KX641304.1	CB_C7	KX641304.1 Ursus spelaeus 		Ursus spelaeus				~43ky		
+KX641293.1	CB_L1	KX641293.1 Ursus spelaeus 		Ursus spelaeus				~46.5ky		
+KX641309.1	CB_A2	KX641309.1 Ursus spelaeus 		Ursus spelaeus				~40ky		
+KX641294.1	CB_L2	KX641294.1 Ursus spelaeus 		Ursus spelaeus				~48ky		
+KX641305.1	CB_C8	KX641305.1 Ursus spelaeus 		Ursus spelaeus				~42ky		
+KX641302.1	CB_C2	KX641302.1 Ursus spelaeus 		Ursus spelaeus				~42ky		
+KX641307.1	CB_C11	KX641307.1 Ursus spelaeus 		Ursus spelaeus				~42ky		
+KX641311.1	CB_Am6	KX641311.1 Ursus spelaeus 		Ursus spelaeus				~43.5ky		
+KX641310.1	CB_Am2	KX641310.1 Ursus spelaeus 		Ursus spelaeus				~43.5ky		
+KX641312.1	CB_Am8	KX641312.1 Ursus spelaeus 		Ursus spelaeus				~43.5ky		
+FN390851.1	SP1334	FN390851.1 Ursus spelaeus 		Ursus spelaeus					Zoolithencave_Germany	
+FN390850.1	SP1330	FN390850.1 Ursus spelaeus 		Ursus spelaeus					Zoolithencave_Germany	
+FN390849.1	SP1325	FN390849.1 Ursus spelaeus 		Ursus spelaeus					Zoolithencave_Germany	
+FN390852.1	SP1497	FN390852.1 Ursus spelaeus 		Ursus spelaeus					Herrmannscave_Germany	
+FN390868.1	SP2091	FN390868.1 Ursus spelaeus 		Ursus spelaeus				~24ky	Eiros_Spain	
+FN390865.1	SP2081	FN390865.1 Ursus spelaeus 		Ursus spelaeus				~35ky	Linares_Spain	
+FN390855.1	SP1659	FN390855.1 Ursus spelaeus 		Ursus spelaeus				~33ky	ArcyCure_France	
+FN390867.1	SP2085	FN390867.1 Ursus spelaeus 		Ursus spelaeus				~35ky	Costillas_Spain	
+FN390866.1	SP2083	FN390866.1 Ursus spelaeus 		Ursus spelaeus				~35ky	Costillas_Spain	
+EU327344.1		EU327344.1 Ursus spelaeus 		Ursus spelaeus				~32ky	Chauvet_France	
+MW257206.1		MW257206.1 Ursus arctos 		Ursus arctos	isabellinus					
+MG066705.1		MG066705.1 Ursus arctos 		Ursus arctos	isabellinus					
+OK512929.1		OK512929.1 Ursus arctos 2c		Ursus arctos		2c		~95ky		
+OK512945.1		OK512945.1 Ursus arctos 2c		Ursus arctos		2c		~111.5ky		
+OK512922.1		OK512922.1 Ursus arctos 2c		Ursus arctos		2c		~100.5ky		
+OK512951.1		OK512951.1 Ursus arctos 2c		Ursus arctos		2c		~82.5ky		
+OK512913.1		OK512913.1 Ursus arctos 2c		Ursus arctos		2c		~41ky		
+OK512930.1		OK512930.1 Ursus arctos 2c		Ursus arctos		2c		~56ky		
+AP012591.1		AP012591.1 Ursus arctos 1		Ursus arctos		1				
+MF593976.1		MF593976.1 Ursus arctos 1		Ursus arctos		1				
+KY419697.1	SWE20W	KY419697.1 Ursus arctos 1		Ursus arctos		1				
+KX641327.1	BB_PV1	KX641327.1 Ursus arctos 1		Ursus arctos		1		~10.5ky		
+MF593958.1	SPA1	MF593958.1 Ursus arctos 1		Ursus arctos		1				
+EU497665.1		EU497665.1 Ursus arctos 1		Ursus arctos		1			Europe	
+GU573488.1		GU573488.1 Ursus_maritimus 2b		Ursus_maritimus		2b		~120ky	Poolepynten, Norway	https://doi.org/10.1073/pnas.0914266107
+GU573485.1		GU573485.1 Ursus_maritimus 2b		Ursus_maritimus		2b		~2.5ky		
+JX196374.1		JX196374.1 Ursus maritimus 2b		Ursus maritimus		2b			Alaska_USA	
+JX196392.1		JX196392.1 Ursus maritimus 2b		Ursus maritimus		2b			Svalbard_Norway	
+OK512937.1	FAM_95657	OK512937.1 Ursus arctos 2a		Ursus arctos		2a		~23ky		
+OK512963.1		OK512963.1 Ursus arctos 2a		Ursus arctos		2a		~14ky	Canada	
+OK512911.1	AK-374-V-8	OK512911.1 Ursus arctos 2a		Ursus arctos		2a		~11.5ky		
+JX196369.1	ABC1-051711	JX196369.1 Ursus arctos 2a		Ursus arctos		2a				
+JX196368.1		JX196368.1 Ursus arctos 2a		Ursus arctos		2a			ABC Islands	
+OK512980.1		OK512980.1 Ursus arctos 4		Ursus arctos		4		~102ky	China	https://doi.org/10.1111/mec.16267
+AP012575.1		AP012575.1 Ursus arctos 4		Ursus arctos		4		~5ky		
+OK512954.1		OK512954.1 Ursus arctos 4		Ursus arctos		4		~31ky	Canada	
+NC_003427.1		NC_003427.1 Ursus arctos 4		Ursus arctos		4				
+AF303110.1		AF303110.1 Ursus arctos 4		Ursus arctos		4			America	
+OK512933.1		OK512933.1 Ursus arctos 3c		Ursus arctos		3c		~49ky	USA	
+OK512944.1		OK512944.1 Ursus arctos 3c		Ursus arctos		3c		~49.5ky	USA	
+MH255807.1		MH255807.1 Ursus arctos 3b		Ursus arctos		3b		~61ky	Yakutia, Russia	
+OK512973.1		OK512973.1 Ursus arctos 3b		Ursus arctos		3b		~17ky	Russia	
+AP012572.1		AP012572.1 Ursus arctos 3b		Ursus arctos		3b			Hokkaido	
+AP012582.1		AP012582.1 Ursus arctos 3b		Ursus arctos		3b				
+OK512941.1		OK512941.1 Ursus arctos 3b		Ursus arctos		3b		~11.5ky		
+OK512967.1		OK512967.1 Ursus arctos 3a		Ursus arctos		3a		~47ky	Russia	
+OK512974.1		OK512974.1 Ursus arctos 3a		Ursus arctos		3a		~46.5ky	Russia	
+AP012559.1		AP012559.1 Ursus arctos 3a		Ursus arctos		3a			Japan	
+OK512892.1		OK512892.1 Ursus arctos 3a1		Ursus arctos		3a1				
+GU573491.1		GU573491.1 Ursus arctos 3a1		Ursus arctos		3a1			Alaska	
+AP012559.1		AP012559.1 Ursus arctos 3a2		Ursus arctos		3a2			Hokkaido	
+KX641334.1	SW1867	KX641334.1 Ursus eremus 		Ursus eremus						
+FN390871.1	SP2129	FN390871.1 Ursus ladinicus 		Ursus ladinicus					GrotteDours_France	
+FN390847.1	SP370	FN390847.1 Ursus eremus 		Ursus eremus					Herdengel_Austria	
+FN390872.1	SP2133	FN390872.1 Ursus eremus 		Ursus eremus					Schneiberhoehle_Germany	
+FN390856.1	SP1844	FN390856.1 Ursus ingressus C		Ursus ingressus		C			DivjieBabe_Slovenia	
+FN390861.1	SP2064	FN390861.1 Ursus ingressus C		Ursus ingressus		C		44050	Serpievskaya_Russia	
+NC_011112.1		NC_011112.1 Ursus ingressus C		Ursus ingressus		C		44160	Gamssulzen_Austria	
+FN390860.1	SP2062	FN390860.1 Ursus ingressus C		Ursus ingressus		C			BolshoiGlukhoi_Russia	
+FN390862.1	SP2065	FN390862.1 Ursus ingressus C		Ursus ingressus		C			Medvezhiya_Russia	
+FN390842.1	SP232	FN390842.1 Ursus ingressus C		Ursus ingressus		C		27230	Nixloch_Austria	
+FN390869.1	SP2106	FN390869.1 Ursus ingressus C		Ursus ingressus		C		24210	Geissenkloesterle_Germany	
+FN390859.1	SP2027	FN390859.1 Ursus ingressus C		Ursus ingressus		C		27180	Geissenkloesterle_Germany	
+FN390844.1	SP234	FN390844.1 Ursus ingressus C		Ursus ingressus		C		26900	PotockaZijalka_Slovenia	
+FN390845.1	SP335	FN390845.1 Ursus ingressus C		Ursus ingressus		C			Gamssulzen_Austria	
+FN390843.1	SP233	FN390843.1 Ursus ingressus C		Ursus ingressus		C			PotockaZijalka_Slovenia	
+FN390857.1	SP1845	FN390857.1 Ursus ingressus C		Ursus ingressus		C			DivjieBabe_Slovenia	
+FN390858.1	SP1850	FN390858.1 Ursus ingressus C		Ursus ingressus		C			DivjieBabe_Slovenia	
+KX641331.1	GS136	KX641331.1 Ursus ingressus C		Ursus ingressus		C	or ingressus?	~35ky		
+FN390854.1	SP1629	FN390854.1 Ursus ingressus SE		Ursus ingressus		SE		44550	Oase_Romania	
+FN390853.1	SP1626	FN390853.1 Ursus ingressus SE		Ursus ingressus		SE		46614	Oase_Romania	
+FN390870.1	SP2125	FN390870.1 Ursus ingressus SE		Ursus ingressus		SE			Medvedia jaskyna_Slovakia	
+FN390848.1	SP1324	FN390848.1 Ursus ingressus W		Ursus ingressus		W			Zoolithencave_Germany	
