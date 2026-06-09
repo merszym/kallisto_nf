@@ -1,42 +1,42 @@
-Name	Label	Species	Haplogroup	Description	Age	Location
-MN320449.1	MN320449.1 | Hap C: Crocuta crocuta | Botswana	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)	Present Day	Botswana
-MN320450.1	MN320450.1 | Hap C: Crocuta crocuta | Zambia	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)	Present Day	Zambia
-MN320451.1	MN320451.1 | Hap C: Crocuta crocuta | Tanzania	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C) 	Present Day	Tanzania
-MN320453.1	MN320453.1 | Hap C: Crocuta crocuta | Kenya	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)	Present Day	Kenya
-MN320466.1	MN320466.1 | Hap C: Crocuta crocuta | Namibia 	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)	Present Day	Namibia
-MN320467.1	MN320467.1 | Hap A2: Crocuta crocuta | Somalia	Crocuta crocuta	A2	Cave and Spotted Hyaena (Haplogroup A) 	Present Day	Somalia
-MN320463.1	MN320463.1 | Hap A2: Crocuta crocuta | Ghana 	Crocuta crocuta	A2	Cave and Spotted Hyaena (Haplogroup A)	Present Day	Ghana
-OQ947733.1	OQ947733.1 | Hap A2: Crocuta crocuta (Perspektywiczna ~37ky)	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	< 37 ka	Perpespektywiczna, Poland
-OQ947740.1	OQ947740.1 | Hap A2: Crocuta crocuta (Perspektywiczna ~37ky)	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	< 37 ka	Perpespektywirczna, Poland
-OQ947745.1	OQ947745.1 | Hap A2: Crocuta crocuta (Perspektywiczna ~48ky)	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	48,269 – 44,055	Perpespektywirczna, Poland
-SP4838	SP4838 | Hap A2: Crocuta crocuta | Hohle Fels, Germany	Crocuta crocuta	A2			
-NC_020670.1	NC_020670.1 | Hap A1: Crocuta crocuta | Coumere Cave, France ~9ky	Crocuta crocuta	A1	Cave and Spotted Hyaena (Haplogroup A) 	Late Pleistocene	Coumere Cave, Ariege (France)
-JF894379.1	JF894379.1 | Hap A1: Crocuta crocuta | Coumere Cave, France ~13ky	Crocuta crocuta	A1	Cave and Spotted Hyaena (Haplogroup A) 	Late Pleistocene	Coumere Cave, Ariege (France)
-KU937361.1	KU937361.1 | Hap A1: Crocuta crocuta | Grotte Aux Ours, France ~32ky	Crocuta crocuta	A1	Cave and Spotted Hyaena (Haplogroup A)	Late Pleistocene	Grotte-aux-Ours, Lot (France)
-MN320459.1	MN320459.1 | Hap A1: Crocuta crocuta | Aufhausener Cave, Germany	Crocuta crocuta	A1	Cave and Spotted Hyaena (Haplogroup A)	Late Pleistocene	AufhausenerHöhle (Baden Württemberg, Germany
-MN320458.1	MN320458.1 | Hap A1: Crocuta crocuta | Ukraine ~41ky	Crocuta crocuta	A1	Cave and Spotted Hyaena (Haplogroup A) 	40,770+-350	Ukraine
-SP4567	SP4567 | Hap A1: Crocuta crocuta | Kozarnika Cave, Bulgaria	Crocuta crocuta	A1			
-SP.A.3896	SP.A.3896 | Hap A1: Crocuta crocuta | Chagyrskaya Cave, Russia	Crocuta crocuta	A1			
-SP.A.7755	SP.A.7755 | Hap A1: Crocuta crocuta | Denisova Cave, Russia	Crocuta crocuta	A1			
-MN320456.1	MN320456.1 | Hap B: Crocuta crocuta | Certova Pec, Slovakia ~51ky	Crocuta crocuta	B	Cave Hyaena (Haplogroup B)	51,200 +-4,000	Certovapec (Slovakia)
-MN320461.1	MN320461.1 | Hap B: Crocuta crocuta | Lindenthaler Cave, Germany ~27ky	Crocuta crocuta	B	Cave Hyaena (Haplogroup B)	26,820+-100	LindenthalerHöhle (Gera, Germany)
-MN320462.1	MN320462.1 | Hap B: Crocuta crocuta | Lindenthaler Cave, Germany ~18ky	Crocuta crocuta	B	Cave Hyaena (Haplogroup B)	18,030+- 50	LindenthalerHöhle (Gera, Germany)
-MN320457.1	MN320457.1 | Hap D: Crocuta crocuta | Tonghe Bridge, China ~48ky	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)	Late Pleistocene	Tonghe Bridge, Zhaodong County in Heilongjiang Province (Northeastern China)
-MN320460.1	MN320460.1 | Hap D: Crocuta crocuta | Geographical Society Cave, Russia ~48ky	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)	48,650 +- 4,000	Geographical society cave (Eastern Russia)
-MT880602.1	MT880602.1 | Hap D: Crocuta crocuta | China ~17ky	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)	16,780+-40	North eastern China
-MT880603.1	MT880603.1 | Hap D: Crocuta crocuta | China ~17ky	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)	16,790+-50	North eastern China
-SP.A.7639	SP.A.7639 | Hap D: Crocuta crocuta | Denisova Cave, Russia	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)		
-MF593939.1	MF593939.1 | Parahyaena brunnea | South Africa	Parahyaena brunnea		Brown Hyaena (BHF1)	Present Day	-
-MF593941.1	MF593941.1 | Parahyaena brunnea | South Africa	Parahyaena brunnea		Brown Hyaena (BHM1)	Present Day	-
-MF593944.1	MF593944.1 | Parahyaena brunnea | Botswana	Parahyaena brunnea		Brown Hyaena (BotBH3)	Present Day	-
-MF593946.1	MF593946.1 | Parahyaena brunnea | Botswana	Parahyaena brunnea		Brown Hyaena (BotBH7)	Present Day	-
-MF593947.1	MF593947.1 | Parahyaena brunnea | Namibia	Parahyaena brunnea		Brown Hyaena (NamBH11)	Present Day	-
-MF593948.1	MF593948.1 | Parahyaena brunnea | Namibia	Parahyaena brunnea		Brown Hyaena (NamBH13)	Present Day	-
-MF593951.1	MF593951.1 | Parahyaena brunnea | Namibia	Parahyaena brunnea		Brown Hyaena (NamBH7)	Present Day	-
-MF593952.1	MF593952.1 | Parahyaena brunnea | Namibia	Parahyaena brunnea		Brown Hyaena (NamBH8)	Present Day	-
-JF894376.1	JF894376.1 | Hyaena hyaena	Hyaena hyaena		Striped Hyaena	Present Day	-
-NC_020669.1	NC_020669.1 | Hyaena hyaena	Hyaena hyaena		Striped Hyaena	Present Day	-
-MH662441.1	MH662441.1 | Proteles cristatus	Proteles cristatus		Aardwolf	Present Day	-
-MH662442.1	MH662442.1 | Proteles cristatus	Proteles cristatus		Aardwolf	Present Day	-
-MH662443.1	MH662443.1 | Proteles cristatus	Proteles cristatus		Aardwolf	Present Day	-
-MH662444.1	MH662444.1 | Proteles cristatus	Proteles cristatus		Aardwolf	Present Day	-
+Name	Lab ID	Label	Species	Haplogroup	Description	Age	Location	Reference
+NC_020670.1	CC8	NC_020670.1 | CC8 | Crocuta crocuta (A1b) | Coumere Cave, France ~9ky	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A) 	~9ky	Coumere Cave, France	https://doi.org/10.1098/rspb.2012.0358
+JF894379.1	CC9	JF894379.1 | CC9 | Crocuta crocuta (A1b) | Coumere Cave, France ~13ky	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A) 	~13ky	Coumere Cave, France	https://doi.org/10.1098/rspb.2012.0358
+KU937361.1		KU937361.1 | Crocuta crocuta (A1b) | Grotte-aux-Ours, France ~32ky	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A)	~32ky	Grotte-aux-Ours, France	https://doi.org/10.1186/s12862-017-0894-2
+MN320459.1	Ccsp040	MN320459.1 | Ccsp040 | Crocuta crocuta (A1b) | Aufhausener Höhle, Germany	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A)		Aufhausener Höhle, Germany	https://doi.org/10.1126/sciadv.aay0456
+MN320458.1	Ccsp026	MN320458.1 | Ccsp026 | Crocuta crocuta (A1b) | Horosno-Vynjava, Ukraine ~41ky	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A) 	~41ky	Horosno-Vynjava, Ukraine	https://doi.org/10.1126/sciadv.aay0456
+SP4567		SP4567 | Crocuta crocuta (A1a) | Kozarnika Cave, Bulgaria	Crocuta crocuta	A1a			Kozarnika Cave, Bulgaria	Unpublished
+SP.A.3896		SP.A.3896 | Crocuta crocuta (A1a) | Chagyrskaya Cave, Russia	Crocuta crocuta	A1a			Chagyrskaya Cave, Russia	Unpublished
+SP.A.7755		SP.A.7755 | Crocuta crocuta (A1a) | Denisova Cave, Russia	Crocuta crocuta	A1a			Denisova Cave, Russia	Unpublished
+MN320467.1		MN320467.1 | Crocuta crocuta (A2) | Somalia	Crocuta crocuta	A2	Cave and Spotted Hyaena (Haplogroup A) 		Somalia	https://doi.org/10.1126/sciadv.aay0456
+MN320463.1		MN320463.1 | Crocuta crocuta (A2) | Ghana	Crocuta crocuta	A2	Cave and Spotted Hyaena (Haplogroup A)		Ghana	https://doi.org/10.1126/sciadv.aay0456
+OQ947733.1	CRO001	OQ947733.1 | CRO001 | Crocuta crocuta (A2) | Perpespektywiczna Cave, Poland ~37ky	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	~37ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947740.1	CRO010	OQ947740.1 | CRO010 | Crocuta crocuta (A2) | Perpespektywiczna Cave, Poland ~37ky	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	~37ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947745.1	CRO016	OQ947745.1 | CRO016 | Crocuta crocuta (A2) | Perpespektywiczna Cave, Poland ~48ky	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	~48ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+SP4838		SP4838 | Crocuta crocuta (A2) | Hohle Fels, Germany	Crocuta crocuta	A2			Hohle Fels, Germany	Unpublished
+MN320449.1		MN320449.1 | Crocuta crocuta (C) | Botswana	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)		Botswana	https://doi.org/10.1126/sciadv.aay0456
+MN320450.1		MN320450.1 | Crocuta crocuta (C) | Zambia	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)		Zambia	https://doi.org/10.1126/sciadv.aay0456
+MN320451.1		MN320451.1 | Crocuta crocuta (C) | Tanzania	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C) 		Tanzania	https://doi.org/10.1126/sciadv.aay0456
+MN320453.1		MN320453.1 | Crocuta crocuta (C) | Kenya	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)		Kenya	https://doi.org/10.1126/sciadv.aay0456
+MN320466.1		MN320466.1 | Crocuta crocuta (C) | Namibia	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)		Namibia	https://doi.org/10.1126/sciadv.aay0456
+MN320456.1	Ccsp014	MN320456.1 | Ccsp014 | Crocuta crocuta (B) | Certova Pec, Slovakia ~51ky	Crocuta crocuta	B	Cave Hyaena (Haplogroup B)	~51ky	Certova Pec, Slovakia	https://doi.org/10.1126/sciadv.aay0456
+MN320461.1	Ccsp042	MN320461.1 | Ccsp042 | Crocuta crocuta (B) | Lindenthaler Höhle, Germany ~27ky	Crocuta crocuta	B	Cave Hyaena (Haplogroup B)	~27ky	Lindenthaler Höhle, Germany	https://doi.org/10.1126/sciadv.aay0456
+MN320462.1	Ccsp043	MN320462.1 | Ccsp043 | Crocuta crocuta (B) | Lindenthaler Höhle, Germany ~18ky	Crocuta crocuta	B	Cave Hyaena (Haplogroup B)	~18ky	Lindenthaler Höhle, Germany	https://doi.org/10.1126/sciadv.aay0456
+MN320457.1	Ccsp015	MN320457.1 | Ccsp015 | Crocuta crocuta (D) | Tonghe Bridge, China ~48ky	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)	~48ky	Tonghe Bridge, China	https://doi.org/10.1126/sciadv.aay0456
+MN320460.1	Ccsp041	MN320460.1 | Ccsp041 | Crocuta crocuta (D) | Geographical Society Cave, Russia ~48ky	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)	~48ky	Geographical Society Cave, Russia	https://doi.org/10.1126/sciadv.aay0456
+MT880602.1	CADG508	MT880602.1 | CADG508 | Crocuta crocuta (D) | China ~17ky	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)	~17ky	China	https://doi.org/10.1098/rspb.2020.2934
+MT880603.1	CADG510	MT880603.1 | CADG510 | Crocuta crocuta (D) | China ~17ky	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)	~17ky	China	https://doi.org/10.1098/rspb.2020.2934
+SP.A.7639		SP.A.7639 | Crocuta crocuta (D) | Denisova Cave, Russia	Crocuta crocuta	D	Cave Hyaena (Haplogroup D)		Denisova Cave, Russia	Unpublished
+MF593939.1	BHF1	MF593939.1 | BHF1 | Parahyaena brunnea | South Africa	Parahyaena brunnea		Brown Hyaena (BHF1)		South Africa	https://doi.org/10.1093/molbev/msy037
+MF593941.1	BHM1	MF593941.1 | BHM1 | Parahyaena brunnea | South Africa	Parahyaena brunnea		Brown Hyaena (BHM1)		South Africa	https://doi.org/10.1093/molbev/msy037
+MF593944.1	BotBH3	MF593944.1 | BotBH3 | Parahyaena brunnea | Botswana	Parahyaena brunnea		Brown Hyaena (BotBH3)		Botswana	https://doi.org/10.1093/molbev/msy037
+MF593946.1	BotBH7	MF593946.1 | BotBH7 | Parahyaena brunnea | Botswana	Parahyaena brunnea		Brown Hyaena (BotBH7)		Botswana	https://doi.org/10.1093/molbev/msy037
+MF593947.1	NamBH11	MF593947.1 | NamBH11 | Parahyaena brunnea | Namibia	Parahyaena brunnea		Brown Hyaena (NamBH11)		Namibia	https://doi.org/10.1093/molbev/msy037
+MF593948.1	NamBH13	MF593948.1 | NamBH13 | Parahyaena brunnea | Namibia	Parahyaena brunnea		Brown Hyaena (NamBH13)		Namibia	https://doi.org/10.1093/molbev/msy037
+MF593951.1	NamBH7	MF593951.1 | NamBH7 | Parahyaena brunnea | Namibia	Parahyaena brunnea		Brown Hyaena (NamBH7)		Namibia	https://doi.org/10.1093/molbev/msy037
+MF593952.1	NamBH8	MF593952.1 | NamBH8 | Parahyaena brunnea | Namibia	Parahyaena brunnea		Brown Hyaena (NamBH8)		Namibia	https://doi.org/10.1093/molbev/msy037
+JF894376.1		JF894376.1 | Hyaena hyaena	Hyaena hyaena		Striped Hyaena			https://doi.org/10.1098/rspb.2012.0358
+NC_020669.1		NC_020669.1 | Hyaena hyaena	Hyaena hyaena		Striped Hyaena			RefSeq
+MH662441.1		MH662441.1 | Proteles cristatus	Proteles cristatus		Aardwolf			https://doi.org/10.3957/056.049.0027
+MH662442.1		MH662442.1 | Proteles cristatus	Proteles cristatus		Aardwolf			https://doi.org/10.3957/056.049.0027
+MH662443.1		MH662443.1 | Proteles cristatus	Proteles cristatus		Aardwolf			https://doi.org/10.3957/056.049.0027
+MH662444.1		MH662444.1 | Proteles cristatus	Proteles cristatus		Aardwolf			https://doi.org/10.3957/056.049.0027
