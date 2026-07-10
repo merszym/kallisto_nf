@@ -5,13 +5,15 @@ include { SAMTOOLS_VIEW      } from './modules/local/samtools_view'
 include { SEQTK_TRIMFQ       } from './modules/local/seqtk_trimfq'
 include { KALLISTO_QUANT     } from './modules/local/kallisto_quant'
 include { SUMMARIZE_KALLISTO } from './modules/local/summarize'
+include { BOWTIE2            } from './modules/local/bowtie2'
 
 // load the files
 
 ch_split     = Channel.fromPath("${params.split}/*"  ,checkIfExists:true) // input-data
 ch_database  = Channel.fromPath("${params.database}" ,checkIfExists:true) // kallisto-index
+ch_bt2_index = Channel.fromPath("${params.bt2_db}"   ,checkIfExists:true) // bowtie2-index
 ch_labels    = Channel.fromPath("${params.labels}"   ,checkIfExists:true) // a tsv-file for ordering the kallisto indices 
-ch_versions = Channel.empty()
+ch_versions  = Channel.empty()
 
 // some required functions
 def has_ending(file, extension){
@@ -27,7 +29,7 @@ import groovy.json.JsonSlurper
 workflow {
 
 // add a first meta
-ch_split.map{it -> [['sample': it.baseName, 'id':it.baseName], it] }.set{ ch_split }
+ch_split.map{it -> [['sample': it.baseName, 'id':it.baseName, 'bowtie2_name':params.bt2_name], it] }.set{ ch_split }
 
 //split input into bam- and fastq-files
 ch_split.branch {
@@ -66,12 +68,23 @@ ch_versions = ch_versions.mix(SEQTK_TRIMFQ.out.versions.first())
 
 ch_split_trimmed = SEQTK_TRIMFQ.out.fastq
 
+//
+// 0.8 Use bowtie2 as a pre-filter
+//
+
+ch_for_bowtie = ch_split_trimmed.combine(ch_bt2_index)
+
+// Run Bowtie --> SAM-file output
+BOWTIE2(ch_for_bowtie)
+ch_versions = ch_versions.mix(BOWTIE2.out.versions.first())
+
+ch_fqgz = BOWTIE2.out.fq
 
 //
-// 1. Run KALLISTO
+// 1. Run KALLISTO on all sequences that mapped to the reference panel
 //
 
-ch_for_kallisto = ch_split_trimmed.combine(ch_database)
+ch_for_kallisto = ch_fqgz.combine(ch_database)
 
 KALLISTO_QUANT(ch_for_kallisto)
 
