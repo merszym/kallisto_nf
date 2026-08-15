@@ -1,22 +1,22 @@
 Name	LabID	Label	Species	Haplogroup	Description	Age	Location	Reference
+NC_011579.1		Martes zibellina	Martes zibellina					
+NC_021749.1		Martes martes	Martes martes					
+NC_009678.1		Martes melampus	Martes melampus					
+NC_020642.1		Martes americana	Martes americana					
+NC_020643.1		Martes foina	Martes foina					
+NC_012141.1		Martes flavigula	Martes flavigula					
+NC_009685.1		Gulo gulo	Gulo gulo					
 NC_046484.1		Aonyx capensis	Aonyx capensis					
 NC_035814.1		Aonyx cinerea	Aonyx cinerea					
 NC_020645.1	YP6001	Arctonyx collaris 	Arctonyx collaris 					
 NC_009692.1		Enhydra lutris	Enhydra lutris					
 NC_053973.1		Galictis vittata	Galictis vittata					
-NC_009685.1		Gulo gulo	Gulo gulo					
 NC_046485.1		Hydrictis maculicollis	Hydrictis maculicollis					
 NC_065092.1		Ictonyx libycus	Ictonyx libycus					
 NC_053979.1		Ictonyx striatus	Ictonyx striatus					
 NC_062277.1		Lutra lutra	Lutra lutra					
 NC_035810.1		Lutra sumatrana	Lutra sumatrana					
 NC_035811.1		Lutrogale perspicillata	Lutrogale perspicillata					
-NC_020642.1		Martes americana	Martes americana					
-NC_012141.1		Martes flavigula	Martes flavigula					
-NC_020643.1		Martes foina	Martes foina					
-NC_021749.1		Martes martes	Martes martes					
-NC_009678.1		Martes melampus	Martes melampus					
-NC_011579.1		Martes zibellina	Martes zibellina					
 NC_009677.1		Meles anakuma	Meles anakuma					
 NC_039173.1		Meles leucurus	Meles leucurus					
 NC_011125.1		Meles meles	Meles meles					
@@ -31,7 +31,7 @@ NC_023210.1	YP6126	Mustela kathiah	Mustela kathiah
 NC_056132.1		Mustela lutreola	Mustela lutreola					
 NC_024942.1		Mustela nigripes	Mustela nigripes					
 NC_020639.1	YP1	Mustela nivalis	Mustela nivalis					
-NC_020638.1	ROM117143	Mustela putorius 	Mustela putorius 					
+NC_020638.1	ROM117143	Mustela putorius	Mustela putorius					
 NC_020637.1	YP6136	Mustela sibirica	Mustela sibirica					
 NC_020641.1	ROM102488	Neovison vison	Neovison vison					
 NC_020664.1	MP41	Martes pennanti	Martes pennanti					
