@@ -22,14 +22,15 @@ TU842		TU842 | Ursus ingressus (C) | Paina Cave, Italy ~29ky		Ursus ingressus		C
 FN390858.1	SP1850	FN390858.1 | SP1850 | Ursus ingressus (C) | Divjie Babe, Slovenia		Ursus ingressus		C			Divjie Babe, Slovenia	https://doi.org/10.1101/gr.095760.109
 FN390857.1	SP1845	FN390857.1 | SP1845 | Ursus ingressus (C) | Divjie Babe, Slovenia		Ursus ingressus		C			Divjie Babe, Slovenia	https://doi.org/10.1101/gr.095760.109
 NC_011112.1		NC_011112.1 | Ursus ingressus (C) | Gamssulzen, Austria ~44ky		Ursus ingressus		C	FM177760	~44ky	Gamssulzen, Austria	RefSeq
-FN390861.1	SP2064	FN390861.1 | SP2064 | Ursus ingressus (C) | Serpievskaya Cave, Russia ~47ky		Ursus ingressus		SE_C		~47ky	Serpievskaya Cave, Russia	https://doi.org/10.1101/gr.095760.109
-FN390860.1	SP2062	FN390860.1 | SP2062 | Ursus ingressus (C) | Bolshoi Glukhoi Grotto, Russia		Ursus ingressus		SE_C			Bolshoi Glukhoi Grotto, Russia	https://doi.org/10.1101/gr.095760.109
-FN390862.1	SP2065	FN390862.1 | SP2065 | Ursus ingressus (C) | Medvezhiya Cave, Russia		Ursus ingressus		SE_C			Medvezhiya Cave, Russia	https://doi.org/10.1101/gr.095760.109
-TU868		TU868 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~91ky		Ursus ingressus		SE_C		~91ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
-TU865		TU865 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~70ky		Ursus ingressus		SE_C		~70ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
-TU860		TU860 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~66ky		Ursus ingressus		SE_C		~66ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
-FN390856.1	SP1844	FN390856.1 | SP1844 | Ursus ingressus (SE) | Divjie Babe, Slovenia		Ursus ingressus		SE_C			Divjie Babe, Slovenia	https://doi.org/10.1101/gr.095760.109
-KX641330.1	PA1	KX641330.1 | PA1 | Ursus ingressus (SE) | Romania ~38ky		Ursus ingressus		SE_C		~38ky	Romania	https://onlinelibrary.wiley.com/doi/10.1111/mec.13800
+TU152		TU152 | Ursus ingressus (C) | Vrelska Cave, Serbia ~40.5ky		Ursus ingressus		C		~40.5ky	Vrelska Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
+FN390861.1	SP2064	FN390861.1 | SP2064 | Ursus ingressus (C) | Serpievskaya Cave, Russia ~47ky		Ursus ingressus		C		~47ky	Serpievskaya Cave, Russia	https://doi.org/10.1101/gr.095760.109
+FN390860.1	SP2062	FN390860.1 | SP2062 | Ursus ingressus (C) | Bolshoi Glukhoi Grotto, Russia		Ursus ingressus		C			Bolshoi Glukhoi Grotto, Russia	https://doi.org/10.1101/gr.095760.109
+FN390862.1	SP2065	FN390862.1 | SP2065 | Ursus ingressus (C) | Medvezhiya Cave, Russia		Ursus ingressus		C			Medvezhiya Cave, Russia	https://doi.org/10.1101/gr.095760.109
+TU868		TU868 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~91ky		Ursus ingressus		C		~91ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
+TU865		TU865 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~70ky		Ursus ingressus		C		~70ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
+TU860		TU860 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~66ky		Ursus ingressus		C		~66ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
+FN390856.1	SP1844	FN390856.1 | SP1844 | Ursus ingressus (C) | Divjie Babe, Slovenia		Ursus ingressus		C			Divjie Babe, Slovenia	https://doi.org/10.1101/gr.095760.109
+KX641330.1	PA1	KX641330.1 | PA1 | Ursus ingressus (C) | Romania ~38ky		Ursus ingressus		C		~38ky	Romania	https://onlinelibrary.wiley.com/doi/10.1111/mec.13800
 TU172		TU172 | Ursus ingressus (SE) | Vasiljska Cave, Serbia ~43ky		Ursus ingressus		SE		~43ky	Vasiljska Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
 MN311250.1	USR67	MN311250.1 | USR67 | Ursus ingressus (SE) | Răsuflătoarei Cave, Romania ~35ky		Ursus ingressus		SE		~35ky	Răsuflătoarei Cave, Romania	https://www.nature.com/articles/s41598-020-62990-0
 TU173		TU173 | Ursus ingressus (SE) | Smolucka Cave, Serbia ~30.5ky		Ursus ingressus		SE		~30.5ky	Smolucka Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
@@ -51,8 +52,7 @@ TU174		TU174 | Ursus ingressus (SE) | Mirilovska Cave, Serbia ~29ky		Ursus ingre
 TU154		TU154 | Ursus ingressus (SE) | Vrelska Cave, Serbia ~46ky		Ursus ingressus		SE		~46ky	Vrelska Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
 TU167		TU167 | Ursus ingressus (SE) | Vrelska Cave, Serbia ~43.5ky		Ursus ingressus		SE		~43.5ky	Vrelska Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
 TU168		TU168 | Ursus ingressus (SE) | Kovacevica Cave, Serbia ~46.5ky		Ursus ingressus		SE		~46.5ky	Kovacevica Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
-TU153		TU153 | Ursus ingressus (SE) | Vrelska Cave, Serbia ~40.5ky		Ursus ingressus		SE		~40.5ky	Vrelska Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
-TU152		TU152 | Ursus ingressus (SE) | Kovacevica Cave, Serbia ~48ky		Ursus ingressus		SE		~48ky	Kovacevica Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
+TU153		TU153 | Ursus ingressus (SE) | Kovacevica Cave, Serbia ~48ky		Ursus ingressus		SE		~48ky	Kovacevica Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
 TU155		TU155 | Ursus ingressus (SE) | Kovacevica Cave, Serbia ~45.5ky		Ursus ingressus		SE		~45.5ky	Kovacevica Cave, Serbia	https://doi.org/10.1038/s41598-019-47073-z
 JK3215		JK3215 | Ursus ingressus (W) | Casamene, France ~30.5ky		Ursus ingressus		W		~30.5ky	Casamene, France	https://doi.org/10.1038/s41598-019-47073-z
 JK3212		JK3212 | Ursus ingressus (W) | Casamene, France ~38ky		Ursus ingressus		W		~38ky	Casamene, France	https://doi.org/10.1038/s41598-019-47073-z
