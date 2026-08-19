@@ -26,6 +26,7 @@ TU152		TU152 | Ursus ingressus (C) | Vrelska Cave, Serbia ~40.5ky		Ursus ingress
 FN390861.1	SP2064	FN390861.1 | SP2064 | Ursus ingressus (C) | Serpievskaya Cave, Russia ~47ky		Ursus ingressus		C		~47ky	Serpievskaya Cave, Russia	https://doi.org/10.1101/gr.095760.109
 FN390860.1	SP2062	FN390860.1 | SP2062 | Ursus ingressus (C) | Bolshoi Glukhoi Grotto, Russia		Ursus ingressus		C			Bolshoi Glukhoi Grotto, Russia	https://doi.org/10.1101/gr.095760.109
 FN390862.1	SP2065	FN390862.1 | SP2065 | Ursus ingressus (C) | Medvezhiya Cave, Russia		Ursus ingressus		C			Medvezhiya Cave, Russia	https://doi.org/10.1101/gr.095760.109
+MW491932.1		MW491932.1 | Ursus ingressus (C) | Medvezhiya Cave, Russia		Ursus ingressus		C			Medvezhiya Cave, Russia	https://doi.org/10.1016/j.cub.2021.01.073
 TU868		TU868 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~91ky		Ursus ingressus		C		~91ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
 TU865		TU865 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~70ky		Ursus ingressus		C		~70ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
 TU860		TU860 | Ursus ingressus (C) | Perspektywiczna Cave, Poland ~66ky		Ursus ingressus		C		~66ky	Perspektywiczna Cave, Poland	https://doi.org/10.1038/s41598-019-47073-z
@@ -109,7 +110,6 @@ KF437625.2		KF437625.2 | Ursus deningeri | Sima de los Huesos, Spain ~120ky		Urs
 FN390863.1	SP2073	FN390863.1 | SP2073 | Ursus deningeri kudarensis | Hovk-1, Armenia ~50ky		Ursus deningeri kudarensis				~50ky	Hovk-1, Armenia	https://doi.org/10.1101/gr.095760.109
 FN390864.1	SP2074	FN390864.1 | SP2074 | Ursus deningeri kudarensis | Hovk-1, Armenia ~50ky		Ursus deningeri kudarensis				~50ky	Hovk-1, Armenia	https://doi.org/10.1101/gr.095760.109
 MH605139.1	HV74	MH605139.1 | HV74 | Ursus deningeri kudarensis | Hovk-1, Armenia		Ursus deningeri kudarensis					Hovk-1, Armenia	https://www.nature.com/articles/s41559-018-0654-8
-MW491932.1		MW491932.1 | Ursus kanivetz | Medvezhiya Cave, Russia		Ursus kanivetz					Medvezhiya Cave, Russia	https://doi.org/10.1016/j.cub.2021.01.073
 MW491933.1	ZIN 28601-9a/51	MW491933.1 | ZIN 28601-9a/51 | Ursus rossicus | Kizel Cave, Russia ~38ky		Ursus rossicus				~38ky	Kizel Cave, Russia	https://doi.org/10.1016/j.cub.2021.01.073
 MW491934.1		MW491934.1 | Ursus kudarensis kudarensis | Hovk 1 Cave, Armenia		Ursus kudarensis kudarensis				~50ky	Hovk-1, Armenia	https://doi.org/10.1016/j.cub.2021.01.073
 MW491935.1	KU1	MW491935.1 | KU1 | Ursus kudarensis praekudarensis | Kudaro-1 Cave, Georgia ~360ky		Ursus kudarensis praekudarensis				~360ky	Kudaro-1 Cave, Georgia	https://doi.org/10.1016/j.cub.2021.01.073
