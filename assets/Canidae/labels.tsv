@@ -1,67 +1,127 @@
-Name	Label	Lab ID	Species	Haplogroup	Name	Reference
-KP129018.1	KP129018.1 | Urocyon littoralis		Urocyon littoralis		Island fox	
-NC_026723.1	NC_026723.1 | Urocyon Cinereoargenteus		Urocyon cinereoargenteus		Gray fox	
-MW257223.1	MW257223.1 | Otocyon megalotis		Otocyon megalotis		Bat-eared fox	
-NC_013700.1	NC_013700.1 | Nyctereutes procyonoides		Nyctereutes procyonoides		Raccoon dog	
-NC_070063.1	NC_070063.1 | Vulpes chama		Vulpes chama		Cape fox	
-KJ603240.1	KJ603240.1 | Vulpes zerda		Vulpes zerda		Fennec fox 	
-NC_023958.1	NC_023958.1 | Vulpes corsac		Vulpes corsac		Corsac fox	
-NC_027935.1	NC_027935.1 | Vulpes ferrilata		Vulpes ferrilata		Tibetan fox	
-NC_008434.1	NC_008434.1 | Vulpes vulpes		Vulpes vulpes		Red fox	
-OQ274912.1	OQ274912.1 | Vulpes rueppellii		Vulpes rueppellii		Rupell’s fox	
-NC_026529.1	NC_026529.1 | Vulpes lagopus		Vulpes lagopus		Arctic fox	
-PV090785.1	PV090785.1 | Vulpes velox		Vulpes velox		Blanford’s fox	
-PV090784.1	PV090784.1 | Vulpes macrotis		Vulpes macrotis		Kit fox	
-MW257226.1	MW257226.1 | Speothos venaticus		Speothos venaticus		Bush dog	
-MN181406.1	MN181406.1 | Lycalopex sp.		Lycalopex sp.			
-KT448284.1	KT448284.1 | Lycalopex sechurae		Lycalopex sechurae		Sechuran fox	
-NC_024172.1	NC_024172.1 | Chrysocyon brachyurus		Chrysocyon brachyurus		Maned wolf	
-KT448280.1	KT448280.1 | Canis mesomelas		Canis mesomelas		Black-backed jackal	
-KT448271.1	KT448271.1 | Canis adustus		Canis adustus		Side-striped jackal	
-NC_028427.1	NC_028427.1 | Lycaon pictus		Lycaon pictus		African wild dog	
-NC_013445.1	NC_013445.1 | Cuon alpinus		Cuon alpinus		Dhole	
-KT448274.1	KT448274.1 | Canis aureus		Canis aureus		Golden jackal 	
-NC_008093.1	NC_008093.1 | Canis latrans		Canis latrans		Coyote	
-NC_027956.1	NC_027956.1 | Canis lupaster		Canis lupaster		African wolf	
-KF661079.1	KF661079.1 | Canis lupus | Goyet, Belgium ~36 ky		Canis lupus 		Wolf	10.1126/science.1243650
-KF661080.1	KF661080.1 | Canis lupus | Goyet, Belgium ~30 ky		Canis lupus 		Wolf	10.1126/science.1243650
-KF661078.1	KF661078.1 | Canis lupus | Trou des Nutons, Belgium ~26 ky		Canis lupus 		Wolf	10.1126/science.1243650
-MK936995.1	MK936995.1 | CGG12 | Canis lupus | Kolyma, Russia ~50 ky		Canis lupus 		Wolf	10.1111/mec.15329
-MK937009.1	MK937009.1 | CGG26 | Canis lupus | Yana site, Russia ~30 ky		Canis lupus 		Wolf	10.1111/mec.15329
-MK937052.1	MK937052.1 | TU9 | Canis lupus | Aghitu-3, Armenia ~31 ky		Canis lupus 		Wolf	10.1111/mec.15329
-KF661081.1	KF661081.1 | Canis lupus | Medvezya Cave, Russia ~18 ky		Canis lupus 		Wolf	10.1126/science.1243650
-KF661088.1	KF661088.1 | Canis lupus | Alaska, USA ~28 ky		Canis lupus 		Wolf	10.1126/science.1243650
-AB499824.1	AB499824.1 | Canis lupus | Japan		Canis lupus 		Wolf	10.1016/j.ympev.2014.08.004
-KF661092.1	KF661092.1 | Canis lupus | Razboinichya cave, Russia ~33.5 ky		Canis lupus 		Wolf	10.1126/science.1243650
-MK937039.1	MK937039.1 | TU13 | Canis lupus | Kesslerloch, Switzerland ~14.1 ky		Canis lupus 		Wolf	10.1111/mec.15329
-KF661087.1	KF661087.1 | Canis lupus | Kesslerloch, Switzerland ~14.5 ky		Canis lupus 		Wolf	10.1126/science.1243650
-KF661095.1	KF661095.1 | Canis lupus | Kesslerloch, Switzerland ~14.5 ky		Canis lupus 		Wolf	10.1126/science.1243650
-KF661048.1	KF661048.1 | Canis lupus | Italy		Canis lupus 		Wolf	10.1126/science.1243650
-KF661091.1	KF661091.1 | Canis lupus | Kesslerloch, Switzerland ~14.5 ky		Canis lupus 		Dog	10.1126/science.1243650
-KF661084.1	KF661084.1 | Canis lupus familiaris (A) | Cerro Lutz, Argentinia ~1 ky		Canis lupus familiaris	Clade A	Dog	10.1126/science.1243650
-KF661083.1	KF661083.1 | Canis lupus familiaris (A) | Koster site, Illinois, USA ~8.5 ky		Canis lupus familiaris	Clade A	Dog	10.1126/science.1243650
-KF661086.1	KF661086.1 | Canis lupus familiaris (A) | Florida, USA ~1 ky		Canis lupus familiaris	Clade A	Dog	10.1126/science.1243650
-DQ480497.1	DQ480497.1 | Canis lupus familiaris (A)		Canis lupus familiaris	Clade A	Dog	10.1101/gr.5117706
-KF661089.1	KF661089.1 | Canis lupus | Alaska, USA ~21 ky		Canis lupus 		Wolf	10.1126/science.1243650
-KF661085.1	KF661085.1 | Canis lupus | Kostenki, Russia ~22 ky		Canis lupus 		Wolf	10.1126/science.1243650
-KF661051.1	KF661051.1 | Canis lupus | Iran		Canis lupus 		Wolf	10.1126/science.1243650
-KF661082.1	KF661082.1 | Canis lupus familiaris | Eliseevichi, Russia ~15 ky		Canis lupus familiaris		Dog	10.1126/science.1243650
-KF661038.1	KF661038.1 | Canis lupus | Finland		Canis lupus 		Wolf	10.1126/science.1243650
-KF661090.1	KF661090.1 | Canis lupus | Alaska, USA ~20.8 ky		Canis lupus 		Wolf	10.1126/science.1243650
-KF661093.1	KF661093.1 | Canis lupus familiaris (C) | Oberkassel, Germany ~14.7 ky		Canis lupus familiaris	Clade C	Dog	10.1126/science.1243650
-KF661094.1	KF661094.1 | Canis lupus familiaris (C) | Kartstein cave, Germany ~12.5 ky		Canis lupus familiaris	Clade C	Dog	10.1126/science.1243650
-KX379529.1	KX379529.1 | HXH | Canis lupus familiaris (C) | Herxheim, Germany ~7 ky		Canis lupus familiaris	Clade C	Dog	10.1038/ncomms16082
-KX379528.1	KX379528.1 | CTC | Canis lupus familiaris (C) | Cherry Tree Cave, Germany ~5 ky		Canis lupus familiaris	Clade C	Dog	10.1038/ncomms16082
-DQ480501.1	DQ480501.1 | Canis lupus familiaris (C)		Canis lupus familiaris	Clade C	Dog	10.1101/gr.5117706
-KF661060.1	KF661060.1 | Canis lupus | Mexico 1		Canis lupus 		Wolf	10.1126/science.1243650
-KC896375.1	KC896375.1 | Canis lupus | Mongolia		Canis lupus 		Wolf	10.3109/19401736.2013.823186
-KF661041.1	KF661041.1 | Canis lupus | China 3		Canis lupus 		Wolf	10.1126/science.1243650
-KF661043.1	KF661043.1 | Canis lupus | India		Canis lupus 		Wolf	10.1126/science.1243650
-KF661040.1	KF661040.1 | Canis lupus | Sweden 2		Canis lupus 		Wolf	10.1126/science.1243650
-KF661049.1	KF661049.1 | Canis lupus | Poland 2		Canis lupus 		Wolf	10.1126/science.1243650
-KF661055.1	KF661055.1 | Canis lupus | Israel 2		Canis lupus 		Wolf	10.1126/science.1243650
-KF661056.1	KF661056.1 | Canis lupus | Canada 1		Canis lupus 		Wolf	10.1126/science.1243650
-KF661058.1	KF661058.1 | Canis lupus | Alaska 1		Canis lupus 		Wolf	10.1126/science.1243650
-KF661064.1	KF661064.1 | Canis lupus | USA 1		Canis lupus 		Wolf	10.1126/science.1243650
-KF661046.1	KF661046.1 | Canis lupus | Russia 3		Canis lupus 		Wolf	10.1126/science.1243650
-EU408260.1	EU408260.1 | Canis lupus familiaris (B)		Canis lupus familiaris	Clade B	Dog	10.1111/j.1556-4029.2008.00952.x
+Name	Lab ID	Label	Species	Haplogroup	Location	Age	Description	Reference
+KP129018.1		KP129018.1 | Urocyon littoralis	Urocyon littoralis				Island fox	
+NC_026723.1		NC_026723.1 | Urocyon Cinereoargenteus	Urocyon cinereoargenteus				Gray fox	
+MW257223.1		MW257223.1 | Otocyon megalotis	Otocyon megalotis				Bat-eared fox	
+NC_013700.1		NC_013700.1 | Nyctereutes procyonoides	Nyctereutes procyonoides				Raccoon dog	
+NC_070063.1		NC_070063.1 | Vulpes chama	Vulpes chama				Cape fox	
+KJ603240.1		KJ603240.1 | Vulpes zerda	Vulpes zerda				Fennec fox 	
+NC_023958.1		NC_023958.1 | Vulpes corsac	Vulpes corsac				Corsac fox	
+NC_027935.1		NC_027935.1 | Vulpes ferrilata	Vulpes ferrilata				Tibetan fox	
+NC_008434.1		NC_008434.1 | Vulpes vulpes	Vulpes vulpes				Red fox	
+OQ274912.1		OQ274912.1 | Vulpes rueppellii	Vulpes rueppellii				Rupell’s fox	
+NC_026529.1		NC_026529.1 | Vulpes lagopus	Vulpes lagopus				Arctic fox	
+PV090785.1		PV090785.1 | Vulpes velox	Vulpes velox				Blanford’s fox	
+PV090784.1		PV090784.1 | Vulpes macrotis	Vulpes macrotis				Kit fox	
+MW257226.1		MW257226.1 | Speothos venaticus	Speothos venaticus				Bush dog	
+MN181406.1		MN181406.1 | Lycalopex sp.	Lycalopex sp.					
+KT448284.1		KT448284.1 | Lycalopex sechurae	Lycalopex sechurae				Sechuran fox	
+NC_024172.1		NC_024172.1 | Chrysocyon brachyurus	Chrysocyon brachyurus				Maned wolf	
+KT448280.1		KT448280.1 | Canis mesomelas	Canis mesomelas				Black-backed jackal	
+KT448271.1		KT448271.1 | Canis adustus	Canis adustus				Side-striped jackal	
+NC_028427.1		NC_028427.1 | Lycaon pictus	Lycaon pictus				African wild dog	
+NC_013445.1		NC_013445.1 | Cuon alpinus	Cuon alpinus				Dhole	
+NC_008093.1		NC_008093.1 | Canis latrans	Canis latrans				Coyote	
+SC19.MCJ015		SC19.MCJ015 | Canis latrans | Paradise Hill, Yukon, Canada ~44ky	Canis latrans		Paradise Hill, Yukon, Canada	~44ky		https://doi.org/10.1038/s41586-022-04824-9
+SC19.MCJ017		SC19.MCJ017 | Canis latrans | Hunker Creek, Yukon ~53ky	Canis latrans		Hunker Creek, Yukon	~53ky		https://doi.org/10.1038/s41586-022-04824-9
+KT448274.1		KT448274.1 | Canis aureus	Canis aureus				Golden jackal 	
+NC_027956.1		NC_027956.1 | Canis lupaster	Canis lupaster				African wolf	
+MK937052.1		MK937052.1 | TU9 | Canis lupus | Aghitu-3, Armenia ~31 ky	Canis lupus 				Wolf	10.1111/mec.15329
+KF661080.1		KF661080.1 | Canis lupus | Goyet, Belgium ~30 ky	Canis lupus 				Wolf	10.1126/science.1243650
+KF661079.1		KF661079.1 | Canis lupus | Goyet, Belgium ~36 ky	Canis lupus 				Wolf	10.1126/science.1243650
+JK2183		JK2183 | Canis lupus  | Hohle Fels, Germany ~32ky	Canis lupus 		Hohle Fels, Germany	~32ky		https://doi.org/10.1038/s41586-022-04824-9
+JK2174		JK2174 | Canis lupus  | Hohle Fels, Germany ~31.5ky	Canis lupus 		Hohle Fels, Germany	~31.5ky		https://doi.org/10.1038/s41586-022-04824-9
+AH574		AH574 | Canis lupus  | Aufhausener Höhle, Germany ~58ky	Canis lupus 		Aufhausener Höhle, Germany	~58ky		https://doi.org/10.1038/s41586-022-04824-9
+AH577		AH577 | Canis lupus  | Aufhausener Höhle, Germany ~50ky	Canis lupus 		Aufhausener Höhle, Germany	~50ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661078.1		KF661078.1 | Canis lupus | Trou des Nutons, Belgium ~26 ky	Canis lupus 				Wolf	10.1126/science.1243650
+AH575		AH575 | Canis lupus  | Aufhausener Höhle, Germany ~97ky	Canis lupus 		Aufhausener Höhle, Germany	~97ky		https://doi.org/10.1038/s41586-022-04824-9
+JAL48		JAL48 | Canis lupus  | Goldstream, Alaska ~90ky	Canis lupus 		Goldstream, Alaska	~90ky		https://doi.org/10.1038/s41586-022-04824-9
+CANIS-ALAS-024		CANIS-ALAS-024 | Canis lupus  | Lillian Creek, Alaska ~83ky	Canis lupus 		Lillian Creek, Alaska	~83ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661081.1		KF661081.1 | Canis lupus | Medvezya Cave, Russia ~18 ky	Canis lupus 				Wolf	10.1126/science.1243650
+LOW008		LOW008 | Canis lupus  | Ullakhan-Sullar, Siberia, Russia ~70.5ky	Canis lupus 		Ullakhan-Sullar, Siberia, Russia	~70.5ky		https://doi.org/10.1038/s41586-022-04824-9
+MK936995.1		MK936995.1 | CGG12 | Canis lupus | Kolyma, Russia ~50 ky	Canis lupus 				Wolf	10.1111/mec.15329
+WOL-VAL-18A		WOL-VAL-18A | Canis lupus  | Enygen River, Siberia, Russia ~100.5ky	Canis lupus 		Enygen River, Siberia, Russia	~100.5ky		https://doi.org/10.1038/s41586-022-04824-9
+JAL65		JAL65 | Canis lupus  | Goldhill, Alaska ~93.5ky	Canis lupus 		Goldhill, Alaska	~93.5ky		https://doi.org/10.1038/s41586-022-04824-9
+AL2741		AL2741 | Canis lupus  | Razboinichya Cave, Russia ~82ky	Canis lupus 		Razboinichya Cave, Russia	~82ky		https://doi.org/10.1038/s41586-022-04824-9
+WOL-VAL-033		WOL-VAL-033 | Canis lupus  | Tiryakhtakh River, Siberia, Russia ~64ky	Canis lupus 		Tiryakhtakh River, Siberia, Russia	~64ky		https://doi.org/10.1038/s41586-022-04824-9
+DS-WOL-VAL-012		DS-WOL-VAL-012 | Canis lupus  | Uyandina River, Siberia, Russia ~56ky	Canis lupus 		Uyandina River, Siberia, Russia	~56ky		https://doi.org/10.1038/s41586-022-04824-9
+DS04-Dab2		DS04-Dab2 | Canis lupus  | Yungen, Siberia, Russia ~50ky	Canis lupus 		Yungen, Siberia, Russia	~50ky		https://doi.org/10.1038/s41586-022-04824-9
+JK2175		JK2175 | Canis lupus  | Hohle Fels, Germany ~33ky	Canis lupus 		Hohle Fels, Germany	~33ky		https://doi.org/10.1038/s41586-022-04824-9
+LOW003		LOW003 | Canis lupus  | Unnegen, Siberia, Russia ~44ky	Canis lupus 		Unnegen, Siberia, Russia	~44ky		https://doi.org/10.1038/s41586-022-04824-9
+DS-WOL-VAL-037		DS-WOL-VAL-037 | Canis lupus  | Ogorokha River, Siberia, Russia ~40ky	Canis lupus 		Ogorokha River, Siberia, Russia	~40ky		https://doi.org/10.1038/s41586-022-04824-9
+SC19.MCJ010		SC19.MCJ010 | Canis lupus  | Quartz Creek, Yukon, Canada ~29.5ky	Canis lupus 		Quartz Creek, Yukon, Canada	~29.5ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661088.1		KF661088.1 | Canis lupus | Alaska, USA ~28 ky	Canis lupus 				Wolf	10.1126/science.1243650
+SC19.MCJ014		SC19.MCJ014 | Canis lupus  | Independence Creek, Yukon ~29ky	Canis lupus 		Independence Creek, Yukon	~29ky		https://doi.org/10.1038/s41586-022-04824-9
+JAL385		JAL385 | Canis lupus  | Smith Gulch, Alaska ~37.5ky	Canis lupus 		Smith Gulch, Alaska	~37.5ky		https://doi.org/10.1038/s41586-022-04824-9
+AB499824.1		AB499824.1 | Canis lupus | Japan	Canis lupus 				Wolf	10.1016/j.ympev.2014.08.004
+LOW007		LOW007 | Canis lupus  | Tirekhtiakh River, Siberia, Russia ~29ky	Canis lupus 		Tirekhtiakh River, Siberia, Russia	~29ky		https://doi.org/10.1038/s41586-022-04824-9
+AL2541		AL2541 | Canis lupus  | Goyet, Belgium ~34ky	Canis lupus 		Goyet, Belgium	~34ky		https://doi.org/10.1038/s41586-022-04824-9
+LOW002		LOW002 | Canis lupus  | Letniaya River, Siberia, Russia ~33ky	Canis lupus 		Letniaya River, Siberia, Russia	~33ky		https://doi.org/10.1038/s41586-022-04824-9
+CGG27		CGG27 | Canis lupus  | Yana RHS, Siberia, Russia ~33ky	Canis lupus 		Yana RHS, Siberia, Russia	~33ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661092.1		KF661092.1 | Canis lupus | Razboinichya cave, Russia ~33.5 ky	Canis lupus 				Wolf	10.1126/science.1243650
+AL2370		AL2370 | Canis lupus  | Dürriloch, Switzerland ~9.5ky	Canis lupus 		Dürriloch, Switzerland	~9.5ky		https://doi.org/10.1038/s41586-022-04824-9
+CANIS-HMNH-007		CANIS-HMNH-007 | Canis lupus  | Istállóskő Cave, Hungary ~3.5ky	Canis lupus 		Istállóskő Cave, Hungary	~3.5ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661048.1		KF661048.1 | Canis lupus | Italy	Canis lupus 				Wolf	10.1126/science.1243650
+MK937039.1		MK937039.1 | TU13 | Canis lupus | Kesslerloch, Switzerland ~14.1 ky	Canis lupus 				Wolf	10.1111/mec.15329
+KF661095.1		KF661095.1 | Canis lupus | Kesslerloch, Switzerland ~14.5 ky	Canis lupus 				Wolf	10.1126/science.1243650
+TU839		TU839 | Canis lupus  | Le Parc du Château, France ~10ky	Canis lupus 		Le Parc du Château, France	~10ky		https://doi.org/10.1038/s41586-022-04824-9
+TU840		TU840 | Canis lupus  | Le Parc du Château, France ~10ky	Canis lupus 		Le Parc du Château, France	~10ky		https://doi.org/10.1038/s41586-022-04824-9
+IRK		IRK | Canis lupus  | Plunkett Cave, Ireland ~13ky	Canis lupus 		Plunkett Cave, Ireland	~13ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661087.1		KF661087.1 | Canis lupus | Kesslerloch, Switzerland ~14.5 ky	Canis lupus 				Wolf	10.1126/science.1243650
+367		367 | Canis lupus  | Ballynamintra Cave, Ireland ~13.5ky	Canis lupus 		Ballynamintra Cave, Ireland	~13.5ky		https://doi.org/10.1038/s41586-022-04824-9
+WOL-VAL-08		WOL-VAL-08 | Canis lupus  | Badyarikha River, Siberia, Russia ~33.5ky	Canis lupus 		Badyarikha River, Siberia, Russia	~33.5ky		https://doi.org/10.1038/s41586-022-04824-9
+LOW006		LOW006 | Canis lupus  | Tirekhtiakh River, Siberia, Russia ~34.5ky	Canis lupus 		Tirekhtiakh River, Siberia, Russia	~34.5ky		https://doi.org/10.1038/s41586-022-04824-9
+CGG25		CGG25 | Canis lupus  | Yana RHS, Siberia, Russia ~31.5ky	Canis lupus 		Yana RHS, Siberia, Russia	~31.5ky		https://doi.org/10.1038/s41586-022-04824-9
+CLIO-VAL-050		CLIO-VAL-050 | Canis lupus  | Ogorokha River, Siberia, Russia ~36ky	Canis lupus 		Ogorokha River, Siberia, Russia	~36ky		https://doi.org/10.1038/s41586-022-04824-9
+CGG26		CGG26 | Canis lupus  | Yana RHS, Siberia, Russia ~31ky	Canis lupus 		Yana RHS, Siberia, Russia	~31ky		https://doi.org/10.1038/s41586-022-04824-9
+MK937009.1		MK937009.1 | CGG26 | Canis lupus | Yana site, Russia ~30 ky	Canis lupus 				Wolf	10.1111/mec.15329
+DQ480497.1		DQ480497.1 | Canis lupus familiaris (A)	Canis lupus familiaris	Clade A			Dog	10.1101/gr.5117706
+KF661084.1		KF661084.1 | Canis lupus familiaris (A) | Cerro Lutz, Argentinia ~1 ky	Canis lupus familiaris	Clade A			Dog	10.1126/science.1243650
+KF661083.1		KF661083.1 | Canis lupus familiaris (A) | Koster site, Illinois, USA ~8.5 ky	Canis lupus familiaris	Clade A			Dog	10.1126/science.1243650
+KF661086.1		KF661086.1 | Canis lupus familiaris (A) | Florida, USA ~1 ky	Canis lupus familiaris	Clade A			Dog	10.1126/science.1243650
+AL3284		AL3284 | Canis lupus  | Shaitanskaya Cave, Russia ~21ky	Canis lupus 		Shaitanskaya Cave, Russia	~21ky		https://doi.org/10.1038/s41586-022-04824-9
+IN18-005		IN18-005 | Canis lupus  | Belaya Gora, Siberia, Russia ~18ky	Canis lupus 		Belaya Gora, Siberia, Russia	~18ky		https://doi.org/10.1038/s41586-022-04824-9
+JK2181		JK2181 | Canis lupus  | Hohle Fels, Germany ~15ky	Canis lupus 		Hohle Fels, Germany	~15ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661091.1		KF661091.1 | Canis lupus | Kesslerloch, Switzerland ~14.5 ky	Canis lupus 				Dog	10.1126/science.1243650
+JAL69		JAL69 | Canis lupus  | Fairbanks, Alaska ~37.5ky	Canis lupus 		Fairbanks, Alaska	~37.5ky		https://doi.org/10.1038/s41586-022-04824-9
+Wolf_head_IN18-016		Wolf_head_IN18-016 | Canis lupus  | Belaya Gora, Siberia, Russia ~32ky	Canis lupus 		Belaya Gora, Siberia, Russia	~32ky		https://doi.org/10.1038/s41586-022-04824-9
+AL2744		AL2744 | Canis lupus  | Razboinichya Cave, Russia ~28.5ky	Canis lupus 		Razboinichya Cave, Russia	~28.5ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661085.1		KF661085.1 | Canis lupus | Kostenki, Russia ~22 ky	Canis lupus 				Wolf	10.1126/science.1243650
+KF661051.1		KF661051.1 | Canis lupus | Iran	Canis lupus 				Wolf	10.1126/science.1243650
+Taimyr-1		Taimyr-1 | Canis lupus  | Taimyr, Russia ~35ky	Canis lupus 		Taimyr, Russia	~35ky		https://doi.org/10.1038/s41586-022-04824-9
+DS-WOL-VAL-005		DS-WOL-VAL-005 | Canis lupus  | Ogorokha River, Siberia, Russia ~32.5 ky	Canis lupus 		Ogorokha River, Siberia, Russia	~32.5 ky		https://doi.org/10.1038/s41586-022-04824-9
+Yana-1		Yana-1 | Canis lupus  | Yana RHS, Siberia, Russia ~28ky	Canis lupus 		Yana RHS, Siberia, Russia	~28ky		https://doi.org/10.1038/s41586-022-04824-9
+DS-WOL-VAL-011		DS-WOL-VAL-011 | Canis lupus  | Uyandina River, Siberia, Russia ~22.5ky	Canis lupus 		Uyandina River, Siberia, Russia	~22.5ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661089.1		KF661089.1 | Canis lupus | Alaska, USA ~21 ky	Canis lupus 				Wolf	10.1126/science.1243650
+CGG19		CGG19 | Canis lupus  | Mus-Khaya, Siberia, Russia ~20ky	Canis lupus 		Mus-Khaya, Siberia, Russia	~20ky		https://doi.org/10.1038/s41586-022-04824-9
+AL2657		AL2657 | Canis lupus  | Eliseevichi,Russia ~17ky	Canis lupus 		Eliseevichi,Russia	~17ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661082.1		KF661082.1 | Canis lupus familiaris | Eliseevichi, Russia ~15 ky	Canis lupus familiaris				Dog	10.1126/science.1243650
+JK2179		JK2179 | Canis lupus  | Hohle Fels, Germany ~13ky	Canis lupus 		Hohle Fels, Germany	~13ky		https://doi.org/10.1038/s41586-022-04824-9
+PON012		PON012 | Canis lupus  | Alvastra, Sweden ~5ky	Canis lupus 		Alvastra, Sweden	~5ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661038.1		KF661038.1 | Canis lupus | Finland	Canis lupus 				Wolf	10.1126/science.1243650
+KF661090.1		KF661090.1 | Canis lupus | Alaska, USA ~20.8 ky	Canis lupus 				Wolf	10.1126/science.1243650
+KF661093.1		KF661093.1 | Canis lupus familiaris (C) | Oberkassel, Germany ~14.7 ky	Canis lupus familiaris	Clade C			Dog	10.1126/science.1243650
+KF661094.1		KF661094.1 | Canis lupus familiaris (C) | Kartstein cave, Germany ~12.5 ky	Canis lupus familiaris	Clade C			Dog	10.1126/science.1243650
+DQ480501.1		DQ480501.1 | Canis lupus familiaris (C)	Canis lupus familiaris	Clade C			Dog	10.1101/gr.5117706
+KX379529.1		KX379529.1 | HXH | Canis lupus familiaris (C) | Herxheim, Germany ~7 ky	Canis lupus familiaris	Clade C			Dog	10.1038/ncomms16082
+KX379528.1		KX379528.1 | CTC | Canis lupus familiaris (C) | Cherry Tree Cave, Germany ~5 ky	Canis lupus familiaris	Clade C			Dog	10.1038/ncomms16082
+KF661060.1		KF661060.1 | Canis lupus | Mexico 1	Canis lupus 				Wolf	10.1126/science.1243650
+Tumat1		Tumat1 | Canis lupus  | Tumat, Siberia ~14.5ky	Canis lupus 		Tumat, Siberia	~14.5ky		https://doi.org/10.1038/s41586-022-04824-9
+CGG20		CGG20 | Canis lupus  | Nikita Lake, Siberia, Russia ~13.5ky	Canis lupus 		Nikita Lake, Siberia, Russia	~13.5ky		https://doi.org/10.1038/s41586-022-04824-9
+CGG21		CGG21 | Canis lupus  | Berelekh, Siberia, Russia ~14ky	Canis lupus 		Berelekh, Siberia, Russia	~14ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661041.1		KF661041.1 | Canis lupus | China 3	Canis lupus 				Wolf	10.1126/science.1243650
+KF661043.1		KF661043.1 | Canis lupus | India	Canis lupus 				Wolf	10.1126/science.1243650
+AL3185		AL3185 | Canis lupus  | Pietrele, Romania ~6ky	Canis lupus 		Pietrele, Romania	~6ky		https://doi.org/10.1038/s41586-022-04824-9
+AL2350		AL2350 | Canis lupus  | Botai, Kazakhstan ~5ky	Canis lupus 		Botai, Kazakhstan	~5ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661055.1		KF661055.1 | Canis lupus | Israel 2	Canis lupus 				Wolf	10.1126/science.1243650
+KF661064.1		KF661064.1 | Canis lupus | USA 1	Canis lupus 				Wolf	10.1126/science.1243650
+KF661040.1		KF661040.1 | Canis lupus | Sweden 2	Canis lupus 				Wolf	10.1126/science.1243650
+KF661049.1		KF661049.1 | Canis lupus | Poland 2	Canis lupus 				Wolf	10.1126/science.1243650
+CANIS-ALAS-016		CANIS-ALAS-016 | Canis lupus  | Titaluk River, Alaska ~15.5ky	Canis lupus 		Titaluk River, Alaska	~15.5ky		https://doi.org/10.1038/s41586-022-04824-9
+KF661046.1		KF661046.1 | Canis lupus | Russia 3	Canis lupus 				Wolf	10.1126/science.1243650
+DS-CANIS-HMNH-011		DS-CANIS-HMNH-011 | Canis lupus  | Leány-barlang, Hungary ~7ky	Canis lupus 		Leány-barlang, Hungary	~7ky		https://doi.org/10.1038/s41586-022-04824-9
+EU408260.1		EU408260.1 | Canis lupus familiaris (B)	Canis lupus familiaris	Clade B			Dog	10.1111/j.1556-4029.2008.00952.x
+KC896375.1		KC896375.1 | Canis lupus | Mongolia	Canis lupus 				Wolf	10.3109/19401736.2013.823186
+KF661056.1		KF661056.1 | Canis lupus | Canada 1	Canis lupus 				Wolf	10.1126/science.1243650
+KF661058.1		KF661058.1 | Canis lupus | Alaska 1	Canis lupus 				Wolf	10.1126/science.1243650
+TU148		TU148 | Canis lupus  | Banks Island, Canada ~3ky	Canis lupus 		Banks Island, Canada	~3ky		https://doi.org/10.1038/s41586-022-04824-9
+TU144		TU144 | Canis lupus  | Banks Island, Canada ~3ky	Canis lupus 		Banks Island, Canada	~3ky		https://doi.org/10.1038/s41586-022-04824-9
