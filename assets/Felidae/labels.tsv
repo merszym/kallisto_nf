@@ -19,11 +19,11 @@ OK513004.1	A5276	OK513004.1 | A5276 | Panthera spelaea (Clade 2) | Duvannyy Yar,
 OK513013.1	A5343	OK513013.1 | A5343 | Panthera spelaea (Clade 2) | Gamssulzen, Austria ~50ky	Pantherinae	Panthera spelaea		Clade 2		~50ky	Gamssulzen, Austria	10.1111/mec.16267
 OK513005.1	A5278	OK513005.1 | A5278 | Panthera spelaea (Clade 2) | Duvannyy Yar, Russia >53ky	Pantherinae	Panthera spelaea		Clade 2		>53ky	Duvannyy Yar, Russia	10.1111/mec.16267
 OK513007.1	A5283	OK513007.1 | A5283 | Panthera spelaea (Clade 2) | Sibyllenhoehle, Germany >48ky	Pantherinae	Panthera spelaea		Clade 2		>48ky	Sibyllenhoehle, Germany	10.1111/mec.16267
-PV930006.1	GMNH0024	PV930006.1 | GMNH0024 | Panthera spelaea (Japan) | Honshu Island, Japan ~34ky	Pantherinae	Panthera spelaea		Japan		~34ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
-PV930007.1	GMNH0028	PV930007.1 | GMNH0028 | Panthera spelaea (Japan) | Honshu Island, Japan ~28ky	Pantherinae	Panthera spelaea		Japan		~28ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
-PV930008.1	GMNH0031	PV930008.1 | GMNH0031 | Panthera spelaea (Japan) | Honshu Island, Japan ~31ky	Pantherinae	Panthera spelaea		Japan		~31ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
-PV930009.1	GMNH0032	PV930009.1 | GMNH0032 | Panthera spelaea (Japan) | Honshu Island, Japan ~35ky	Pantherinae	Panthera spelaea		Japan		~35ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
-PV930010.1	GMNH0034	PV930010.1 | GMNH0034 | Panthera spelaea (Japan) | Honshu Island, Japan ~33ky	Pantherinae	Panthera spelaea		Japan		~33ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
+PV930006.1	GMNH0024	PV930006.1 | GMNH0024 | Panthera spelaea (Japan) | Honshu Island, Japan ~34ky	Pantherinae	Panthera spelaea		Clade 1	Japan	~34ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
+PV930007.1	GMNH0028	PV930007.1 | GMNH0028 | Panthera spelaea (Japan) | Honshu Island, Japan ~28ky	Pantherinae	Panthera spelaea		Clade 1	Japan	~28ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
+PV930008.1	GMNH0031	PV930008.1 | GMNH0031 | Panthera spelaea (Japan) | Honshu Island, Japan ~31ky	Pantherinae	Panthera spelaea		Clade 1	Japan	~31ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
+PV930009.1	GMNH0032	PV930009.1 | GMNH0032 | Panthera spelaea (Japan) | Honshu Island, Japan ~35ky	Pantherinae	Panthera spelaea		Clade 1	Japan	~35ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
+PV930010.1	GMNH0034	PV930010.1 | GMNH0034 | Panthera spelaea (Japan) | Honshu Island, Japan ~33ky	Pantherinae	Panthera spelaea		Clade 1	Japan	~33ky	Honshu Island, Japan	https://doi.org/10.1073/pnas.2523901123
 KX258451.1	YG401.410	KX258451.1 | YG401.410 | Panthera spelaea (Clade 1) | Quartz Creek, Yukon, Canada ~30ky	Pantherinae	Panthera spelaea		Clade 1		~30ky	Quartz Creek, Yukon, Canada	https://doi.org/10.5334/oq.24
 OK512987.1	A334	OK512987.1 | A334 | Panthera spelaea (Clade 1) | Alaska, USA ~34ky	Pantherinae	Panthera spelaea		Clade 1		~34ky	Alaska, USA	10.1111/mec.16267
 OK512984.1	A287	OK512984.1 | A287 | Panthera spelaea (Clade 1) | Fox Gulch, Canada ~47ky	Pantherinae	Panthera spelaea		Clade 1		~47ky	Fox Gulch, Canada	10.1111/mec.16267
@@ -53,16 +53,16 @@ KP202262.1		KP202262.1 | PLE | Panthera leo	Pantherinae	Panthera leo						https:
 KP001501.1		KP001501.1 | Panthera leo | India	Pantherinae	Panthera leo					India	https://doi.org/10.1038/srep30807
 NC_018053.1		NC_018053.1 | Panthera leo persica	Pantherinae	Panthera leo						
 KC834784.1		KC834784.1 | Panthera leo persica	Pantherinae	Panthera leo						https://doi.org/10.1186/1471-2164-14-572
-NC_010641.1		NC_010641.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus		Asia	EF551002		Japan	https://doi.org/10.1007/s11427-011-4219-1
-KJ866876.1		KJ866876.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus	japonensis	Asia	North Chinese leopard		Japan	https://doi.org/10.3109/19401736.2014.936421
-MH588621.1	PP5	MH588621.1 | PP5 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus		Asia		~0.2ky	India	10.1186/s12862-018-1268-0
-MH588622.1	PP6	MH588622.1 | PP6 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus		Asia		~0.2ky	India	10.1186/s12862-018-1268-0
-MH588623.1	PP15	MH588623.1 | PP15 | Panthera pardus (Asia) | Thailand ~0.1ky	Pantherinae	Panthera pardus		Asia		~0.1ky	Thailand	10.1186/s12862-018-1268-0
-MH588627.1	PP32	MH588627.1 | PP32 | Panthera pardus (Asia) | Java, Indonesia ~0.2ky	Pantherinae	Panthera pardus		Asia		~0.2ky	Java, Indonesia	10.1186/s12862-018-1268-0
-KP001507.1		KP001507.1 | Panthera pardus (Asia)	Pantherinae	Panthera pardus		Asia				
-MH588611.1	BAR001	MH588611.1 | BAR001 | Panthera pardus (Caucasus) | Mezmaiskaya Cave, Russia >35ky	Pantherinae	Panthera pardus		Caucasus		>35ky	Mezmaiskaya Cave, Russia	10.1186/s12862-018-1268-0
-MH588620.1	PP3	MH588620.1 | PP3 | Panthera pardus (SE-Asia) | India ~0.2ky	Pantherinae	Panthera pardus		SE-Asia		~0.2ky	India	10.1186/s12862-018-1268-0
-MH588628.1	PP35	MH588628.1 | PP35 | Panthera pardus (SE-Asia) | Sumatra, Indonesia ~0.2ky	Pantherinae	Panthera pardus		SE-Asia		~0.2ky	Sumatra, Indonesia	10.1186/s12862-018-1268-0
+NC_010641.1		NC_010641.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus	Asia	Asia/Caucasus	EF551002		Japan	https://doi.org/10.1007/s11427-011-4219-1
+KJ866876.1		KJ866876.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus	Asia	Asia/Caucasus	North Chinese leopard		Japan	https://doi.org/10.3109/19401736.2014.936421
+MH588621.1	PP5	MH588621.1 | PP5 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia/Caucasus		~0.2ky	India	10.1186/s12862-018-1268-0
+MH588622.1	PP6	MH588622.1 | PP6 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia/Caucasus		~0.2ky	India	10.1186/s12862-018-1268-0
+MH588623.1	PP15	MH588623.1 | PP15 | Panthera pardus (Asia) | Thailand ~0.1ky	Pantherinae	Panthera pardus	Asia	Asia/Caucasus		~0.1ky	Thailand	10.1186/s12862-018-1268-0
+MH588627.1	PP32	MH588627.1 | PP32 | Panthera pardus (Asia) | Java, Indonesia ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia/Caucasus		~0.2ky	Java, Indonesia	10.1186/s12862-018-1268-0
+KP001507.1		KP001507.1 | Panthera pardus (Asia)	Pantherinae	Panthera pardus	Asia	Asia/Caucasus				
+MH588611.1	BAR001	MH588611.1 | BAR001 | Panthera pardus (Caucasus) | Mezmaiskaya Cave, Russia >35ky	Pantherinae	Panthera pardus	Caucasus	Asia/Caucasus		>35ky	Mezmaiskaya Cave, Russia	10.1186/s12862-018-1268-0
+MH588620.1	PP3	MH588620.1 | PP3 | Panthera pardus (SE-Asia) | India ~0.2ky	Pantherinae	Panthera pardus	SE-Asia	Asia/Caucasus		~0.2ky	India	10.1186/s12862-018-1268-0
+MH588628.1	PP35	MH588628.1 | PP35 | Panthera pardus (SE-Asia) | Sumatra, Indonesia ~0.2ky	Pantherinae	Panthera pardus	SE-Asia	Asia/Caucasus		~0.2ky	Sumatra, Indonesia	10.1186/s12862-018-1268-0
 MH588617.1	N44005	MH588617.1 | N44005 | Panthera pardus (Europe) | Baumannshöhle, Germany ~40ky	Pantherinae	Panthera pardus		Europe		~40ky	Baumannshöhle, Germany	10.1186/s12862-018-1268-0
 MH588616.1	N43981	MH588616.1 | N43981 | Panthera pardus (Europe) | Baumannshöhle, Germany ~38ky	Pantherinae	Panthera pardus		Europe		~38ky	Baumannshöhle, Germany	10.1186/s12862-018-1268-0
 MH588615.1	N43974	MH588615.1 | N43974 | Panthera pardus (Europe) | Baumannshöhle, Germany ~40ky	Pantherinae	Panthera pardus		Europe		~40ky	Baumannshöhle, Germany	10.1186/s12862-018-1268-0
