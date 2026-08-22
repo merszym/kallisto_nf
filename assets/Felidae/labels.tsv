@@ -45,10 +45,14 @@ OK513010.1	A5311	OK513010.1 | A5311 | Panthera atrox | Edmonton, Canada ~29ky	Pa
 OK513011.1	A5312	OK513011.1 | A5312 | Panthera atrox | Edmonton, Canada ~29ky	Pantherinae	Panthera atrox				~29ky	Edmonton, Canada	10.1111/mec.16267
 OK512983.1	A181	OK512983.1 | A181 | Panthera atrox | Sixtymile, Canada >51ky	Pantherinae	Panthera atrox				>51ky	Sixtymile, Canada	10.1111/mec.16267
 OK513012.1	A5313	OK513012.1 | A5313 | Panthera atrox | Edmonton, Canada ~11ky	Pantherinae	Panthera atrox				~11ky	Edmonton, Canada	10.1111/mec.16267
-KP001495.1		KP001495.1 | Panthera leo	Pantherinae	Panthera leo						
-KP202262.1	PLE	KP202262.1 | PLE | Panthera leo	Pantherinae	Panthera leo						Unpublished, GenBank
-NC_018053.1		NC_018053.1 | Panthera leo	Pantherinae	Panthera leo	persica		JQ904290			https://doi.org/10.1186/1471-2164-14-572
-KF776494.1		KF776494.1 | Panthera leo	Pantherinae	Panthera leo	leo		African lion			https://doi.org/10.3109/19401736.2013.865171
+KP001498.1		KP001498.1 | Panthera leo | Kenya	Pantherinae	Panthera leo					Kenya	https://doi.org/10.1038/srep30807
+KP001499.1		KP001499.1 | Panthera leo | Somalia	Pantherinae	Panthera leo					Somalia	https://doi.org/10.1038/srep30807
+KP001496.1		KP001496.1 | Panthera leo | Namibia	Pantherinae	Panthera leo					Namibia	https://doi.org/10.1038/srep30807
+KP001497.1		KP001497.1 | Panthera leo | Benin	Pantherinae	Panthera leo					Benin	https://doi.org/10.1038/srep30807
+KP202262.1		KP202262.1 | PLE | Panthera leo	Pantherinae	Panthera leo						https://doi.org/10.1101/gr.186668.114
+KP001501.1		KP001501.1 | Panthera leo | India	Pantherinae	Panthera leo					India	https://doi.org/10.1038/srep30807
+NC_018053.1		NC_018053.1 | Panthera leo persica	Pantherinae	Panthera leo						
+KC834784.1		KC834784.1 | Panthera leo persica	Pantherinae	Panthera leo						https://doi.org/10.1186/1471-2164-14-572
 NC_010641.1		NC_010641.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus		Asia	EF551002		Japan	https://doi.org/10.1007/s11427-011-4219-1
 KJ866876.1		KJ866876.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus	japonensis	Asia	North Chinese leopard		Japan	https://doi.org/10.3109/19401736.2014.936421
 MH588621.1	PP5	MH588621.1 | PP5 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus		Asia		~0.2ky	India	10.1186/s12862-018-1268-0
@@ -74,7 +78,10 @@ MH588618.1	PP1	MH588618.1 | PP1 | Panthera pardus (Africa) | Algeria ~0.2ky	Pant
 MH588619.1	PP2	MH588619.1 | PP2 | Panthera pardus (Africa) | South Africa 	Pantherinae	Panthera pardus		Africa			South Africa	10.1186/s12862-018-1268-0
 MH588625.1	PP19	MH588625.1 | PP19 | Panthera pardus (Africa) | Kenya ~0.1ky	Pantherinae	Panthera pardus		Africa		~0.1ky	Kenya	10.1186/s12862-018-1268-0
 MH588626.1	PP26	MH588626.1 | PP26 | Panthera pardus (Africa) | Burundi ~0.2ky	Pantherinae	Panthera pardus		Africa		~0.2ky	Burundi	10.1186/s12862-018-1268-0
-NC_010638.1		NC_010638.1 | Panthera uncia	Pantherinae	Panthera uncia			EF551004.1			https://doi.org/10.1007/s11427-011-4219-1; https://doi.org/10.1007/s11033-008-9257-9
+MT423712.1		MT423718.1 | Panthera uncia	Pantherinae	Panthera uncia			Lineage B			https://doi.org/10.1002/inc3.70032
+MT423718.1		MT423718.1 | Panthera uncia	Pantherinae	Panthera uncia			Lineage A			https://doi.org/10.1002/inc3.70032
+PZ790876.1		PZ790876.1 | Panthera uncia | China	Pantherinae	Panthera uncia					China	https://www.ncbi.nlm.nih.gov/nuccore/PZ790876.1
+KP202269.1		KP202269.1 | Panthera uncia	Pantherinae	Panthera uncia						https://doi.org/10.1101/gr.186668.114
 OR863186.1		OR863186.1 | Panthera onca (Clade A) | Southern Arizona, USA 	Pantherinae	Panthera onca		Clade A			Southern Arizona, USA	https://doi.org/10.1093/jhered/esad082; https://doi.org/10.1016/j.jgg.2021.10.006
 OR863197.1		OR863197.1 | Panthera onca (Clade A) | Guatemala 	Pantherinae	Panthera onca		Clade A			Guatemala	https://doi.org/10.1093/jhered/esad082; https://doi.org/10.1016/j.jgg.2021.10.006
 KM236783.1		KM236783.1 | Panthera onca (Clade A)	Pantherinae	Panthera onca		Clade A				
@@ -107,7 +114,7 @@ M2	MAZA0002	M2 | MAZA0002 | Panthera tigris | China ~0.1ky	Pantherinae	Panthera 
 RUSA04	RUSA0004	RUSA04 | RUSA0004 | Panthera tigris | Tetukhinskaya Cave, Russia ~8.6ky	Pantherinae	Panthera tigris	RFE			~8.6ky	Tetukhinskaya Cave, Russia	https://doi.org/10.1038/s41559-023-02185-8
 RUSA21	RUSA0021	RUSA21 | RUSA0021 | Panthera tigris | Letuchaya Mysh Cave, Russia ~10.6ky	Pantherinae	Panthera tigris	RFE			~10.6ky	Letuchaya Mysh Cave, Russia	https://doi.org/10.1038/s41559-023-02185-8
 KU133958.1		KU133958.1 | Neofelis nebulosa	Pantherinae	Neofelis nebulosa						
-NC_008450.1		NC_008450.1 | Neofelis nebulosa	Pantherinae	Neofelis nebulosa			DQ257669			https://doi.org/10.1139/g06-143
+KP202291.1		KP202291.1 | Neofelis nebulosa	Pantherinae	Neofelis nebulosa						
 OP580519.1		OP580519.1 | Neofelis diardi	Pantherinae	Neofelis diardi						
 KP202261.1	PC0	KP202261.1 | PC0 | Puma concolor	Felinae	Puma concolor						
 BE813		BE813 | Puma concolor | Pennsylvania, USA ~0.2ky	Felinae	Puma concolor				~0.2ky	Pennsylvania, USA	https://doi.org/10.1101/214510
