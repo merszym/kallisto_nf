@@ -14,14 +14,20 @@ reference panel:
 
 - Canidae:
     - Positions 16099-16687 based on Speothos venaticus (MW257226.1)
-- Felidae:
-    - Positions 259 - 668 based on Panthera pardus (NC_010641.1)
 
 ### Added 'sinks'
-Added outgroup-genomes to databases to avoid the assignment of root-clades due to missing references.
+Added sequences and genomes to databases that are not tracked in the 'labels' to 'catch' sequences that are not of mitochondrial origin OR contamination from other families. These sinks are:
+
+1. A few mtDNA genomes of other families (mostly hyena)
+2. nuclear sequences that look like mtDNA (NUMTS) for the Carnivora. 
+
+More specifically: 
 
 - Ursidae: Added Hyaenidae and Canidae genomes: MN320460.1, EU408260.1
 - Canidae: Added Ursidae, Hyaenidae and Mustelidae genomes: AF303110.1, MN320460.1, NC_020644.1 
+- Felidae: Added Hyaenidae genome: MN320460.1
+
+To Felidae, Ursidae, Canidae, Hyaenidae: All NUMTS sequences of that family, as published in [Liu et al. 2025](https://doi.org/10.1093/gbe/evaf174).
 
 ## [v1.0]
 
