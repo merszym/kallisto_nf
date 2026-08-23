@@ -7,14 +7,8 @@ All notable changes to this project will be documented in this file.
 ### Reference genomes updates
 - Ursidae: Added Middle Pleistocene mtDNA genomes
 - Canidae: Added Bergström et al. 2022 Canis lupus genomes
+- Felidae: Replaced genomes that were contaminated by NUMTS
  
-### Removed low complexity regions
-Based on a MSA of the reference genomes, we removed low-complexity regions with many gaps and Ns in the
-reference panel:
-
-- Canidae:
-    - Positions 16099-16687 based on Speothos venaticus (MW257226.1)
-
 ### Added 'sinks'
 Added sequences and genomes to databases that are not tracked in the 'labels' to 'catch' sequences that are not of mitochondrial origin OR contamination from other families. These sinks are:
 
