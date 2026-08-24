@@ -87,7 +87,10 @@ def summarize_kallisto(tsv, labels, mask_value=25):
     kallisto = pd.read_csv(tsv, sep='\t')
     labels = pd.read_csv(labels, sep='\t')
 
-    cols = labels['Name'].apply(lambda x: x.strip())
+    labels['Name'] = labels['Name'].apply(lambda x: x.strip())
+    kallisto['target_id'] = kallisto['target_id'].apply(lambda x: x.strip())
+
+    cols = labels['Name'].copy()
 
     name_to_label = dict(zip(labels['Name'], labels['Label']))
     
@@ -142,6 +145,20 @@ def summarize_kallisto(tsv, labels, mask_value=25):
     plt.savefig(f"Kallisto_plot_m{mask_value}.svg", dpi=300, transparent=True, bbox_inches="tight")
 
     data_sorted.to_csv(f"final_kallisto_relative_m{mask_value}.tsv", sep='\t')
+
+    # add a human readable summary script
+    
+    summary = filtered_kallisto.merge(labels, left_on='target_id', right_on='Name', how='left', validate='m:1')
+    summary = summary.groupby(['sample', 'Species', 'Haplogroup', 'n_processed']).sum(numeric_only=True).reset_index()
+    summary = summary[['sample','Species','Haplogroup','n_processed','est_counts']].copy()
+
+    summary['percentage'] = (
+        summary['est_counts'] / summary.groupby('sample')['est_counts'].transform('sum') * 100
+    )
+    summary['percentage'] = summary['percentage'].round(2)
+    summary['est_counts'] = summary['est_counts'].round(2)
+
+    summary.to_csv('final_kallisto_species_summary.tsv', sep='\t', index=False)
 
 
 if __name__ == '__main__':
