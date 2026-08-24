@@ -98,7 +98,6 @@ def summarize_kallisto(tsv, labels, mask_value=25):
 
     filtered_kallisto = kallisto[kallisto.target_id.isin(cols)].copy()
     filtered_kallisto.sort_values('sample', inplace=True)
-    filtered_kallisto.to_csv('test.tsv', sep='\t')
     
     data = filtered_kallisto.pivot_table(index="target_id", columns=["sample", "n_processed"], values="est_counts", sort=False)
 
