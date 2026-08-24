@@ -98,7 +98,8 @@ def summarize_kallisto(tsv, labels, mask_value=25):
 
     filtered_kallisto = kallisto[kallisto.target_id.isin(cols)].copy()
     filtered_kallisto.sort_values('sample', inplace=True)
-
+    filtered_kallisto.to_csv('test.tsv', sep='\t')
+    
     data = filtered_kallisto.pivot_table(index="target_id", columns=["sample", "n_processed"], values="est_counts", sort=False)
 
     data_norm = data / data.max()
@@ -149,6 +150,8 @@ def summarize_kallisto(tsv, labels, mask_value=25):
     # add a human readable summary script
     
     summary = filtered_kallisto.merge(labels, left_on='target_id', right_on='Name', how='left', validate='m:1')
+    summary['Haplogroup'] = summary['Haplogroup'].fillna('-')
+
     summary = summary.groupby(['sample', 'Species', 'Haplogroup', 'n_processed']).sum(numeric_only=True).reset_index()
     summary = summary[['sample','Species','Haplogroup','n_processed','est_counts']].copy()
 
@@ -158,7 +161,7 @@ def summarize_kallisto(tsv, labels, mask_value=25):
     summary['percentage'] = summary['percentage'].round(2)
     summary['est_counts'] = summary['est_counts'].round(2)
 
-    summary.to_csv('final_kallisto_species_summary.tsv', sep='\t', index=False)
+    summary[(summary['est_counts']>0)].to_csv('final_kallisto_species_summary.tsv', sep='\t', index=False)
 
 
 if __name__ == '__main__':
