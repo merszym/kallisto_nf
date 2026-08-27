@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Reference genomes updates
 - Ursidae: Added Middle Pleistocene mtDNA genomes
-- Canidae: Added Bergström et al. 2022 Canis lupus genomes
+- Canidae: Added Bergström et al. 2022 Canis lupus genomes and Taron et al. 2021 ancient Cuon genomes
 - Felidae: Replaced genomes that were contaminated by NUMTS
  
 ### Removed low complexity regions

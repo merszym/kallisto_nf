@@ -19,6 +19,10 @@ NC_024172.1		NC_024172.1 | Chrysocyon brachyurus	Chrysocyon brachyurus				Maned 
 KT448280.1		KT448280.1 | Canis mesomelas	Canis mesomelas				Black-backed jackal	
 KT448271.1		KT448271.1 | Canis adustus	Canis adustus				Side-striped jackal	
 NC_028427.1		NC_028427.1 | Lycaon pictus	Lycaon pictus				African wild dog	
+SRR13402290	Y-38	SRR13402290 | Y-38 | Cuon alpinus | Jáchymka cave, Czech Republic ~40ky	Cuon alpinus		Jáchymka cave, Czech Republic	~40ky		https://pmc.ncbi.nlm.nih.gov/articles/PMC7911384/
+SRR13402289	Y-39	SRR13402289 | Y-39 | Cuon alpinus | Bacho Kiro Cave, Bulgaria ~42ky	Cuon alpinus		Bacho Kiro Cave, Bulgaria	~42ky		https://pmc.ncbi.nlm.nih.gov/articles/PMC7911384/
+KT448282.1		KT448282.1 | Cuon alpinus	Cuon alpinus					https://doi.org/10.1016/j.cub.2015.06.060
+KF646248.1		KF646248.1 | Cuon alpinus	Cuon alpinus					-
 NC_013445.1		NC_013445.1 | Cuon alpinus	Cuon alpinus				Dhole	
 NC_008093.1		NC_008093.1 | Canis latrans	Canis latrans				Coyote	
 SC19.MCJ015		SC19.MCJ015 | Canis latrans | Paradise Hill, Yukon, Canada ~44ky	Canis latrans		Paradise Hill, Yukon, Canada	~44ky		https://doi.org/10.1038/s41586-022-04824-9
