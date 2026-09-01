@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 
 ## [v1.1]
 
+### Updated Workflow
+- Added fastp to pre-filter reads prior to quantification. Implemented fastp with the --dedup and the --low_complexity_filter and --complexity_threshold 50 flags to remove exact read duplicates and low-complexity sequences.
+
 ### Reference genomes updates
 - Ursidae: Added Middle Pleistocene mtDNA genomes
 - Canidae: Added Bergström et al. 2022 Canis lupus genomes and Taron et al. 2021 ancient Cuon genomes

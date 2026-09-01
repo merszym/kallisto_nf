@@ -6,6 +6,7 @@ include { SEQTK_TRIMFQ       } from './modules/local/seqtk_trimfq'
 include { KALLISTO_QUANT     } from './modules/local/kallisto_quant'
 include { SUMMARIZE_KALLISTO } from './modules/local/summarize'
 include { BOWTIE2            } from './modules/local/bowtie2'
+include { FASTP_DEDUP        } from './modules/local/fastp_dedup'
 
 // load the files
 
@@ -58,6 +59,7 @@ ch_converted_fastq = SAMTOOLS_FASTQ.out.fastq
 
 ch_split_fastq = ch_split.fastq.mix(ch_converted_fastq)
 
+
 //
 // 0.5 Trim Sequences at the end
 //
@@ -65,14 +67,22 @@ ch_split_fastq = ch_split.fastq.mix(ch_converted_fastq)
 SEQTK_TRIMFQ(ch_split_fastq)
 ch_versions = ch_versions.mix(SEQTK_TRIMFQ.out.versions.first())
 
-
 ch_split_trimmed = SEQTK_TRIMFQ.out.fastq
+
+
+//
+// 0.1 FASTP-DEDUP
+//
+
+FASTP_DEDUP (ch_split_trimmed)
+ch_deduped_fastq = FASTP_DEDUP.out.fastq
+
 
 //
 // 0.8 Use bowtie2 as a pre-filter
 //
 
-ch_for_bowtie = ch_split_trimmed.combine(ch_bt2_index)
+ch_for_bowtie = ch_deduped_fastq.combine(ch_bt2_index)
 
 // Run Bowtie --> SAM-file output
 BOWTIE2(ch_for_bowtie)
