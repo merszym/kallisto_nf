@@ -1,18 +1,34 @@
 Name	Lab ID	Label	Species	Haplogroup	Description	Age	Location	Reference
 SP4567		SP4567 | Crocuta crocuta (A1b) | Kozarnika Cave, Bulgaria	Crocuta crocuta	A1b			Kozarnika Cave, Bulgaria	Unpublished
+OQ947728.1	CRO007	OQ947728.1 | CRO007 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~40ky	Crocuta crocuta	A1b		~40ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947729.1	CRO006	OQ947729.1 | CRO006 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~40ky	Crocuta crocuta	A1b		~40ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947730.1	CRO009	OQ947730.1 | CRO009 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~34ky	Crocuta crocuta	A1b		~34ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947731.1	CRO003	OQ947731.1 | CRO003 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~35.5ky	Crocuta crocuta	A1b		~35.5ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947736.1	CRO012	OQ947736.1 | CRO012 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~42ky	Crocuta crocuta	A1b		~42ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947737.1	CRO011	OQ947737.1 | CRO011 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~42ky	Crocuta crocuta	A1b		~42ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947738.1	CRO015	OQ947738.1 | CRO015 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland 	Crocuta crocuta	A1b			Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947739.1	CRO017	OQ947739.1 | CRO017 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~43ky	Crocuta crocuta	A1b		~43ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947741.1	CRO019	OQ947741.1 | CRO019 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~37ky	Crocuta crocuta	A1b		~37ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
 NC_020670.1	CC8	NC_020670.1 | CC8 | Crocuta crocuta (A1b) | Coumere Cave, France ~9ky	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A) 	~9ky	Coumere Cave, France	https://doi.org/10.1098/rspb.2012.0358
 JF894379.1	CC9	JF894379.1 | CC9 | Crocuta crocuta (A1b) | Coumere Cave, France ~13ky	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A) 	~13ky	Coumere Cave, France	https://doi.org/10.1098/rspb.2012.0358
 KU937361.1		KU937361.1 | Crocuta crocuta (A1b) | Grotte-aux-Ours, France ~32ky	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A)	~32ky	Grotte-aux-Ours, France	https://doi.org/10.1186/s12862-017-0894-2
 MN320459.1	Ccsp040	MN320459.1 | Ccsp040 | Crocuta crocuta (A1b) | Aufhausener Höhle, Germany	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A)		Aufhausener Höhle, Germany	https://doi.org/10.1126/sciadv.aay0456
 MN320458.1	Ccsp026	MN320458.1 | Ccsp026 | Crocuta crocuta (A1b) | Horosno-Vynjava, Ukraine ~41ky	Crocuta crocuta	A1b	Cave and Spotted Hyaena (Haplogroup A) 	~41ky	Horosno-Vynjava, Ukraine	https://doi.org/10.1126/sciadv.aay0456
+OQ947732.1	CRO005	OQ947732.1 | CRO005 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~36.5ky	Crocuta crocuta	A1b		~36.5ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947734.1	CRO013	OQ947734.1 | CRO013 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~40ky	Crocuta crocuta	A1b		~40ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947746.1	CRO002	OQ947746.1 | CRO002 | Crocuta crocuta (A1b) | Perpespektywiczna Cave, Poland ~35ky	Crocuta crocuta	A1b		~35ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
 SP.A.3896		SP.A.3896 | Crocuta crocuta (A1a) | Chagyrskaya Cave, Russia	Crocuta crocuta	A1a			Chagyrskaya Cave, Russia	Unpublished
 SP.A.7755		SP.A.7755 | Crocuta crocuta (A1a) | Denisova Cave, Russia	Crocuta crocuta	A1a			Denisova Cave, Russia	Unpublished
-MN320467.1		MN320467.1 | Crocuta crocuta (A2) | Somalia	Crocuta crocuta	A2	Cave and Spotted Hyaena (Haplogroup A) 		Somalia	https://doi.org/10.1126/sciadv.aay0456
-MN320463.1		MN320463.1 | Crocuta crocuta (A2) | Ghana	Crocuta crocuta	A2	Cave and Spotted Hyaena (Haplogroup A)		Ghana	https://doi.org/10.1126/sciadv.aay0456
+OQ947742.1	CRO021	OQ947742.1 | CRO021 | Crocuta crocuta (A1c) | Perpespektywiczna Cave, Poland ~38ky	Crocuta crocuta	A1c		~38ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947743.1	CRO018	OQ947743.1 | CRO018 | Crocuta crocuta (A1c) | Perpespektywiczna Cave, Poland ~46ky	Crocuta crocuta	A1c		~46ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947735.1	CRO020	OQ947735.1 | CRO020 | Crocuta crocuta (A1c) | Perpespektywiczna Cave, Poland 	Crocuta crocuta	A1c			Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
+OQ947744.1	CRO022	OQ947744.1 | CRO022 | Crocuta crocuta (A1c) | Perpespektywiczna Cave, Poland ~43ky	Crocuta crocuta	A1c		~43ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
 OQ947733.1	CRO001	OQ947733.1 | CRO001 | Crocuta crocuta (A2) | Perpespektywiczna Cave, Poland ~37ky	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	~37ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
 OQ947740.1	CRO010	OQ947740.1 | CRO010 | Crocuta crocuta (A2) | Perpespektywiczna Cave, Poland ~37ky	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	~37ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
 OQ947745.1	CRO016	OQ947745.1 | CRO016 | Crocuta crocuta (A2) | Perpespektywiczna Cave, Poland ~48ky	Crocuta crocuta	A2	Cave Hyaena (Haplogroup A2)	~48ky	Perpespektywiczna Cave, Poland	10.1017/RDC.2023.89
 El_Miron_10		El_Miron_10 | Crocuta crocuta (A2) | El Miron, Spain	Crocuta crocuta	A2			El Miron, Spain	https://doi.org/10.1038/s41467-024-55740-7
+MN320467.1		MN320467.1 | Crocuta crocuta (A2) | Somalia	Crocuta crocuta	A2	Cave and Spotted Hyaena (Haplogroup A) 		Somalia	https://doi.org/10.1126/sciadv.aay0456
+MN320463.1		MN320463.1 | Crocuta crocuta (A2) | Ghana	Crocuta crocuta	A2	Cave and Spotted Hyaena (Haplogroup A)		Ghana	https://doi.org/10.1126/sciadv.aay0456
 MN320449.1		MN320449.1 | Crocuta crocuta (C) | Botswana	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)		Botswana	https://doi.org/10.1126/sciadv.aay0456
 MN320450.1		MN320450.1 | Crocuta crocuta (C) | Zambia	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C)		Zambia	https://doi.org/10.1126/sciadv.aay0456
 MN320451.1		MN320451.1 | Crocuta crocuta (C) | Tanzania	Crocuta crocuta	C	Spotted Hyaena (Haplogroup C) 		Tanzania	https://doi.org/10.1126/sciadv.aay0456
