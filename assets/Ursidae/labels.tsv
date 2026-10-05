@@ -120,8 +120,8 @@ OK512963.1	T5A7	OK512963.1 | T5A7 | Ursus arctos (2a) | Haida Gwaii, Canada ~14k
 OK512937.1	FAM 95657	OK512937.1 | FAM 95657 | Ursus arctos (2a) | Engineer Creek, Alaska, USA ~23ky		Ursus arctos		2a		~23ky	Engineer Creek, Alaska, USA	https://doi.org/10.1111/mec.16267
 JX196392.1	PB18	JX196392.1 | PB18 | Ursus maritimus (2b) | Svalbard, Norway		Ursus maritimus		2b			Svalbard, Norway	10.1073/pnas.1210506109
 JX196374.1	AK5	JX196374.1 | AK5 | Ursus maritimus (2b) | Alaska, USA		Ursus maritimus		2b			Alaska, USA	10.1073/pnas.1210506109
-GU573485.1	NK157143	GU573485.1 | NK157143 | Ursus_maritimus (2b) | Alaska, USA ~2.5ky		Ursus_maritimus		2b		~2.5ky	Alaska, USA	https://doi.org/10.1073/pnas.0914266107
-GU573488.1		GU573488.1 | Ursus_maritimus (2b) | Poolepynten, Norway ~120ky		Ursus_maritimus		2b		~120ky	Poolepynten, Norway	https://doi.org/10.1073/pnas.0914266107
+GU573485.1	NK157143	GU573485.1 | NK157143 | Ursus_maritimus (2b) | Alaska, USA ~2.5ky		Ursus maritimus		2b		~2.5ky	Alaska, USA	https://doi.org/10.1073/pnas.0914266107
+GU573488.1		GU573488.1 | Ursus_maritimus (2b) | Poolepynten, Norway ~120ky		Ursus maritimus		2b		~120ky	Poolepynten, Norway	https://doi.org/10.1073/pnas.0914266107
 KX641327.1	PUR-015 (PV1)	KX641327.1 | PUR-015 (PV1) | Ursus arctos (1) | Pozu la Veiga’l, Spain ~10.5ky		Ursus arctos		1		~10.5ky	Pozu la Veiga’l, Spain	https://onlinelibrary.wiley.com/doi/10.1111/mec.13800
 MF593958.1	SPA1	MF593958.1 | SPA1 | Ursus arctos (1) | Spain		Ursus arctos		1			Spain	https://doi.org/10.1073/pnas.1707279114
 EU497665.1		EU497665.1 | Ursus arctos (1) | Guzet, France		Ursus arctos		1			Guzet, France	https://doi.org/10.1073/pnas.0806143105
@@ -150,6 +150,8 @@ AF303110.1		AF303110.1 | Ursus arctos (4) | USA		Ursus arctos		4			USA	https://d
 OK512954.1	P98.5.374	OK512954.1 | P98.5.374 | Ursus arctos (4) | Edmonton, Canada ~31ky		Ursus arctos		4		~31ky	Edmonton, Canada	https://doi.org/10.1111/mec.16267
 AP012575.1	5046 (HB15)	AP012575.1 | 5046 (HB15) | Ursus arctos (4) | ~5ky		Ursus arctos		4		~5ky		https://doi.org/10.1093/molbev/mst077
 OK512980.1	DARD0371	OK512980.1 | DARD0371 | Ursus arctos (4) | JiLin Da'an Cave, China ~102ky		Ursus arctos		4		~102ky	JiLin Da'an Cave, China	https://doi.org/10.1111/mec.16267
+AP012592.1	TB01	AP012592.1 | TB01 | Ursus arctos (5) | Tibet		Ursus arctos		5			Tibet	https://doi.org/10.1093/molbev/mst077
+AP012593.1	TB02	AP012593.1 | TB02 | Ursus arctos (5) | Tibet		Ursus arctos		5			Tibet	https://doi.org/10.1093/molbev/mst077
 MW257206.1		MW257206.1 | Ursus arctos (isabellinus)		Ursus arctos		isabellinus				Unpublished
 MG066705.1		MG066705.1 | Ursus arctos (isabellinus) | Ladakh, India		Ursus arctos		isabellinus			Ladakh, India	https://doi.org/10.1098/rspb.2017.1804
 AF303109.1		AF303109.1 | Ursus americanus (B1) | USA		Ursus americanus		B1			USA	https://doi.org/10.1093/oxfordjournals.molbev.a004090
