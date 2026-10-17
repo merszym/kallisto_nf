@@ -53,16 +53,15 @@ KP202262.1		KP202262.1 | PLE | Panthera leo	Pantherinae	Panthera leo						https:
 KP001501.1		KP001501.1 | Panthera leo | India	Pantherinae	Panthera leo					India	https://doi.org/10.1038/srep30807
 NC_018053.1		NC_018053.1 | Panthera leo persica	Pantherinae	Panthera leo						
 KC834784.1		KC834784.1 | Panthera leo persica	Pantherinae	Panthera leo						https://doi.org/10.1186/1471-2164-14-572
-NC_010641.1		NC_010641.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus	Asia	Asia/Caucasus	EF551002		Japan	https://doi.org/10.1007/s11427-011-4219-1
-KJ866876.1		KJ866876.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus	Asia	Asia/Caucasus	North Chinese leopard		Japan	https://doi.org/10.3109/19401736.2014.936421
-MH588621.1	PP5	MH588621.1 | PP5 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia/Caucasus		~0.2ky	India	10.1186/s12862-018-1268-0
-MH588622.1	PP6	MH588622.1 | PP6 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia/Caucasus		~0.2ky	India	10.1186/s12862-018-1268-0
-MH588623.1	PP15	MH588623.1 | PP15 | Panthera pardus (Asia) | Thailand ~0.1ky	Pantherinae	Panthera pardus	Asia	Asia/Caucasus		~0.1ky	Thailand	10.1186/s12862-018-1268-0
-MH588627.1	PP32	MH588627.1 | PP32 | Panthera pardus (Asia) | Java, Indonesia ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia/Caucasus		~0.2ky	Java, Indonesia	10.1186/s12862-018-1268-0
-KP001507.1		KP001507.1 | Panthera pardus (Asia)	Pantherinae	Panthera pardus	Asia	Asia/Caucasus				
-MH588611.1	BAR001	MH588611.1 | BAR001 | Panthera pardus (Caucasus) | Mezmaiskaya Cave, Russia >35ky	Pantherinae	Panthera pardus	Caucasus	Asia/Caucasus		>35ky	Mezmaiskaya Cave, Russia	10.1186/s12862-018-1268-0
-MH588620.1	PP3	MH588620.1 | PP3 | Panthera pardus (SE-Asia) | India ~0.2ky	Pantherinae	Panthera pardus	SE-Asia	Asia/Caucasus		~0.2ky	India	10.1186/s12862-018-1268-0
-MH588628.1	PP35	MH588628.1 | PP35 | Panthera pardus (SE-Asia) | Sumatra, Indonesia ~0.2ky	Pantherinae	Panthera pardus	SE-Asia	Asia/Caucasus		~0.2ky	Sumatra, Indonesia	10.1186/s12862-018-1268-0
+KJ866876.1		KJ866876.1 | Panthera pardus (Asia) | Japan 	Pantherinae	Panthera pardus	Asia	Asia	North Chinese leopard		Japan	https://doi.org/10.3109/19401736.2014.936421
+MH588621.1	PP5	MH588621.1 | PP5 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia		~0.2ky	India	10.1186/s12862-018-1268-0
+MH588622.1	PP6	MH588622.1 | PP6 | Panthera pardus (Asia) | India ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia		~0.2ky	India	10.1186/s12862-018-1268-0
+MH588623.1	PP15	MH588623.1 | PP15 | Panthera pardus (Asia) | Thailand ~0.1ky	Pantherinae	Panthera pardus	Asia	Asia		~0.1ky	Thailand	10.1186/s12862-018-1268-0
+MH588627.1	PP32	MH588627.1 | PP32 | Panthera pardus (Asia) | Java, Indonesia ~0.2ky	Pantherinae	Panthera pardus	Asia	Asia		~0.2ky	Java, Indonesia	10.1186/s12862-018-1268-0
+KP001507.1		KP001507.1 | Panthera pardus (Asia)	Pantherinae	Panthera pardus	Asia	Asia				
+MH588611.1	BAR001	MH588611.1 | BAR001 | Panthera pardus (Caucasus) | Mezmaiskaya Cave, Russia >35ky	Pantherinae	Panthera pardus	Caucasus	Caucasus		>35ky	Mezmaiskaya Cave, Russia	10.1186/s12862-018-1268-0
+MH588620.1	PP3	MH588620.1 | PP3 | Panthera pardus (SE-Asia) | India ~0.2ky	Pantherinae	Panthera pardus	SE-Asia	SE-Asia		~0.2ky	India	10.1186/s12862-018-1268-0
+MH588628.1	PP35	MH588628.1 | PP35 | Panthera pardus (SE-Asia) | Sumatra, Indonesia ~0.2ky	Pantherinae	Panthera pardus	SE-Asia	SE-Asia		~0.2ky	Sumatra, Indonesia	10.1186/s12862-018-1268-0
 MH588617.1	N44005	MH588617.1 | N44005 | Panthera pardus (Europe) | Baumannshöhle, Germany ~40ky	Pantherinae	Panthera pardus		Europe		~40ky	Baumannshöhle, Germany	10.1186/s12862-018-1268-0
 MH588616.1	N43981	MH588616.1 | N43981 | Panthera pardus (Europe) | Baumannshöhle, Germany ~38ky	Pantherinae	Panthera pardus		Europe		~38ky	Baumannshöhle, Germany	10.1186/s12862-018-1268-0
 MH588615.1	N43974	MH588615.1 | N43974 | Panthera pardus (Europe) | Baumannshöhle, Germany ~40ky	Pantherinae	Panthera pardus		Europe		~40ky	Baumannshöhle, Germany	10.1186/s12862-018-1268-0
