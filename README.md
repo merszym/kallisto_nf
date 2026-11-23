@@ -66,4 +66,6 @@ Use the `-profile Canidae` flag to use the included Canidae mtDNA reference pane
 Kallisto index was created with 
 ```
 singularity exec https://depot.galaxyproject.org/singularity/kallisto:0.44.0--h7d86c95_2 kallisto index -k 21 -i GROUP_k21.idx GENOMES.fa
+cd bowtie_index/
+bowtie2-build ../genomes.fasta GROUP
 ```

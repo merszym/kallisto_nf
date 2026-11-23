@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v1.2]
+### Reference genomes updates
+- Rhinocerotidae: Add Xiao-Le Lei et al. 2026 mtDNA genomes and update clade nomenclature
+
 ## [v1.1]
 
 ### Updated Workflow
